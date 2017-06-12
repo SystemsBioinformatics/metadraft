@@ -1,0 +1,6621 @@
+{
+ "__idx__": {
+  "YAL012W": "bigg1-scer",
+  "YHR163W": "bigg1-scer",
+  "YOR011W": "bigg1-scer",
+  "YAL044C": "bigg1-scer",
+  "YMR323W": "bigg1-scer",
+  "YER060W_0_A": "bigg1-scer",
+  "YDR481C": "bigg1-scer",
+  "YER014W": "bigg1-scer",
+  "YMR205C": "bigg1-scer",
+  "YCR005C": "bigg1-scer",
+  "YPL040C": "bigg1-scer",
+  "YJL155C": "bigg1-scer",
+  "YGL037C": "bigg1-scer",
+  "YMR261C": "bigg1-scer",
+  "YHR007C": "bigg1-scer",
+  "YHR092C": "bigg1-scer",
+  "YPR160W": "bigg1-scer",
+  "YEL058W": "bigg1-scer",
+  "YDR297W": "bigg1-scer",
+  "YLR395C": "bigg1-scer",
+  "YLR348C": "bigg1-scer",
+  "YGR256W": "bigg1-scer",
+  "YEL042W": "bigg1-scer",
+  "YLR382C": "bigg1-scer",
+  "YKL188C": "bigg1-scer",
+  "YFL045C": "bigg1-scer",
+  "YMR015C": "bigg1-scer",
+  "YBL033C": "bigg1-scer",
+  "Q0085": "bigg1-scer",
+  "YBR117C": "bigg1-scer",
+  "YMR085W": "bigg1-scer",
+  "Q0080": "bigg1-scer",
+  "YGR194C": "bigg1-scer",
+  "YPL274W": "bigg1-scer",
+  "YAR073W": "bigg1-scer",
+  "YJL219W": "bigg1-scer",
+  "YEL051W": "bigg1-scer",
+  "YDR046C": "bigg1-scer",
+  "YKL203C": "bigg1-scer",
+  "YOR202W": "bigg1-scer",
+  "YGL245W": "bigg1-scer",
+  "YER081W": "bigg1-scer",
+  "YJL070C": "bigg1-scer",
+  "YNL241C": "bigg1-scer",
+  "YER070W": "bigg1-scer",
+  "YPL262W": "bigg1-scer",
+  "YPL036W": "bigg1-scer",
+  "YKL029C": "bigg1-scer",
+  "YHR025W": "bigg1-scer",
+  "YHL036W": "bigg1-scer",
+  "YIL074C": "bigg1-scer",
+  "YKL104C": "bigg1-scer",
+  "YCL040W": "bigg1-scer",
+  "YLR447C": "bigg1-scer",
+  "YOL058W": "bigg1-scer",
+  "YIR031C": "bigg1-scer",
+  "YCR012W": "bigg1-scer",
+  "YGL026C": "bigg1-scer",
+  "Q0275": "bigg1-scer",
+  "YPR074C": "bigg1-scer",
+  "YPR128C": "bigg1-scer",
+  "YDR354W": "bigg1-scer",
+  "YJR049C": "bigg1-scer",
+  "YGR020C": "bigg1-scer",
+  "YGR121C": "bigg1-scer",
+  "YDR536W": "bigg1-scer",
+  "YDR242W": "bigg1-scer",
+  "YJL198W": "bigg1-scer",
+  "YPL104W": "bigg1-scer",
+  "YAL054C": "bigg1-scer",
+  "YOR192C": "bigg1-scer",
+  "YER052C": "bigg1-scer",
+  "YDL185W": "bigg1-scer",
+  "YFR047C": "bigg1-scer",
+  "YGL062W": "bigg1-scer",
+  "YJL031C": "bigg1-scer",
+  "YER003C": "bigg1-scer",
+  "YBR252W": "bigg1-scer",
+  "YCL030C": "bigg1-scer",
+  "YDR503C": "bigg1-scer",
+  "YDL021W": "bigg1-scer",
+  "YDR399W": "bigg1-scer",
+  "YBR029C": "bigg1-scer",
+  "YBR263W": "bigg1-scer",
+  "YBR035C": "bigg1-scer",
+  "YOL086C": "bigg1-scer",
+  "YMR113W": "bigg1-scer",
+  "YML035C": "bigg1-scer",
+  "YMR084W": "bigg1-scer",
+  "YDR019C": "bigg1-scer",
+  "YGL155W": "bigg1-scer",
+  "YIL134W": "bigg1-scer",
+  "YGR010W": "bigg1-scer",
+  "YBR019C": "bigg1-scer",
+  "YDR380W": "bigg1-scer",
+  "YGR191W": "bigg1-scer",
+  "YGL008C": "bigg1-scer",
+  "YNL117W": "bigg1-scer",
+  "YJR130C": "bigg1-scer",
+  "YOR388C": "bigg1-scer",
+  "YKL141W": "bigg1-scer",
+  "YIL172C": "bigg1-scer",
+  "YJL134W": "bigg1-scer",
+  "YJR057W": "bigg1-scer",
+  "YHR104W": "bigg1-scer",
+  "YBL042C": "bigg1-scer",
+  "YHR011W": "bigg1-scer",
+  "YHR063C": "bigg1-scer",
+  "YGR240C": "bigg1-scer",
+  "YKL080W": "bigg1-scer",
+  "YLR377C": "bigg1-scer",
+  "YGL205W": "bigg1-scer",
+  "YIL125W": "bigg1-scer",
+  "YDL078C": "bigg1-scer",
+  "YKL194C": "bigg1-scer",
+  "YNR013C": "bigg1-scer",
+  "YPL148C": "bigg1-scer",
+  "YPL271W": "bigg1-scer",
+  "YLL061W": "bigg1-scer",
+  "YLR237W": "bigg1-scer",
+  "YDR531W": "bigg1-scer",
+  "YFL055W": "bigg1-scer",
+  "YOL136C": "bigg1-scer",
+  "YOR221C": "bigg1-scer",
+  "YPL214C": "bigg1-scer",
+  "YGR019W": "bigg1-scer",
+  "YGL191W": "bigg1-scer",
+  "YOL064C": "bigg1-scer",
+  "YDL142C": "bigg1-scer",
+  "YJL088W": "bigg1-scer",
+  "YKL024C": "bigg1-scer",
+  "YHR123W": "bigg1-scer",
+  "YDL174C": "bigg1-scer",
+  "YER091C": "bigg1-scer",
+  "YBR121C": "bigg1-scer",
+  "YLR209C": "bigg1-scer",
+  "YDL103C": "bigg1-scer",
+  "YML123C": "bigg1-scer",
+  "YCR098C": "bigg1-scer",
+  "YHL012W": "bigg1-scer",
+  "YML082W": "bigg1-scer",
+  "YNL267W": "bigg1-scer",
+  "YPL061W": "bigg1-scer",
+  "YBR296C": "bigg1-scer",
+  "YLR308W": "bigg1-scer",
+  "YDR454C": "bigg1-scer",
+  "YNL277W": "bigg1-scer",
+  "YER055C": "bigg1-scer",
+  "YPR176C": "bigg1-scer",
+  "YLR438W": "bigg1-scer",
+  "YJL052W": "bigg1-scer",
+  "YMR056C": "bigg1-scer",
+  "YDR226W": "bigg1-scer",
+  "YIL009W": "bigg1-scer",
+  "YGL186C": "bigg1-scer",
+  "YDR234W": "bigg1-scer",
+  "YLR305C": "bigg1-scer",
+  "YOL140W": "bigg1-scer",
+  "YIR029W": "bigg1-scer",
+  "YGR155W": "bigg1-scer",
+  "YBR036C": "bigg1-scer",
+  "YMR300C": "bigg1-scer",
+  "YGR032W": "bigg1-scer",
+  "YGR267C": "bigg1-scer",
+  "YGR125W": "bigg1-scer",
+  "YNL292W": "bigg1-scer",
+  "YLR342W": "bigg1-scer",
+  "YPR006C": "bigg1-scer",
+  "YCR028C": "bigg1-scer",
+  "YLR180W": "bigg1-scer",
+  "YML054C": "bigg1-scer",
+  "YAL023C": "bigg1-scer",
+  "YDL181W": "bigg1-scer",
+  "YHR074W": "bigg1-scer",
+  "YFR030W": "bigg1-scer",
+  "YBR256C": "bigg1-scer",
+  "YNR058W": "bigg1-scer",
+  "YOR236W": "bigg1-scer",
+  "YBR038W": "bigg1-scer",
+  "YBR244W": "bigg1-scer",
+  "YPL053C": "bigg1-scer",
+  "YMR246W": "bigg1-scer",
+  "YPR020W": "bigg1-scer",
+  "YLR027C": "bigg1-scer",
+  "YBR284W": "bigg1-scer",
+  "YLR089C": "bigg1-scer",
+  "YLR351C": "bigg1-scer",
+  "YPR036W": "bigg1-scer",
+  "YNL130C": "bigg1-scer",
+  "YHR018C": "bigg1-scer",
+  "YDR408C": "bigg1-scer",
+  "YLR157C": "bigg1-scer",
+  "YBR126C": "bigg1-scer",
+  "YLL041C": "bigg1-scer",
+  "YDR497C": "bigg1-scer",
+  "YGL202W": "bigg1-scer",
+  "YNL141W": "bigg1-scer",
+  "YMR220W": "bigg1-scer",
+  "YCL018W": "bigg1-scer",
+  "YBR294W": "bigg1-scer",
+  "YDL067C": "bigg1-scer",
+  "YJL130C": "bigg1-scer",
+  "YHR001W_0_A": "bigg1-scer",
+  "YKL060C": "bigg1-scer",
+  "YOL020W": "bigg1-scer",
+  "YOR222W": "bigg1-scer",
+  "YFL011W": "bigg1-scer",
+  "YEL021W": "bigg1-scer",
+  "YBL030C": "bigg1-scer",
+  "YMR256C": "bigg1-scer",
+  "YEL069C": "bigg1-scer",
+  "YJR159W": "bigg1-scer",
+  "YNL270C": "bigg1-scer",
+  "YJL071W": "bigg1-scer",
+  "YNL073W": "bigg1-scer",
+  "YOR303W": "bigg1-scer",
+  "YPL275W": "bigg1-scer",
+  "YMR013C": "bigg1-scer",
+  "YER073W": "bigg1-scer",
+  "YLR260W": "bigg1-scer",
+  "YPL117C": "bigg1-scer",
+  "YGR007W": "bigg1-scer",
+  "YKL152C": "bigg1-scer",
+  "YLR450W": "bigg1-scer",
+  "YBL098W": "bigg1-scer",
+  "YDL095W": "bigg1-scer",
+  "YOR270C": "bigg1-scer",
+  "YNL268W": "bigg1-scer",
+  "YHR020W": "bigg1-scer",
+  "YKR039W": "bigg1-scer",
+  "YJL139C": "bigg1-scer",
+  "YLL043W": "bigg1-scer",
+  "YPL258C": "bigg1-scer",
+  "YNR056C": "bigg1-scer",
+  "YNL052W": "bigg1-scer",
+  "YPL097W": "bigg1-scer",
+  "YDR268W": "bigg1-scer",
+  "YEL017C_1_A": "bigg1-scer",
+  "YJL221C": "bigg1-scer",
+  "YML100W": "bigg1-scer",
+  "YNL220W": "bigg1-scer",
+  "YMR293C": "bigg1-scer",
+  "YDR343C": "bigg1-scer",
+  "YJL214W": "bigg1-scer",
+  "YAL038W": "bigg1-scer",
+  "YCL064C": "bigg1-scer",
+  "YML126C": "bigg1-scer",
+  "YDR530C": "bigg1-scer",
+  "YJR152W": "bigg1-scer",
+  "YBR199W": "bigg1-scer",
+  "YJR109C": "bigg1-scer",
+  "YDL182W": "bigg1-scer",
+  "YER069W": "bigg1-scer",
+  "YJR148W": "bigg1-scer",
+  "YIL111W": "bigg1-scer",
+  "YOL097C": "bigg1-scer",
+  "YBR153W": "bigg1-scer",
+  "YLL062C": "bigg1-scer",
+  "YKR069W": "bigg1-scer",
+  "YPR033C": "bigg1-scer",
+  "YFR019W": "bigg1-scer",
+  "YML081C_0_A": "bigg1-scer",
+  "YLL018C": "bigg1-scer",
+  "YGL154C": "bigg1-scer",
+  "YPR062W": "bigg1-scer",
+  "YER023W": "bigg1-scer",
+  "YPL268W": "bigg1-scer",
+  "YCR034W": "bigg1-scer",
+  "YER060W": "bigg1-scer",
+  "YOR128C": "bigg1-scer",
+  "YBR069C": "bigg1-scer",
+  "YJR133W": "bigg1-scer",
+  "YBR176W": "bigg1-scer",
+  "YGL040C": "bigg1-scer",
+  "YLR133W": "bigg1-scer",
+  "YDL215C": "bigg1-scer",
+  "YML004C": "bigg1-scer",
+  "YPL057C": "bigg1-scer",
+  "YBR021W": "bigg1-scer",
+  "YGR255C": "bigg1-scer",
+  "YNL169C": "bigg1-scer",
+  "YNL104C": "bigg1-scer",
+  "YDL045C": "bigg1-scer",
+  "YJL153C": "bigg1-scer",
+  "YGR282C": "bigg1-scer",
+  "YKL085W": "bigg1-scer",
+  "Q0105": "bigg1-scer",
+  "YNR043W": "bigg1-scer",
+  "YOR360C": "bigg1-scer",
+  "YOR335C": "bigg1-scer",
+  "YGR244C": "bigg1-scer",
+  "YGR204W": "bigg1-scer",
+  "YJL166W": "bigg1-scer",
+  "YJL005W": "bigg1-scer",
+  "YPL028W": "bigg1-scer",
+  "YFL001W": "bigg1-scer",
+  "YKL217W": "bigg1-scer",
+  "YJR016C": "bigg1-scer",
+  "YDL100C": "bigg1-scer",
+  "YOR095C": "bigg1-scer",
+  "YGR185C": "bigg1-scer",
+  "YPL265W": "bigg1-scer",
+  "YMR271C": "bigg1-scer",
+  "YDR441C": "bigg1-scer",
+  "YBR034C": "bigg1-scer",
+  "YMR296C": "bigg1-scer",
+  "YPL023C": "bigg1-scer",
+  "YER090W": "bigg1-scer",
+  "YHL011C": "bigg1-scer",
+  "YPL212C": "bigg1-scer",
+  "YMR145C": "bigg1-scer",
+  "YNL280C": "bigg1-scer",
+  "YDR007W": "bigg1-scer",
+  "YIL160C": "bigg1-scer",
+  "YNR072W": "bigg1-scer",
+  "YML022W": "bigg1-scer",
+  "YDR062W": "bigg1-scer",
+  "YDR208W": "bigg1-scer",
+  "YMR303C": "bigg1-scer",
+  "YBR221C": "bigg1-scer",
+  "YER087W": "bigg1-scer",
+  "YHR190W": "bigg1-scer",
+  "YGL063W": "bigg1-scer",
+  "YDR529C": "bigg1-scer",
+  "YEL047C": "bigg1-scer",
+  "YBR205W": "bigg1-scer",
+  "YOR321W": "bigg1-scer",
+  "YBR003W": "bigg1-scer",
+  "YDL085W": "bigg1-scer",
+  "YNR033W": "bigg1-scer",
+  "YGL256W": "bigg1-scer",
+  "YOR130C": "bigg1-scer",
+  "YER099C": "bigg1-scer",
+  "YBL013W": "bigg1-scer",
+  "YOR171C": "bigg1-scer",
+  "YNL256W": "bigg1-scer",
+  "YLR174W": "bigg1-scer",
+  "YGR286C": "bigg1-scer",
+  "YCR037C": "bigg1-scer",
+  "YAR035W": "bigg1-scer",
+  "YLR359W": "bigg1-scer",
+  "YJR143C": "bigg1-scer",
+  "YMR217W": "bigg1-scer",
+  "YER170W": "bigg1-scer",
+  "YBR039W": "bigg1-scer",
+  "YGR170W": "bigg1-scer",
+  "YKL004W": "bigg1-scer",
+  "YDL205C": "bigg1-scer",
+  "YNL142W": "bigg1-scer",
+  "YKL192C": "bigg1-scer",
+  "YOR209C": "bigg1-scer",
+  "YHR019C": "bigg1-scer",
+  "YHR094C": "bigg1-scer",
+  "Q0045": "bigg1-scer",
+  "YLR258W": "bigg1-scer",
+  "YGL125W": "bigg1-scer",
+  "YDR256C": "bigg1-scer",
+  "YIL078W": "bigg1-scer",
+  "YLR164W": "bigg1-scer",
+  "YGL009C": "bigg1-scer",
+  "YLR028C": "bigg1-scer",
+  "YDL055C": "bigg1-scer",
+  "YBR115C": "bigg1-scer",
+  "YKL055C": "bigg1-scer",
+  "YGR192C": "bigg1-scer",
+  "YFL053W": "bigg1-scer",
+  "YBL045C": "bigg1-scer",
+  "YGR043C": "bigg1-scer",
+  "YAR071W": "bigg1-scer",
+  "YLR060W": "bigg1-scer",
+  "YOR184W": "bigg1-scer",
+  "YJL167W": "bigg1-scer",
+  "Q0130": "bigg1-scer",
+  "YBR149W": "bigg1-scer",
+  "YKL035W": "bigg1-scer",
+  "YPR047W": "bigg1-scer",
+  "YOR241W": "bigg1-scer",
+  "YDR044W": "bigg1-scer",
+  "YLR056W": "bigg1-scer",
+  "YKR080W": "bigg1-scer",
+  "YKL181W": "bigg1-scer",
+  "YIL094C": "bigg1-scer",
+  "YHR037W": "bigg1-scer",
+  "YIR037W": "bigg1-scer",
+  "YGL012W": "bigg1-scer",
+  "YDR178W": "bigg1-scer",
+  "YLR432W": "bigg1-scer",
+  "YGR175C": "bigg1-scer",
+  "YDR353W": "bigg1-scer",
+  "YIR027C": "bigg1-scer",
+  "YJR073C": "bigg1-scer",
+  "YHR183W": "bigg1-scer",
+  "YPL266W": "bigg1-scer",
+  "YGL067W": "bigg1-scer",
+  "YDR074W": "bigg1-scer",
+  "YGL077C": "bigg1-scer",
+  "YOR332W": "bigg1-scer",
+  "YBL099W": "bigg1-scer",
+  "YGR208W": "bigg1-scer",
+  "Q0250": "bigg1-scer",
+  "YKL019W": "bigg1-scer",
+  "YNL316C": "bigg1-scer",
+  "YFR055W": "bigg1-scer",
+  "YMR101C": "bigg1-scer",
+  "YOL156W": "bigg1-scer",
+  "YMR267W": "bigg1-scer",
+  "YIL116W": "bigg1-scer",
+  "YOR190W": "bigg1-scer",
+  "YKR009C": "bigg1-scer",
+  "YGR094W": "bigg1-scer",
+  "YJR103W": "bigg1-scer",
+  "YBR265W": "bigg1-scer",
+  "YER043C": "bigg1-scer",
+  "YDR232W": "bigg1-scer",
+  "YGR124W": "bigg1-scer",
+  "YJR158W": "bigg1-scer",
+  "YGR264C": "bigg1-scer",
+  "YHR137W": "bigg1-scer",
+  "YOR348C": "bigg1-scer",
+  "YGL248W": "bigg1-scer",
+  "YGR292W": "bigg1-scer",
+  "YGL055W": "bigg1-scer",
+  "YDL245C": "bigg1-scer",
+  "YJR025C": "bigg1-scer",
+  "YBR092C": "bigg1-scer",
+  "YOR393W": "bigg1-scer",
+  "YBR145W": "bigg1-scer",
+  "YBR068C": "bigg1-scer",
+  "YOL061W": "bigg1-scer",
+  "YLR195C": "bigg1-scer",
+  "YMR250W": "bigg1-scer",
+  "YDR483W": "bigg1-scer",
+  "YFL030W": "bigg1-scer",
+  "YGR254W": "bigg1-scer",
+  "YER061C": "bigg1-scer",
+  "YBR020W": "bigg1-scer",
+  "YLR231C": "bigg1-scer",
+  "YKL184W": "bigg1-scer",
+  "YJR139C": "bigg1-scer",
+  "YKL016C": "bigg1-scer",
+  "YPL111W": "bigg1-scer",
+  "YER183C": "bigg1-scer",
+  "YLR160C": "bigg1-scer",
+  "YGR199W": "bigg1-scer",
+  "YDL066W": "bigg1-scer",
+  "YKR093W": "bigg1-scer",
+  "YBR085W": "bigg1-scer",
+  "YBR184W": "bigg1-scer",
+  "YKL026C": "bigg1-scer",
+  "YNR050C": "bigg1-scer",
+  "YJR078W": "bigg1-scer",
+  "YPL188W": "bigg1-scer",
+  "YGR180C": "bigg1-scer",
+  "YKL182W": "bigg1-scer",
+  "YOR374W": "bigg1-scer",
+  "YMR202W": "bigg1-scer",
+  "YKL001C": "bigg1-scer",
+  "YML110C": "bigg1-scer",
+  "YLR372W": "bigg1-scer",
+  "YPL276W": "bigg1-scer",
+  "YAR075W": "bigg1-scer",
+  "YJL101C": "bigg1-scer",
+  "YBR248C": "bigg1-scer",
+  "YHL016C": "bigg1-scer",
+  "YLR295C": "bigg1-scer",
+  "YDL168W": "bigg1-scer",
+  "YCR053W": "bigg1-scer",
+  "YDR236C": "bigg1-scer",
+  "YKL106W": "bigg1-scer",
+  "YLR307W": "bigg1-scer",
+  "YOL143C": "bigg1-scer",
+  "YIL053W": "bigg1-scer",
+  "YGL148W": "bigg1-scer",
+  "YNL192W": "bigg1-scer",
+  "YKR053C": "bigg1-scer",
+  "YLR420W": "bigg1-scer",
+  "YOL056W": "bigg1-scer",
+  "YHR144C": "bigg1-scer",
+  "YLR158C": "bigg1-scer",
+  "YJR077C": "bigg1-scer",
+  "YGR088W": "bigg1-scer",
+  "YBR002C": "bigg1-scer",
+  "YLR299W": "bigg1-scer",
+  "YOR176W": "bigg1-scer",
+  "YOL049W": "bigg1-scer",
+  "YDR158W": "bigg1-scer",
+  "YMR189W": "bigg1-scer",
+  "YHR128W": "bigg1-scer",
+  "YDR538W": "bigg1-scer",
+  "YMR120C": "bigg1-scer",
+  "YBR298C": "bigg1-scer",
+  "YOR143C": "bigg1-scer",
+  "YDL052C": "bigg1-scer",
+  "YKR061W": "bigg1-scer",
+  "YHR039C_0_A": "bigg1-scer",
+  "YIL168W": "bigg1-scer",
+  "YML075C": "bigg1-scer",
+  "YCR024C": "bigg1-scer",
+  "YDR050C": "bigg1-scer",
+  "YGR061C": "bigg1-scer",
+  "YLR355C": "bigg1-scer",
+  "YCR032W": "bigg1-scer",
+  "YPR081C": "bigg1-scer",
+  "YMR118C": "bigg1-scer",
+  "YPL134C": "bigg1-scer",
+  "YOL096C": "bigg1-scer",
+  "YDR284C": "bigg1-scer",
+  "YPR121W": "bigg1-scer",
+  "YBR218C": "bigg1-scer",
+  "YMR272C": "bigg1-scer",
+  "YML120C": "bigg1-scer",
+  "YHR106W": "bigg1-scer",
+  "YKL132C": "bigg1-scer",
+  "YCL004W": "bigg1-scer",
+  "YHR208W": "bigg1-scer",
+  "YAL062W": "bigg1-scer",
+  "YBL015W": "bigg1-scer",
+  "YEL027W": "bigg1-scer",
+  "YDL171C": "bigg1-scer",
+  "YGR183C": "bigg1-scer",
+  "YBL076C": "bigg1-scer",
+  "YPR191W": "bigg1-scer",
+  "YJR010W": "bigg1-scer",
+  "YBR041W": "bigg1-scer",
+  "YFL018C": "bigg1-scer",
+  "YOR168W": "bigg1-scer",
+  "YJR051W": "bigg1-scer",
+  "YPL273W": "bigg1-scer",
+  "YDR261C": "bigg1-scer",
+  "YKL218C": "bigg1-scer",
+  "YNL009W": "bigg1-scer",
+  "YER065C": "bigg1-scer",
+  "YEL011W": "bigg1-scer",
+  "YLR300W": "bigg1-scer",
+  "YDR037W": "bigg1-scer",
+  "YER178W": "bigg1-scer",
+  "YDL247W": "bigg1-scer",
+  "YFL022C": "bigg1-scer",
+  "YDR047W": "bigg1-scer",
+  "YDR321W": "bigg1-scer",
+  "YNR001C": "bigg1-scer",
+  "YNL071W": "bigg1-scer",
+  "YDR147W": "bigg1-scer",
+  "YDL093W": "bigg1-scer",
+  "YFL017C": "bigg1-scer",
+  "YKL148C": "bigg1-scer",
+  "YPL234C": "bigg1-scer",
+  "YKL216W": "bigg1-scer",
+  "YER086W": "bigg1-scer",
+  "YGL001C": "bigg1-scer",
+  "YBR291C": "bigg1-scer",
+  "YJR160C": "bigg1-scer",
+  "YGR012W": "bigg1-scer",
+  "YAR015W": "bigg1-scer",
+  "YOR100C": "bigg1-scer",
+  "YOR136W": "bigg1-scer",
+  "YKR097W": "bigg1-scer",
+  "YPL172C": "bigg1-scer",
+  "YNL037C": "bigg1-scer",
+  "YKL211C": "bigg1-scer",
+  "YDL131W": "bigg1-scer",
+  "YMR054W": "bigg1-scer",
+  "YIL107C": "bigg1-scer",
+  "YER053C": "bigg1-scer",
+  "YIR034C": "bigg1-scer",
+  "YLR081W": "bigg1-scer",
+  "YCL050C": "bigg1-scer",
+  "YLR303W": "bigg1-scer",
+  "YML070W": "bigg1-scer",
+  "YGR087C": "bigg1-scer",
+  "YJL026W": "bigg1-scer",
+  "YOL103W": "bigg1-scer",
+  "YCL025C": "bigg1-scer",
+  "YNR034W": "bigg1-scer",
+  "YMR108W": "bigg1-scer",
+  "YDR272W": "bigg1-scer",
+  "YGR289C": "bigg1-scer",
+  "YGR157W": "bigg1-scer",
+  "YNL318C": "bigg1-scer",
+  "YBR196C": "bigg1-scer",
+  "YMR083W": "bigg1-scer",
+  "YGR147C": "bigg1-scer",
+  "YOL033W": "bigg1-scer",
+  "YMR306W": "bigg1-scer",
+  "YCR073W_0_A": "bigg1-scer",
+  "YBR018C": "bigg1-scer",
+  "YLR142W": "bigg1-scer",
+  "YBR006W": "bigg1-scer",
+  "YLR038C": "bigg1-scer",
+  "YDL040C": "bigg1-scer",
+  "YDR035W": "bigg1-scer",
+  "YHR068W": "bigg1-scer",
+  "YCR036W": "bigg1-scer",
+  "YGR287C": "bigg1-scer",
+  "YER015W": "bigg1-scer",
+  "YBR166C": "bigg1-scer",
+  "YMR170C": "bigg1-scer",
+  "YIL155C": "bigg1-scer",
+  "YGR171C": "bigg1-scer",
+  "YJR121W": "bigg1-scer",
+  "YGR055W": "bigg1-scer",
+  "YDR502C": "bigg1-scer",
+  "YGR065C": "bigg1-scer",
+  "YER062C": "bigg1-scer",
+  "YCR024C_0_A": "bigg1-scer",
+  "YLR245C": "bigg1-scer",
+  "YPR026W": "bigg1-scer",
+  "YNR016C": "bigg1-scer",
+  "YLR070C": "bigg1-scer",
+  "YBR127C": "bigg1-scer",
+  "YBR023C": "bigg1-scer",
+  "YGL184C": "bigg1-scer",
+  "YBR249C": "bigg1-scer",
+  "YLR155C": "bigg1-scer",
+  "YPL147W": "bigg1-scer",
+  "YDR341C": "bigg1-scer",
+  "YBR084W": "bigg1-scer",
+  "YDR127W": "bigg1-scer",
+  "YGR202C": "bigg1-scer",
+  "YEL063C": "bigg1-scer",
+  "YDL090C": "bigg1-scer",
+  "YKL120W": "bigg1-scer",
+  "YPR183W": "bigg1-scer",
+  "YJL045W": "bigg1-scer",
+  "YGR248W": "bigg1-scer",
+  "YKL127W": "bigg1-scer",
+  "YPR001W": "bigg1-scer",
+  "YMR011W": "bigg1-scer",
+  "YEL024W": "bigg1-scer",
+  "YJL126W": "bigg1-scer",
+  "YKL067W": "bigg1-scer",
+  "YDL004W": "bigg1-scer",
+  "YJR009C": "bigg1-scer",
+  "YPR145W": "bigg1-scer",
+  "YDR023W": "bigg1-scer",
+  "YOR375C": "bigg1-scer",
+  "YOR347C": "bigg1-scer",
+  "YLR092W": "bigg1-scer",
+  "YML056C": "bigg1-scer",
+  "YDR072C": "bigg1-scer",
+  "YJL200C": "bigg1-scer",
+  "YDR298C": "bigg1-scer",
+  "YOL077W_1_A": "bigg1-scer",
+  "YIL020C": "bigg1-scer",
+  "YBR208C": "bigg1-scer",
+  "YOL059W": "bigg1-scer",
+  "YOR099W": "bigg1-scer",
+  "YBL068W": "bigg1-scer",
+  "YHR026W": "bigg1-scer",
+  "YPL160W": "bigg1-scer",
+  "YBR011C": "bigg1-scer",
+  "YGR037C": "bigg1-scer",
+  "YLR172C": "bigg1-scer",
+  "YPL091W": "bigg1-scer",
+  "YBL039C": "bigg1-scer",
+  "YPR113W": "bigg1-scer",
+  "YML096W": "bigg1-scer",
+  "YPR138C": "bigg1-scer",
+  "YOR323C": "bigg1-scer",
+  "YDR300C": "bigg1-scer",
+  "YML106W": "bigg1-scer",
+  "YGR060W": "bigg1-scer",
+  "YMR169C": "bigg1-scer",
+  "YLR240W": "bigg1-scer",
+  "YER026C": "bigg1-scer",
+  "YPR069C": "bigg1-scer",
+  "YMR105C": "bigg1-scer",
+  "YJL216C": "bigg1-scer",
+  "YJR095W": "bigg1-scer",
+  "YML042W": "bigg1-scer",
+  "YOR142W": "bigg1-scer",
+  "YPL281C": "bigg1-scer",
+  "YOR040W": "bigg1-scer",
+  "YFR033C": "bigg1-scer",
+  "YEL046C": "bigg1-scer",
+  "YPR035W": "bigg1-scer",
+  "YDL022W": "bigg1-scer",
+  "YFR025C": "bigg1-scer",
+  "YLR044C": "bigg1-scer",
+  "YHR096C": "bigg1-scer",
+  "YDL210W": "bigg1-scer",
+  "YPR060C": "bigg1-scer",
+  "YML008C": "bigg1-scer",
+  "YOR074C": "bigg1-scer",
+  "YOR071C": "bigg1-scer",
+  "YLR146C": "bigg1-scer",
+  "YHR174W": "bigg1-scer",
+  "YNR057C": "bigg1-scer",
+  "YJR105W": "bigg1-scer",
+  "YCL009C": "bigg1-scer",
+  "YJL121C": "bigg1-scer",
+  "YMR208W": "bigg1-scer",
+  "YNL247W": "bigg1-scer",
+  "YNL029C": "bigg1-scer",
+  "YDR322C_2_A": "bigg1-scer",
+  "YIL145C": "bigg1-scer",
+  "YOL126C": "bigg1-scer",
+  "YEL041W": "bigg1-scer",
+  "YLR058C": "bigg1-scer",
+  "YJR137C": "bigg1-scer",
+  "YNR012W": "bigg1-scer",
+  "YLR134W": "bigg1-scer",
+  "YDR111C": "bigg1-scer",
+  "YDR377W": "bigg1-scer",
+  "YLR153C": "bigg1-scer",
+  "YHR091C": "bigg1-scer",
+  "YHR072W": "bigg1-scer",
+  "YBR132C": "bigg1-scer",
+  "YPL231W": "bigg1-scer",
+  "YMR062C": "bigg1-scer",
+  "YIL066C": "bigg1-scer",
+  "YOR317W": "bigg1-scer",
+  "YGL253W": "bigg1-scer",
+  "YFR015C": "bigg1-scer",
+  "YDR345C": "bigg1-scer",
+  "YHL032C": "bigg1-scer",
+  "YOR108W": "bigg1-scer",
+  "YNR041C": "bigg1-scer",
+  "YJL068C": "bigg1-scer",
+  "YLR138W": "bigg1-scer",
+  "YDR148C": "bigg1-scer",
+  "YHR046C": "bigg1-scer",
+  "YDR400W": "bigg1-scer",
+  "YHR216W": "bigg1-scer",
+  "YOR278W": "bigg1-scer",
+  "YOL052C": "bigg1-scer",
+  "YDR305C": "bigg1-scer",
+  "YHR051W": "bigg1-scer",
+  "YDR342C": "bigg1-scer",
+  "YPL078C": "bigg1-scer",
+  "YPR167C": "bigg1-scer",
+  "YDR508C": "bigg1-scer",
+  "YER056C": "bigg1-scer",
+  "YGL234W": "bigg1-scer",
+  "YOL055C": "bigg1-scer",
+  "YLR304C": "bigg1-scer",
+  "YFR053C": "bigg1-scer",
+  "YOR065W": "bigg1-scer",
+  "YDR001C": "bigg1-scer",
+  "YIL162W": "bigg1-scer",
+  "YDR294C": "bigg1-scer",
+  "YGL187C": "bigg1-scer",
+  "YIR032C": "bigg1-scer",
+  "YBR001C": "bigg1-scer",
+  "YLR354C": "bigg1-scer",
+  "YBR299W": "bigg1-scer",
+  "YJR066W": "bigg1-scer",
+  "YLR328W": "bigg1-scer",
+  "YLR100W": "bigg1-scer",
+  "YIR028W": "bigg1-scer"
+ },
+ "bigg1-scer": {
+  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg1",
+  "genbank_in": [
+   "Saccharomyces_cerevisiae_S288c-(BK006935.2).gbff",
+   "Saccharomyces_cerevisiae_S288c-(BK006935.2)-mito.gbff"
+  ],
+  "gene2reaction": {
+   "YAL012W": [
+    "R_CYSTGL"
+   ],
+   "YHR163W": [
+    "R_PGL"
+   ],
+   "YOR011W": [
+    "R_ZYMSTt",
+    "R_ERGSTt"
+   ],
+   "YDR050C": [
+    "R_TPI"
+   ],
+   "YJL155C": [
+    "R_FBP26"
+   ],
+   "YLL062C": [
+    "R_HCYSMT"
+   ],
+   "YER060W_0_A": [
+    "R_CSNt2",
+    "R_ADEt2",
+    "R_GUAt2r"
+   ],
+   "YDR481C": [
+    "R_AKP1"
+   ],
+   "YER014W": [
+    "R_PPPGOm"
+   ],
+   "YMR205C": [
+    "R_PFK_3",
+    "R_PFK",
+    "R_PFK_2"
+   ],
+   "YCR005C": [
+    "R_CSp"
+   ],
+   "YPL040C": [
+    "R_ILETRSm"
+   ],
+   "YMR323W": [
+    "R_ENO"
+   ],
+   "YGL037C": [
+    "R_NNAMrm",
+    "R_NNAMr"
+   ],
+   "YHR007C": [
+    "R_LNS14DM"
+   ],
+   "YHR092C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YEL058W": [
+    "R_PGAMT",
+    "R_ACGAMPM"
+   ],
+   "YLR395C": [
+    "R_CYOOm"
+   ],
+   "YLR348C": [
+    "R_DICtm",
+    "R_SUCCtm",
+    "R_MALtm"
+   ],
+   "YGR256W": [
+    "R_GND"
+   ],
+   "YEL042W": [
+    "R_NDP3g"
+   ],
+   "YLR382C": [
+    "R_LEUTRSm"
+   ],
+   "YKL188C": [
+    "R_FA140COAabcp",
+    "R_FA182COAabcp",
+    "R_FA160COAabcp",
+    "R_FA141COAabcp",
+    "R_FA181COAabcp",
+    "R_FA180COAabcp",
+    "R_FA161COAabcp"
+   ],
+   "YFL045C": [
+    "R_PMANM"
+   ],
+   "YMR015C": [
+    "R_C22STDS"
+   ],
+   "YBL033C": [
+    "R_GTPCII"
+   ],
+   "Q0085": [
+    "R_ATPS3m"
+   ],
+   "YBR117C": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "YMR085W": [
+    "R_GF6PTA"
+   ],
+   "Q0080": [
+    "R_ATPS3m"
+   ],
+   "YGR194C": [
+    "R_XYLK"
+   ],
+   "YPL274W": [
+    "R_AMETt2"
+   ],
+   "YPL258C": [
+    "R_PMPK",
+    "R_HMPK1"
+   ],
+   "YJL219W": [
+    "R_GALt2",
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YEL051W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YDR046C": [
+    "R_CYSt2r",
+    "R_PHEt2r",
+    "R_TRPt2r",
+    "R_ILEt2r",
+    "R_LEUt2r",
+    "R_METt2r",
+    "R_VALt2r",
+    "R_TYRt2r"
+   ],
+   "YPL266W": [
+    "R_OHPHM6n"
+   ],
+   "YOR202W": [
+    "R_IGPDH"
+   ],
+   "YGL245W": [
+    "R_GLUTRS"
+   ],
+   "YDR178W": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YJL070C": [
+    "R_AMPN"
+   ],
+   "YNL241C": [
+    "R_G6PDH2"
+   ],
+   "YER070W": [
+    "R_RNDR2",
+    "R_RNDR1n",
+    "R_RNDR1",
+    "R_RNDR4",
+    "R_RNDR4n",
+    "R_RNDR2n",
+    "R_RNDR3n",
+    "R_RNDR3"
+   ],
+   "YPL262W": [
+    "R_FUMm",
+    "R_FUM"
+   ],
+   "YPL036W": [
+    "R_ATPS"
+   ],
+   "YKL029C": [
+    "R_ME2m",
+    "R_ME1m"
+   ],
+   "YHR025W": [
+    "R_HSK"
+   ],
+   "YHL036W": [
+    "R_METt2r"
+   ],
+   "YML056C": [
+    "R_IMPD"
+   ],
+   "YIL074C": [
+    "R_PGCD"
+   ],
+   "YOR388C": [
+    "R_FDH"
+   ],
+   "YKL104C": [
+    "R_GF6PTA"
+   ],
+   "YCL040W": [
+    "R_GLUK",
+    "R_HEX1"
+   ],
+   "YLR447C": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YOL058W": [
+    "R_ARGSSr"
+   ],
+   "YIR031C": [
+    "R_MALSp"
+   ],
+   "YCR012W": [
+    "R_PGK"
+   ],
+   "YGL026C": [
+    "R_TRPS1"
+   ],
+   "Q0275": [
+    "R_CYOOm"
+   ],
+   "YPR074C": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "YPR128C": [
+    "R_ATPtp_H",
+    "R_ATP2tp_H"
+   ],
+   "YGR244C": [
+    "R_SUCOASm",
+    "R_ITCOALm"
+   ],
+   "YDR354W": [
+    "R_ANPRT"
+   ],
+   "YJR049C": [
+    "R_NADK",
+    "R_NADKm"
+   ],
+   "YGR020C": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YGR121C": [
+    "R_NH4t"
+   ],
+   "YDR536W": [
+    "R_GALt2",
+    "R_GLUt2r",
+    "R_GLCt1"
+   ],
+   "YCL030C": [
+    "R_PRAMPC",
+    "R_HISTD",
+    "R_PRATPP"
+   ],
+   "YDR242W": [
+    "R_AMID",
+    "R_AMID3",
+    "R_AMID2"
+   ],
+   "YPL104W": [
+    "R_ASPTRSm"
+   ],
+   "YAL054C": [
+    "R_ACSp",
+    "R_ACSm"
+   ],
+   "YOR192C": [
+    "R_THMt2"
+   ],
+   "YER052C": [
+    "R_ASPKi"
+   ],
+   "YCR034W": [
+    "R_FAS240_L",
+    "R_13GS"
+   ],
+   "YFR047C": [
+    "R_NNDPR",
+    "R_NNDPRm"
+   ],
+   "YGL062W": [
+    "R_PC"
+   ],
+   "YJL031C": [
+    "R_HBZOPT6"
+   ],
+   "YER003C": [
+    "R_MAN6PI"
+   ],
+   "YBR252W": [
+    "R_DUTPDP"
+   ],
+   "YER086W": [
+    "R_THRD_Lm"
+   ],
+   "YDR503C": [
+    "R_LPP_SC",
+    "R_DAGPYP_SC"
+   ],
+   "YDL021W": [
+    "R_PGM"
+   ],
+   "YBR069C": [
+    "R_CYSt2r",
+    "R_TRPt2r",
+    "R_ILEt2r",
+    "R_HISt2r",
+    "R_LEUt2r",
+    "R_THRt2r",
+    "R_VALt2r",
+    "R_TYRt2r"
+   ],
+   "YDL185W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YBR029C": [
+    "R_DASYNm_SC",
+    "R_DASYN_SC"
+   ],
+   "YBR263W": [
+    "R_GHMT2rm"
+   ],
+   "YBR035C": [
+    "R_PYDXNO",
+    "R_PYDXO",
+    "R_PYAM5PO",
+    "R_PDX5PO"
+   ],
+   "YOL086C": [
+    "R_ALCD2x"
+   ],
+   "YMR113W": [
+    "R_THFGLUS"
+   ],
+   "YML035C": [
+    "R_AMPN",
+    "R_AMPDA"
+   ],
+   "YMR084W": [
+    "R_GF6PTA"
+   ],
+   "YDR019C": [
+    "R_GCCam",
+    "R_THFATm",
+    "R_GCCbim",
+    "R_GCC2bim",
+    "R_GCCcm",
+    "R_GCC2cm",
+    "R_GCC2am",
+    "R_GLYCLm"
+   ],
+   "YGR010W": [
+    "R_NMNAT"
+   ],
+   "YBR019C": [
+    "R_UDPG4E"
+   ],
+   "YML120C": [
+    "R_NADH2_u6m"
+   ],
+   "YDR380W": [
+    "R_INDPYRD"
+   ],
+   "YGR191W": [
+    "R_HISt2r"
+   ],
+   "YGL008C": [
+    "R_ATPS"
+   ],
+   "YJR130C": [
+    "R_METB1"
+   ],
+   "YDR035W": [
+    "R_DDPAm",
+    "R_DDPA"
+   ],
+   "YKL141W": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YIL172C": [
+    "R_MALT"
+   ],
+   "YJL134W": [
+    "R_SBPP1",
+    "R_SBPP2"
+   ],
+   "YBL068W": [
+    "R_PRPPS"
+   ],
+   "YJR057W": [
+    "R_DTMPK"
+   ],
+   "YHR104W": [
+    "R_ARABR",
+    "R_ALCD19y",
+    "R_SBTR",
+    "R_XYLR"
+   ],
+   "YBL042C": [
+    "R_URIt2"
+   ],
+   "YHR011W": [
+    "R_SERTRS"
+   ],
+   "YHR063C": [
+    "R_DPR"
+   ],
+   "YGR240C": [
+    "R_PFK_3",
+    "R_PFK",
+    "R_PFK_2"
+   ],
+   "YKL080W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YLR377C": [
+    "R_FBP"
+   ],
+   "YGL205W": [
+    "R_ACOAO9p",
+    "R_ACOAO5p",
+    "R_ACOAO6p",
+    "R_ACOAO7p",
+    "R_ACOAO8p",
+    "R_ACOAO4p"
+   ],
+   "YCL004W": [
+    "R_CDPDGPm_SC"
+   ],
+   "YDL078C": [
+    "R_MDHp"
+   ],
+   "YKL194C": [
+    "R_THRTRSm"
+   ],
+   "YNR013C": [
+    "R_PIt2r"
+   ],
+   "YPL148C": [
+    "R_ACPSm"
+   ],
+   "YPL271W": [
+    "R_ATPS3m"
+   ],
+   "YLL061W": [
+    "R_MMETt2"
+   ],
+   "YLR237W": [
+    "R_THMt2"
+   ],
+   "YDR531W": [
+    "R_PNTK"
+   ],
+   "YFL055W": [
+    "R_GLUt2r",
+    "R_SERt2r",
+    "R_ASPt2r"
+   ],
+   "YOL136C": [
+    "R_PFK26"
+   ],
+   "YOR221C": [
+    "R_FAS180ACPm",
+    "R_FAS80ACPm_L",
+    "R_MCOATAm",
+    "R_FAS120ACPm",
+    "R_FAS181ACPm",
+    "R_FAS140ACPm",
+    "R_FAS141ACPm",
+    "R_FAS160ACPm",
+    "R_FAS100ACPm",
+    "R_FAS161ACPm",
+    "R_FAS182ACPm"
+   ],
+   "YPL214C": [
+    "R_HETZK",
+    "R_TMPPP"
+   ],
+   "YGR019W": [
+    "R_ABTA"
+   ],
+   "YGL191W": [
+    "R_CYOOm"
+   ],
+   "YOL064C": [
+    "R_BPNT"
+   ],
+   "YDL142C": [
+    "R_CLPNSm_SC"
+   ],
+   "YJL088W": [
+    "R_OCBTi"
+   ],
+   "YKL024C": [
+    "R_UMPK",
+    "R_UMPKn",
+    "R_URIDK2r",
+    "R_URIDK2rn"
+   ],
+   "YHR123W": [
+    "R_ETHAPT_SC",
+    "R_DAGCPT_SC"
+   ],
+   "YDL174C": [
+    "R_D_LACDm"
+   ],
+   "YER091C": [
+    "R_MHPGLUT",
+    "R_METS"
+   ],
+   "YBR121C": [
+    "R_GLYTRS"
+   ],
+   "YLR209C": [
+    "R_PUNP3m",
+    "R_PUNP1m",
+    "R_DURIPP",
+    "R_PUNP7",
+    "R_PUNP6",
+    "R_PUNP5",
+    "R_PUNP1",
+    "R_PUNP4",
+    "R_PUNP3",
+    "R_PUNP2",
+    "R_TMDPP"
+   ],
+   "YDL103C": [
+    "R_UDPACGLP"
+   ],
+   "YBR011C": [
+    "R_PPA"
+   ],
+   "YDL171C": [
+    "R_GLUSx"
+   ],
+   "YML082W": [
+    "R_SHSL4r"
+   ],
+   "YNL267W": [
+    "R_PIN4Kn_SC",
+    "R_PIN4K_SC"
+   ],
+   "YPL061W": [
+    "R_ALDD2y",
+    "R_ALDD20y"
+   ],
+   "YGR183C": [
+    "R_CYOR_u6m"
+   ],
+   "YGR255C": [
+    "R_OMMBLHX6m"
+   ],
+   "YDR454C": [
+    "R_DGK1",
+    "R_GK1",
+    "R_GK2"
+   ],
+   "YNL277W": [
+    "R_HSERTA"
+   ],
+   "YER055C": [
+    "R_ATPPRT"
+   ],
+   "YPR176C": [
+    "R_HBZOPT6"
+   ],
+   "YLR438W": [
+    "R_ORNTA"
+   ],
+   "YGR037C": [
+    "R_FAS80COA_L",
+    "R_FAS80_L",
+    "R_FAS140",
+    "R_FAS140COA",
+    "R_FAS120COA",
+    "R_FAS180",
+    "R_FAS160",
+    "R_FAS100COA",
+    "R_FAS120",
+    "R_FAS100",
+    "R_FAS160COA",
+    "R_FAS180COA"
+   ],
+   "YMR056C": [
+    "R_ATPtm_H"
+   ],
+   "YDR226W": [
+    "R_ADK1",
+    "R_ADK3",
+    "R_ADK4"
+   ],
+   "YIL009W": [
+    "R_FACOAL141",
+    "R_FACOAL140",
+    "R_FACOAL161",
+    "R_FACOAL160",
+    "R_FACOAL182",
+    "R_FACOAL181",
+    "R_FACOAL180"
+   ],
+   "YGL186C": [
+    "R_CSNt2",
+    "R_ADEt2",
+    "R_GUAt2r"
+   ],
+   "YDR234W": [
+    "R_HACNHm"
+   ],
+   "YLR305C": [
+    "R_PIN4K_SC"
+   ],
+   "YOL140W": [
+    "R_ACOTAim"
+   ],
+   "YIR029W": [
+    "R_ALLTAHr"
+   ],
+   "YGR155W": [
+    "R_CYSTS"
+   ],
+   "YBR036C": [
+    "R_MIPCS224_SC",
+    "R_MIPCS226_SC",
+    "R_MIPCS326_SC",
+    "R_MIPCS324_SC",
+    "R_MIPCS126_SC",
+    "R_MIPCS124_SC"
+   ],
+   "YMR300C": [
+    "R_GLUPRT"
+   ],
+   "YNL130C": [
+    "R_DAGCPT_SC"
+   ],
+   "YGR267C": [
+    "R_GTPCI"
+   ],
+   "YGR125W": [
+    "R_SO4ti"
+   ],
+   "YNL292W": [
+    "R_YUMPS"
+   ],
+   "YJR159W": [
+    "R_SBTD_D2",
+    "R_SBTD_L"
+   ],
+   "YPR006C": [
+    "R_MCITLm"
+   ],
+   "YCR028C": [
+    "R_PNTOt2"
+   ],
+   "YLR180W": [
+    "R_METAT"
+   ],
+   "YML054C": [
+    "R_L_LACDm"
+   ],
+   "YAL023C": [
+    "R_DOLPMMer"
+   ],
+   "YDL181W": [
+    "R_ATPS3m"
+   ],
+   "YHR074W": [
+    "R_NADS1m",
+    "R_NADS1"
+   ],
+   "YFR030W": [
+    "R_SULR"
+   ],
+   "YBR256C": [
+    "R_RBFSb"
+   ],
+   "YPR113W": [
+    "R_PINOS_SC"
+   ],
+   "YOR236W": [
+    "R_DHFRim",
+    "R_DHFRi"
+   ],
+   "YBR038W": [
+    "R_CHTNS"
+   ],
+   "YBR244W": [
+    "R_GTHP"
+   ],
+   "YPL053C": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YMR246W": [
+    "R_FACOAL141",
+    "R_FACOAL140",
+    "R_FACOAL161",
+    "R_FACOAL160",
+    "R_FACOAL182",
+    "R_FACOAL181",
+    "R_FACOAL180"
+   ],
+   "YPR020W": [
+    "R_ATPS3m"
+   ],
+   "YLR027C": [
+    "R_EHGLATp",
+    "R_ASPTAp",
+    "R_ASPTA",
+    "R_EHGLAT",
+    "R_TYRTAp",
+    "R_TYRTA"
+   ],
+   "YEL047C": [
+    "R_FRDcm"
+   ],
+   "YLR351C": [
+    "R_NTRLASE2",
+    "R_NTRLASE3",
+    "R_NTRLASE"
+   ],
+   "YMR306W": [
+    "R_13GS"
+   ],
+   "YPR036W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YBR284W": [
+    "R_AMPN"
+   ],
+   "YHR018C": [
+    "R_ARGSL"
+   ],
+   "YDR408C": [
+    "R_GARFTi"
+   ],
+   "YLR157C": [
+    "R_ASNNe"
+   ],
+   "YBR126C": [
+    "R_TRE6PP",
+    "R_TRE6PS"
+   ],
+   "YDR300C": [
+    "R_GLU5K"
+   ],
+   "YDR497C": [
+    "R_INSTt2"
+   ],
+   "YGL202W": [
+    "R_TYRTAi"
+   ],
+   "YNL141W": [
+    "R_DADA",
+    "R_ADA",
+    "R_ADD"
+   ],
+   "YMR220W": [
+    "R_PMEVK"
+   ],
+   "YCL018W": [
+    "R_IPMD"
+   ],
+   "YBR294W": [
+    "R_SO4ti"
+   ],
+   "YHL011C": [
+    "R_PRPPS"
+   ],
+   "YDL067C": [
+    "R_CYOOm"
+   ],
+   "YJL130C": [
+    "R_CBPSn",
+    "R_ASPCTn",
+    "R_DHORTSn"
+   ],
+   "YHR001W_0_A": [
+    "R_CYOR_u6m"
+   ],
+   "YKL060C": [
+    "R_FBA2",
+    "R_FBA3",
+    "R_FBA"
+   ],
+   "YOL020W": [
+    "R_CYSt2r",
+    "R_PHEt2r",
+    "R_TRPt2r",
+    "R_ALAt2r",
+    "R_GLYt2r",
+    "R_TYRt2r"
+   ],
+   "YOR222W": [
+    "R_OXO2Ctm"
+   ],
+   "YFL011W": [
+    "R_GALt2",
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YEL021W": [
+    "R_OMPDC"
+   ],
+   "YBL030C": [
+    "R_ATPtm_H"
+   ],
+   "YMR256C": [
+    "R_CYOOm"
+   ],
+   "YLR342W": [
+    "R_13GS"
+   ],
+   "YNL270C": [
+    "R_ARGt2r"
+   ],
+   "YJL071W": [
+    "R_ACGSm"
+   ],
+   "YNL073W": [
+    "R_LYSTRSm"
+   ],
+   "YOR303W": [
+    "R_CBPS"
+   ],
+   "YPL275W": [
+    "R_FDH"
+   ],
+   "YMR013C": [
+    "R_DOLK"
+   ],
+   "YER073W": [
+    "R_ABUTDm",
+    "R_LCADm",
+    "R_ALDD20ym"
+   ],
+   "YLR260W": [
+    "R_SLCBK2",
+    "R_SLCBK1"
+   ],
+   "YPL117C": [
+    "R_IPDDI"
+   ],
+   "YGR007W": [
+    "R_PETHCT"
+   ],
+   "YKL152C": [
+    "R_PGM",
+    "R_DPGM"
+   ],
+   "YLR450W": [
+    "R_HMGCOAR"
+   ],
+   "YBL098W": [
+    "R_KYN3OX"
+   ],
+   "YDL095W": [
+    "R_DOLPMMer"
+   ],
+   "YOR270C": [
+    "R_ATPS3v"
+   ],
+   "YNL268W": [
+    "R_LYSt2r"
+   ],
+   "YHR020W": [
+    "R_PROTRS"
+   ],
+   "YKR039W": [
+    "R_CYSt2r",
+    "R_LYSt2r",
+    "R_PROt2r",
+    "R_GLUt2r",
+    "R_PHEt2r",
+    "R_SERt2r",
+    "R_TRPt2r",
+    "R_ILEt2r",
+    "R_ASPt2r",
+    "R_ALAt2r",
+    "R_ASNt2r",
+    "R_HISt2r",
+    "R_ARGt2r",
+    "R_GLNt2r",
+    "R_GLYt2r",
+    "R_LEUt2r",
+    "R_METt2r",
+    "R_THRt2r",
+    "R_VALt2r",
+    "R_TYRt2r",
+    "R_ORNt2r"
+   ],
+   "YJL139C": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YLL043W": [
+    "R_GLYCt"
+   ],
+   "YAR073W": [
+    "R_IMPD"
+   ],
+   "YNR056C": [
+    "R_BTNt2i"
+   ],
+   "YNL052W": [
+    "R_CYOOm"
+   ],
+   "YPL097W": [
+    "R_TYRTRSm"
+   ],
+   "YDR268W": [
+    "R_TRPTRSm"
+   ],
+   "YEL017C_1_A": [
+    "R_ATPS"
+   ],
+   "YJL221C": [
+    "R_DGGH",
+    "R_MALT"
+   ],
+   "YML100W": [
+    "R_TRE6PP",
+    "R_TRE6PS"
+   ],
+   "YNL220W": [
+    "R_ADSS"
+   ],
+   "YMR293C": [
+    "R_AMID"
+   ],
+   "YDR343C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YJL214W": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YAL038W": [
+    "R_PYK"
+   ],
+   "YCL064C": [
+    "R_SERD_L",
+    "R_THRD_L"
+   ],
+   "YKL203C": [
+    "R_PIN3K_SC"
+   ],
+   "YML126C": [
+    "R_HMGCOAS",
+    "R_HMGCOASm"
+   ],
+   "YDR530C": [
+    "R_ATPATF1"
+   ],
+   "YJR152W": [
+    "R_ALLTTti"
+   ],
+   "YBR199W": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YJR109C": [
+    "R_CBPS"
+   ],
+   "YDL182W": [
+    "R_HCITSn"
+   ],
+   "YER069W": [
+    "R_ACGKm",
+    "R_AGPRim"
+   ],
+   "YJR148W": [
+    "R_OMCDC",
+    "R_LEUTA",
+    "R_ILETA",
+    "R_VALTA"
+   ],
+   "YIL111W": [
+    "R_CYOOm"
+   ],
+   "YOL097C": [
+    "R_TRPTRS"
+   ],
+   "YBR153W": [
+    "R_APRAUR",
+    "R_DHPPDA"
+   ],
+   "YLR354C": [
+    "R_TALA"
+   ],
+   "YKR069W": [
+    "R_UPP3MT"
+   ],
+   "YER081W": [
+    "R_PGCD"
+   ],
+   "YPR033C": [
+    "R_HISTRSm",
+    "R_HISTRS"
+   ],
+   "YFR019W": [
+    "R_PI4P5K_SC"
+   ],
+   "YML081C_0_A": [
+    "R_ATPS3m"
+   ],
+   "YGL154C": [
+    "R_AASAD1",
+    "R_AASAD2"
+   ],
+   "YPR062W": [
+    "R_CSND"
+   ],
+   "YNR034W": [
+    "R_PGL"
+   ],
+   "YGR032W": [
+    "R_13GS"
+   ],
+   "YER023W": [
+    "R_HPROb",
+    "R_P5CR",
+    "R_HPROa"
+   ],
+   "YPL268W": [
+    "R_PI45BPP_SC"
+   ],
+   "YOR184W": [
+    "R_PSERT",
+    "R_OHPBAT"
+   ],
+   "YER060W": [
+    "R_CSNt2",
+    "R_ADEt2",
+    "R_GUAt2r"
+   ],
+   "YDR399W": [
+    "R_GUAPRT",
+    "R_HXPRT"
+   ],
+   "YJR133W": [
+    "R_XPPT"
+   ],
+   "YBR176W": [
+    "R_MOHMT"
+   ],
+   "YGL040C": [
+    "R_PPBNGS"
+   ],
+   "YLR133W": [
+    "R_CHOLK"
+   ],
+   "YDL215C": [
+    "R_GLUDxi"
+   ],
+   "YML004C": [
+    "R_LGTHL"
+   ],
+   "YPL057C": [
+    "R_MIPCS224_SC",
+    "R_MIPCS226_SC",
+    "R_MIPCS326_SC",
+    "R_MIPCS324_SC",
+    "R_MIPCS126_SC",
+    "R_MIPCS124_SC"
+   ],
+   "YGR185C": [
+    "R_TYRTRS"
+   ],
+   "YBR021W": [
+    "R_URAt2"
+   ],
+   "YLR308W": [
+    "R_CHTNDA"
+   ],
+   "YNL169C": [
+    "R_PSERDm_SC"
+   ],
+   "YNL104C": [
+    "R_IPPSm",
+    "R_IPPS"
+   ],
+   "YDL045C": [
+    "R_FMNAT"
+   ],
+   "YJL153C": [
+    "R_MI1PS"
+   ],
+   "YGR282C": [
+    "R_13BGH"
+   ],
+   "YKL085W": [
+    "R_MDHm"
+   ],
+   "YNR043W": [
+    "R_DPMVD"
+   ],
+   "YOR360C": [
+    "R_PDE1",
+    "R_PDE2",
+    "R_PDE3",
+    "R_PDE4",
+    "R_PDE5"
+   ],
+   "YOR335C": [
+    "R_ALATRS"
+   ],
+   "YHR096C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YGR204W": [
+    "R_FTHFL",
+    "R_MTHFD",
+    "R_MTHFC"
+   ],
+   "YJL005W": [
+    "R_ADNCYC"
+   ],
+   "YPL028W": [
+    "R_ACACT1m",
+    "R_ACACT1"
+   ],
+   "YFL001W": [
+    "R_YUMPS"
+   ],
+   "YKL217W": [
+    "R_PYRt2",
+    "R_L_LACt2r"
+   ],
+   "YJR016C": [
+    "R_DHAD1m",
+    "R_DHAD2m"
+   ],
+   "YDL100C": [
+    "R_DNMPPA"
+   ],
+   "YOR095C": [
+    "R_RPI"
+   ],
+   "YLR089C": [
+    "R_ALATA_Lm"
+   ],
+   "YPL265W": [
+    "R_GLUt2r",
+    "R_SERt2r",
+    "R_ASPt2r",
+    "R_ALAt2r",
+    "R_ASNt2r",
+    "R_GLNt2r",
+    "R_GLYt2r"
+   ],
+   "YML008C": [
+    "R_SAM24MT"
+   ],
+   "YKL216W": [
+    "R_DHORD",
+    "R_DHORD4"
+   ],
+   "YDR441C": [
+    "R_ADPT"
+   ],
+   "YMR296C": [
+    "R_SERPT"
+   ],
+   "YPL023C": [
+    "R_MTHFR3"
+   ],
+   "YER090W": [
+    "R_CHRPL",
+    "R_ANS"
+   ],
+   "YGR199W": [
+    "R_DOLPMMer"
+   ],
+   "YPL212C": [
+    "R_YUMPS"
+   ],
+   "YMR145C": [
+    "R_NADH2_u6cm"
+   ],
+   "YNL280C": [
+    "R_C14STR"
+   ],
+   "YDR007W": [
+    "R_PRAIi"
+   ],
+   "YIL160C": [
+    "R_ACACT7p",
+    "R_ACACT4p",
+    "R_ACACT8p",
+    "R_ACACT9p",
+    "R_KATp",
+    "R_ACACT6p",
+    "R_ACACT5p"
+   ],
+   "YNR072W": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YML022W": [
+    "R_ADPT"
+   ],
+   "YDR062W": [
+    "R_SERPT"
+   ],
+   "YMR303C": [
+    "R_ALCD2x"
+   ],
+   "YBR221C": [
+    "R_THFATm",
+    "R_PDHm"
+   ],
+   "YPR167C": [
+    "R_PAPSR"
+   ],
+   "YGR012W": [
+    "R_CYSS"
+   ],
+   "YHR190W": [
+    "R_SQLS"
+   ],
+   "YGL063W": [
+    "R_YUMPS"
+   ],
+   "YBR145W": [
+    "R_ALCD2x"
+   ],
+   "YBR205W": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YOR321W": [
+    "R_DOLPMMer"
+   ],
+   "YBR003W": [
+    "R_HBZOPT6m"
+   ],
+   "YDL085W": [
+    "R_NADH2_u6cm"
+   ],
+   "YNR033W": [
+    "R_ADCS"
+   ],
+   "YDL004W": [
+    "R_ATPS3m"
+   ],
+   "YGL256W": [
+    "R_ALCD2x"
+   ],
+   "YOR130C": [
+    "R_ORNt3m"
+   ],
+   "YER099C": [
+    "R_PRPPS"
+   ],
+   "YBL013W": [
+    "R_FMETTRSm"
+   ],
+   "YOR171C": [
+    "R_SLCBK2",
+    "R_SLCBK1"
+   ],
+   "YNL256W": [
+    "R_DHPSm",
+    "R_DHNPAm",
+    "R_FOLD3m",
+    "R_HPPKm"
+   ],
+   "YLR174W": [
+    "R_ICDHy"
+   ],
+   "YOR071C": [
+    "R_THMt2"
+   ],
+   "YGR286C": [
+    "R_BTSr"
+   ],
+   "YCR037C": [
+    "R_PIt2r"
+   ],
+   "YAR035W": [
+    "R_CSNATifm"
+   ],
+   "YLR359W": [
+    "R_ADSL2r",
+    "R_ADSL1r"
+   ],
+   "YMR217W": [
+    "R_GMPS2"
+   ],
+   "YER170W": [
+    "R_ADK1m",
+    "R_ADK4m",
+    "R_ADK3m"
+   ],
+   "YBR039W": [
+    "R_ATPS3m"
+   ],
+   "YGR170W": [
+    "R_PSERDg_SC",
+    "R_PSERDv_SC"
+   ],
+   "YKL004W": [
+    "R_IPCS226_SC",
+    "R_IPCS326_SC",
+    "R_IPCS124_SC",
+    "R_IPCS126_SC",
+    "R_IPCS324_SC",
+    "R_IPCS224_SC"
+   ],
+   "YOR136W": [
+    "R_ICDHxm"
+   ],
+   "YNL142W": [
+    "R_NH4t"
+   ],
+   "YKL192C": [
+    "R_FAS180ACPm",
+    "R_FAS80ACPm_L",
+    "R_FAS120ACPm",
+    "R_FAS181ACPm",
+    "R_FAS140ACPm",
+    "R_FAS141ACPm",
+    "R_FAS160ACPm",
+    "R_FAS100ACPm",
+    "R_FAS161ACPm",
+    "R_FAS182ACPm",
+    "R_NADH2_u6m"
+   ],
+   "YOR209C": [
+    "R_NAPRT",
+    "R_NAPRTm"
+   ],
+   "YHR019C": [
+    "R_ASNTRS"
+   ],
+   "YHR094C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "Q0045": [
+    "R_CYOOm"
+   ],
+   "YBL076C": [
+    "R_ILETRS"
+   ],
+   "YLR258W": [
+    "R_GLYGS",
+    "R_GLCS2"
+   ],
+   "YGL125W": [
+    "R_MTHFR3"
+   ],
+   "YPR121W": [
+    "R_HMPK1"
+   ],
+   "YIL078W": [
+    "R_THRTRS"
+   ],
+   "YLR164W": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YNL318C": [
+    "R_GALt2"
+   ],
+   "YGL009C": [
+    "R_IPPMIa",
+    "R_IPPMIb"
+   ],
+   "YLR028C": [
+    "R_IMPC",
+    "R_AICART"
+   ],
+   "YDL055C": [
+    "R_MAN1PT"
+   ],
+   "YBR115C": [
+    "R_AASAD1",
+    "R_AASAD2"
+   ],
+   "YKL055C": [
+    "R_FAS180ACPm",
+    "R_FAS80ACPm_L",
+    "R_FAS120ACPm",
+    "R_FAS181ACPm",
+    "R_FAS140ACPm",
+    "R_FAS141ACPm",
+    "R_FAS160ACPm",
+    "R_FAS100ACPm",
+    "R_FAS161ACPm",
+    "R_FAS182ACPm"
+   ],
+   "YGR192C": [
+    "R_GAPD"
+   ],
+   "YFL053W": [
+    "R_DHAK"
+   ],
+   "YBL045C": [
+    "R_CYOR_u6m"
+   ],
+   "YGR043C": [
+    "R_TALA"
+   ],
+   "YAR071W": [
+    "R_ACP1e"
+   ],
+   "YLR060W": [
+    "R_PHETRS"
+   ],
+   "YJL167W": [
+    "R_GRTT",
+    "R_DMATT"
+   ],
+   "Q0130": [
+    "R_ATPS3m"
+   ],
+   "YBR149W": [
+    "R_ARAB1D2",
+    "R_ARAB1D1"
+   ],
+   "YKL035W": [
+    "R_GALU"
+   ],
+   "YPR047W": [
+    "R_PHETRSm"
+   ],
+   "YOR241W": [
+    "R_THFGLUS"
+   ],
+   "YDR044W": [
+    "R_CPPPGO"
+   ],
+   "YLR056W": [
+    "R_C5STDS"
+   ],
+   "YKR080W": [
+    "R_MTHFD2"
+   ],
+   "YKL181W": [
+    "R_PRPPS"
+   ],
+   "YIL094C": [
+    "R_HICITDm"
+   ],
+   "YHR037W": [
+    "R_HPROxm",
+    "R_PYR5CDm",
+    "R_HPROym",
+    "R_PHCDm",
+    "R_4HGLSDm"
+   ],
+   "YIR037W": [
+    "R_GTHP"
+   ],
+   "YGL012W": [
+    "R_C24STRer"
+   ],
+   "YJL101C": [
+    "R_GLUCYS"
+   ],
+   "YLR432W": [
+    "R_IMPD"
+   ],
+   "YDR322C_2_A": [
+    "R_ATPS3m"
+   ],
+   "YDR353W": [
+    "R_TRDR"
+   ],
+   "YIR027C": [
+    "R_ALLTNr"
+   ],
+   "YJR073C": [
+    "R_PMETM_SC",
+    "R_MFAPS_SC"
+   ],
+   "YHR183W": [
+    "R_GND"
+   ],
+   "YGL067W": [
+    "R_NADDPp"
+   ],
+   "YDR074W": [
+    "R_TRE6PP",
+    "R_TRE6PS"
+   ],
+   "YGL077C": [
+    "R_CHLt2"
+   ],
+   "YOR332W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YBL099W": [
+    "R_ATPS3m"
+   ],
+   "YGR208W": [
+    "R_PSP_L"
+   ],
+   "Q0250": [
+    "R_CYOOm"
+   ],
+   "YKL019W": [
+    "R_HBZOPT6"
+   ],
+   "YNL316C": [
+    "R_PPNDH"
+   ],
+   "YFR055W": [
+    "R_CYSTL"
+   ],
+   "YLR081W": [
+    "R_GALt2",
+    "R_GLCt1"
+   ],
+   "YOL156W": [
+    "R_GALt2",
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YMR267W": [
+    "R_PPAm"
+   ],
+   "YIL116W": [
+    "R_HSTPT"
+   ],
+   "YOR190W": [
+    "R_13BGHe"
+   ],
+   "YKR009C": [
+    "R_HACDp",
+    "R_HACD7p",
+    "R_ECOAH7p",
+    "R_HACD10p",
+    "R_ECOAH6p",
+    "R_HACD6p",
+    "R_ECOAH11p",
+    "R_ECOAH5p",
+    "R_HACD4p",
+    "R_ECOAH8p",
+    "R_HACD5p",
+    "R_ECOAH4p",
+    "R_HACD8p"
+   ],
+   "YGR094W": [
+    "R_VALTRS",
+    "R_VALTRSm"
+   ],
+   "YJR103W": [
+    "R_CTPS2",
+    "R_CTPS1"
+   ],
+   "YBR265W": [
+    "R_3DSPHR"
+   ],
+   "YML070W": [
+    "R_DHAK"
+   ],
+   "YDR232W": [
+    "R_ALASm"
+   ],
+   "YGR124W": [
+    "R_ASNS1"
+   ],
+   "YJR158W": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YGR264C": [
+    "R_METTRS"
+   ],
+   "YHR137W": [
+    "R_TYRTAi",
+    "R_PHETA1"
+   ],
+   "YOR348C": [
+    "R_PROt2r",
+    "R_ALAt2r",
+    "R_ABUTt2",
+    "R_GLYt2r"
+   ],
+   "YGL248W": [
+    "R_PDE1"
+   ],
+   "YLR134W": [
+    "R_PYRDC"
+   ],
+   "YGL055W": [
+    "R_DESAT18",
+    "R_DESAT16"
+   ],
+   "YDL245C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YJR025C": [
+    "R_3HAO"
+   ],
+   "YBR092C": [
+    "R_THMPe",
+    "R_THMDPe"
+   ],
+   "YOR393W": [
+    "R_ENO"
+   ],
+   "YDR529C": [
+    "R_CYOR_u6m"
+   ],
+   "YBR068C": [
+    "R_CYSt2r",
+    "R_PHEt2r",
+    "R_TRPt2r",
+    "R_ILEt2r",
+    "R_LEUt2r",
+    "R_METt2r",
+    "R_VALt2r",
+    "R_TYRt2r"
+   ],
+   "YOL061W": [
+    "R_PRPPS"
+   ],
+   "YLR195C": [
+    "R_GLPT"
+   ],
+   "YMR250W": [
+    "R_GLUDC"
+   ],
+   "YDR483W": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YFL030W": [
+    "R_AGT"
+   ],
+   "YGR254W": [
+    "R_ENO"
+   ],
+   "YER061C": [
+    "R_FAS180ACPm",
+    "R_FAS80ACPm_L",
+    "R_FAS120ACPm",
+    "R_FAS181ACPm",
+    "R_FAS140ACPm",
+    "R_FAS141ACPm",
+    "R_FAS160ACPm",
+    "R_FAS100ACPm",
+    "R_FAS161ACPm",
+    "R_FAS182ACPm",
+    "R_ACOATAm"
+   ],
+   "YBR020W": [
+    "R_GALK"
+   ],
+   "YLR231C": [
+    "R_HKYNH",
+    "R_KYN"
+   ],
+   "YKL184W": [
+    "R_ORNDC"
+   ],
+   "YJR139C": [
+    "R_HSDxi",
+    "R_HSDyi"
+   ],
+   "YKL016C": [
+    "R_ATPS3m"
+   ],
+   "YPL111W": [
+    "R_ARGN"
+   ],
+   "YER183C": [
+    "R_FTHFCL"
+   ],
+   "YLR160C": [
+    "R_ASNNe"
+   ],
+   "YDL066W": [
+    "R_ICDHym"
+   ],
+   "YKR093W": [
+    "R_PEPDt3"
+   ],
+   "YBR085W": [
+    "R_ATPtm_H"
+   ],
+   "YBR184W": [
+    "R_MELTGH",
+    "R_GGLGH",
+    "R_EPMGH",
+    "R_GALIGH",
+    "R_GALS3",
+    "R_RAFGH"
+   ],
+   "YCR098C": [
+    "R_PIt2r"
+   ],
+   "YKL026C": [
+    "R_GTHP"
+   ],
+   "YNR050C": [
+    "R_SACCD1"
+   ],
+   "YJR078W": [
+    "R_TRPO2"
+   ],
+   "YPL188W": [
+    "R_NADK",
+    "R_NADKm"
+   ],
+   "YOL033W": [
+    "R_GLUTRSm"
+   ],
+   "YGR180C": [
+    "R_RNDR1n",
+    "R_RNDR4n",
+    "R_RNDR2n",
+    "R_RNDR3n"
+   ],
+   "YKL182W": [
+    "R_FA180ACPH",
+    "R_FAS80COA_L",
+    "R_FAS80_L",
+    "R_FA140ACPH",
+    "R_FAS140",
+    "R_FA161ACPH",
+    "R_FAS140COA",
+    "R_FAS120COA",
+    "R_ACOATA",
+    "R_FA181ACPH",
+    "R_FAS180",
+    "R_FAS160",
+    "R_FA182ACPH",
+    "R_FA160ACPH",
+    "R_FAS100COA",
+    "R_FAS120",
+    "R_FA120ACPH",
+    "R_FAS100",
+    "R_FAS160COA",
+    "R_FAS180COA",
+    "R_MCOATA",
+    "R_FA141ACPH"
+   ],
+   "YOR374W": [
+    "R_ALDD2xm",
+    "R_ABUTDm",
+    "R_ALDD20xm",
+    "R_ALDD2ym",
+    "R_ALDD20ym"
+   ],
+   "YMR202W": [
+    "R_C8STI"
+   ],
+   "YBR132C": [
+    "R_CRNt"
+   ],
+   "YML110C": [
+    "R_OMBZLM6m"
+   ],
+   "YLR372W": [
+    "R_FAS260"
+   ],
+   "YPR138C": [
+    "R_NH4t"
+   ],
+   "YPL276W": [
+    "R_FDH"
+   ],
+   "YAR075W": [
+    "R_IMPD"
+   ],
+   "YBR248C": [
+    "R_IG3PS"
+   ],
+   "YHL016C": [
+    "R_UREA2t2"
+   ],
+   "YLR295C": [
+    "R_ATPS3m"
+   ],
+   "YDL168W": [
+    "R_FALDH",
+    "R_ALCD2x"
+   ],
+   "YCR053W": [
+    "R_THRS",
+    "R_4HTHRS"
+   ],
+   "YDR236C": [
+    "R_RBFKm",
+    "R_RBFK"
+   ],
+   "YKL106W": [
+    "R_ASPTAm",
+    "R_EHGLATm",
+    "R_TYRTAm"
+   ],
+   "YLR307W": [
+    "R_CHTNDA"
+   ],
+   "YHR072W": [
+    "R_LNSTLS"
+   ],
+   "YGL148W": [
+    "R_CHORS"
+   ],
+   "YNL192W": [
+    "R_CHTNS"
+   ],
+   "YKR053C": [
+    "R_SBPP1",
+    "R_SBPP2"
+   ],
+   "YLR420W": [
+    "R_DHORTS"
+   ],
+   "YOL056W": [
+    "R_PGM"
+   ],
+   "YHR144C": [
+    "R_DCTPD",
+    "R_DCMPDA"
+   ],
+   "YLR158C": [
+    "R_ASNNe"
+   ],
+   "YJR077C": [
+    "R_PIt2m"
+   ],
+   "YGR088W": [
+    "R_CAT"
+   ],
+   "YBR002C": [
+    "R_HBZOPT6"
+   ],
+   "YFR015C": [
+    "R_GLYGS",
+    "R_GLCS2"
+   ],
+   "YOR176W": [
+    "R_FCLTm"
+   ],
+   "YOL049W": [
+    "R_GTHS"
+   ],
+   "YDR158W": [
+    "R_ASADi"
+   ],
+   "YMR189W": [
+    "R_GCCam",
+    "R_THFATm",
+    "R_GCCbim",
+    "R_GCC2bim",
+    "R_GCCcm",
+    "R_GCC2cm",
+    "R_GCC2am",
+    "R_GLYCLm"
+   ],
+   "YHR128W": [
+    "R_UPPRT"
+   ],
+   "YDR538W": [
+    "R_OPHBDC6"
+   ],
+   "YMR120C": [
+    "R_IMPC",
+    "R_AICART"
+   ],
+   "YBR298C": [
+    "R_MALTt2"
+   ],
+   "YOR143C": [
+    "R_TMDPPK",
+    "R_TMDPK"
+   ],
+   "YDL052C": [
+    "R_AGAT_SC"
+   ],
+   "YKR061W": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YHR039C_0_A": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YIL168W": [
+    "R_SERD_L"
+   ],
+   "YML075C": [
+    "R_HMGCOAR"
+   ],
+   "YCR024C": [
+    "R_ASNTRSm"
+   ],
+   "YAL044C": [
+    "R_GCCam",
+    "R_THFATm",
+    "R_GCCbim",
+    "R_GCC2bim",
+    "R_GCCcm",
+    "R_GCC2cm",
+    "R_GCC2am",
+    "R_GLYCLm"
+   ],
+   "YGR061C": [
+    "R_PRFGS"
+   ],
+   "YLR355C": [
+    "R_KARA1im",
+    "R_DPRm",
+    "R_KARA2im"
+   ],
+   "YCR032W": [
+    "R_ACt2r"
+   ],
+   "YPR081C": [
+    "R_GLYTRS"
+   ],
+   "YMR118C": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YPL134C": [
+    "R_OXO2Ctm"
+   ],
+   "YOL096C": [
+    "R_DMQMT6m"
+   ],
+   "YDR284C": [
+    "R_LPP_SC",
+    "R_DAGPYP_SC"
+   ],
+   "YGL155W": [
+    "R_HBZOPT6"
+   ],
+   "YMR083W": [
+    "R_ALCD2m"
+   ],
+   "YBR218C": [
+    "R_PC"
+   ],
+   "YMR272C": [
+    "R_CERS326",
+    "R_CERS324",
+    "R_CERS2_APOS_26",
+    "R_CERS2_APOS_24"
+   ],
+   "YJR095W": [
+    "R_SUCFUMtm"
+   ],
+   "YHR106W": [
+    "R_TRDRm"
+   ],
+   "YLR172C": [
+    "R_DIPS"
+   ],
+   "YKL132C": [
+    "R_THFGLUS"
+   ],
+   "YIL125W": [
+    "R_PDHcm",
+    "R_AKGDam",
+    "R_AKGDbm"
+   ],
+   "YHR208W": [
+    "R_ILETAm",
+    "R_LEUTAm",
+    "R_OMCDCm"
+   ],
+   "YAL062W": [
+    "R_GLUDy"
+   ],
+   "YBL015W": [
+    "R_ACOAH"
+   ],
+   "YEL027W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YHL012W": [
+    "R_GALU"
+   ],
+   "YBR296C": [
+    "R_PIt2r"
+   ],
+   "YPR160W": [
+    "R_GLCP"
+   ],
+   "YPR191W": [
+    "R_CYOR_u6m"
+   ],
+   "YJR010W": [
+    "R_SADT"
+   ],
+   "YBR041W": [
+    "R_FACOAL240p",
+    "R_FA260tp",
+    "R_FACOAL260p",
+    "R_FA240tp"
+   ],
+   "YOR168W": [
+    "R_GLNTRS"
+   ],
+   "YJR051W": [
+    "R_FRDm"
+   ],
+   "YPL273W": [
+    "R_HCYSMT"
+   ],
+   "YDR261C": [
+    "R_13BGHe"
+   ],
+   "YKL218C": [
+    "R_THRD_L"
+   ],
+   "YNL009W": [
+    "R_ICDHyp"
+   ],
+   "YER065C": [
+    "R_ICL"
+   ],
+   "YEL011W": [
+    "R_GBEZ"
+   ],
+   "YLR300W": [
+    "R_13BGHe"
+   ],
+   "YDR037W": [
+    "R_LYSTRS"
+   ],
+   "YER178W": [
+    "R_THFATm",
+    "R_PDHm"
+   ],
+   "YDL247W": [
+    "R_MALTt2"
+   ],
+   "YFL022C": [
+    "R_PHETRS"
+   ],
+   "YDR047W": [
+    "R_UPPDC1"
+   ],
+   "YDR321W": [
+    "R_ASNN"
+   ],
+   "YNR001C": [
+    "R_CSm"
+   ],
+   "YNL071W": [
+    "R_PDHm"
+   ],
+   "YDR147W": [
+    "R_ETHAK"
+   ],
+   "YDL093W": [
+    "R_DOLPMMer"
+   ],
+   "YFL017C": [
+    "R_ACGAM6PS"
+   ],
+   "YKL148C": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YPL234C": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YIL134W": [
+    "R_FADFMNtm"
+   ],
+   "YGL001C": [
+    "R_C3STDH2",
+    "R_C3STDH1"
+   ],
+   "YBR291C": [
+    "R_CITtcm",
+    "R_CITtbm",
+    "R_CITtam"
+   ],
+   "YJR160C": [
+    "R_MALTt2"
+   ],
+   "YER087W": [
+    "R_PROTRS"
+   ],
+   "YAR015W": [
+    "R_PRASCS"
+   ],
+   "YOR100C": [
+    "R_CRNCARtm"
+   ],
+   "YDL205C": [
+    "R_HMBS"
+   ],
+   "YKR097W": [
+    "R_PPCK"
+   ],
+   "YPL172C": [
+    "R_HBZOPT6m"
+   ],
+   "YML042W": [
+    "R_CSNATirp",
+    "R_CSNATirm"
+   ],
+   "YNL037C": [
+    "R_ICDHxm"
+   ],
+   "YKL211C": [
+    "R_CHRPL",
+    "R_ANS",
+    "R_IGPS"
+   ],
+   "YDL131W": [
+    "R_HCITSn"
+   ],
+   "YMR054W": [
+    "R_ATPS3g"
+   ],
+   "YIL107C": [
+    "R_PFK26"
+   ],
+   "YER053C": [
+    "R_PIt5m"
+   ],
+   "YIR034C": [
+    "R_SACCD2"
+   ],
+   "YMR101C": [
+    "R_HBZOPT6"
+   ],
+   "YCL050C": [
+    "R_ATPATF2",
+    "R_ATPATF3",
+    "R_SLFAT"
+   ],
+   "YLR303W": [
+    "R_AHSERL",
+    "R_AHSERL2"
+   ],
+   "YER043C": [
+    "R_AHCi"
+   ],
+   "YGR087C": [
+    "R_PYRDC"
+   ],
+   "YJL026W": [
+    "R_RNDR2",
+    "R_RNDR1",
+    "R_RNDR4",
+    "R_RNDR3"
+   ],
+   "YOL103W": [
+    "R_INSTt2"
+   ],
+   "YCL025C": [
+    "R_GLUt2r",
+    "R_PHEt2r",
+    "R_SERt2r",
+    "R_ILEt2r",
+    "R_ALAt2r",
+    "R_ASNt2r",
+    "R_HISt2r",
+    "R_GLNt2r",
+    "R_LEUt2r",
+    "R_METt2r",
+    "R_THRt2r",
+    "R_VALt2r",
+    "R_TYRt2r"
+   ],
+   "YBR034C": [
+    "R_ARMT"
+   ],
+   "YMR108W": [
+    "R_ACLSm",
+    "R_ACHBSm"
+   ],
+   "YDR272W": [
+    "R_GLYOX"
+   ],
+   "YGR289C": [
+    "R_MALTt2"
+   ],
+   "YLR153C": [
+    "R_ACS"
+   ],
+   "YGR157W": [
+    "R_PETOHM_SC"
+   ],
+   "YJR143C": [
+    "R_DOLPMMer"
+   ],
+   "YBR196C": [
+    "R_PGI",
+    "R_G6PI",
+    "R_G6PI2"
+   ],
+   "YDR297W": [
+    "R_PSPHS",
+    "R_CERH126",
+    "R_CERH124"
+   ],
+   "YGR147C": [
+    "R_PEPAT"
+   ],
+   "YFL018C": [
+    "R_GCCam",
+    "R_PDHcm",
+    "R_GCCbim",
+    "R_PDHm",
+    "R_GCC2bim",
+    "R_GCCcm",
+    "R_AKGDam",
+    "R_GCC2cm",
+    "R_AKGDbm",
+    "R_GCC2am",
+    "R_GLYCLm"
+   ],
+   "YMR261C": [
+    "R_TRE6PP",
+    "R_TRE6PS"
+   ],
+   "YCR073W_0_A": [
+    "R_PGL"
+   ],
+   "YBR018C": [
+    "R_UGLT",
+    "R_GALT"
+   ],
+   "YLR142W": [
+    "R_PRO1xm"
+   ],
+   "YBR006W": [
+    "R_SSALy"
+   ],
+   "YLR038C": [
+    "R_CYOOm"
+   ],
+   "YDL040C": [
+    "R_PEPAT"
+   ],
+   "YNL247W": [
+    "R_CYSTRS"
+   ],
+   "YHR068W": [
+    "R_DXHPScm"
+   ],
+   "YCR036W": [
+    "R_RBK",
+    "R_DRBK"
+   ],
+   "YGR287C": [
+    "R_MALT"
+   ],
+   "YER015W": [
+    "R_FACOAL120p",
+    "R_FACOAL80p",
+    "R_FACOAL161p",
+    "R_FACOAL140p",
+    "R_FACOAL141p",
+    "R_FACOAL100p",
+    "R_FACOAL160p"
+   ],
+   "YBR166C": [
+    "R_PPND2"
+   ],
+   "YMR170C": [
+    "R_ALDD19x"
+   ],
+   "YIL155C": [
+    "R_G3PDm"
+   ],
+   "YGR171C": [
+    "R_METTRSm"
+   ],
+   "YJR121W": [
+    "R_ATPS3m"
+   ],
+   "YGR055W": [
+    "R_METt2r"
+   ],
+   "YDR502C": [
+    "R_METAT"
+   ],
+   "YGR065C": [
+    "R_BTNt2i"
+   ],
+   "YER062C": [
+    "R_G3PT"
+   ],
+   "YCR024C_0_A": [
+    "R_ATPS"
+   ],
+   "YLR245C": [
+    "R_CYTD",
+    "R_DCYTD"
+   ],
+   "YPR026W": [
+    "R_TREHv"
+   ],
+   "YNR016C": [
+    "R_FAS80COA_L",
+    "R_FAS80_L",
+    "R_FAS140",
+    "R_FAS140COA",
+    "R_ACCOACr",
+    "R_FAS120COA",
+    "R_FAS180",
+    "R_FAS160",
+    "R_FAS100COA",
+    "R_FAS120",
+    "R_FAS100",
+    "R_FAS160COA",
+    "R_FAS180COA"
+   ],
+   "YLR070C": [
+    "R_XYLTD_D"
+   ],
+   "YBR127C": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YGL184C": [
+    "R_CYSTLp"
+   ],
+   "YBR249C": [
+    "R_DDPA"
+   ],
+   "YLR155C": [
+    "R_ASNNe"
+   ],
+   "YPL147W": [
+    "R_FA140COAabcp",
+    "R_FA182COAabcp",
+    "R_FA160COAabcp",
+    "R_FA141COAabcp",
+    "R_FA181COAabcp",
+    "R_FA180COAabcp",
+    "R_FA161COAabcp"
+   ],
+   "YDR341C": [
+    "R_ARGTRS"
+   ],
+   "YBR084W": [
+    "R_MTHFCm",
+    "R_MTHFDm",
+    "R_FTHFLm"
+   ],
+   "YDR127W": [
+    "R_DHQTi",
+    "R_SHKK",
+    "R_SHK3D",
+    "R_DHQS",
+    "R_PSCVTi"
+   ],
+   "YGR202C": [
+    "R_CHLPCTD"
+   ],
+   "YEL063C": [
+    "R_ARGt2r",
+    "R_ORNt2r"
+   ],
+   "YDL090C": [
+    "R_HBZOPT6"
+   ],
+   "YKL120W": [
+    "R_OAAt2m"
+   ],
+   "YPR183W": [
+    "R_DOLPMTcer"
+   ],
+   "YDR508C": [
+    "R_CYSt2r",
+    "R_SERt2r",
+    "R_ASNt2r",
+    "R_GLNt2r",
+    "R_LEUt2r",
+    "R_METt2r",
+    "R_THRt2r"
+   ],
+   "YGR248W": [
+    "R_PGL"
+   ],
+   "YKL127W": [
+    "R_PPM",
+    "R_PGMT"
+   ],
+   "YPR001W": [
+    "R_CSm"
+   ],
+   "YMR011W": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YIL053W": [
+    "R_G3PT"
+   ],
+   "YEL024W": [
+    "R_CYOR_u6m"
+   ],
+   "YJL126W": [
+    "R_NTRLASE2",
+    "R_NTRLASE3",
+    "R_NTRLASE"
+   ],
+   "YKL067W": [
+    "R_NDPK8",
+    "R_NDPK6",
+    "R_NDPK9",
+    "R_NDPK7",
+    "R_NDPK4",
+    "R_NDPK3",
+    "R_NDPK2",
+    "R_NDPK1",
+    "R_NDPK5"
+   ],
+   "YDR208W": [
+    "R_PI4P5K_SC"
+   ],
+   "YJR009C": [
+    "R_GAPD"
+   ],
+   "YPR145W": [
+    "R_ASNS1"
+   ],
+   "YDR023W": [
+    "R_SERTRS"
+   ],
+   "YOR375C": [
+    "R_GLUDy"
+   ],
+   "YOL055C": [
+    "R_PMPK",
+    "R_HMPK1"
+   ],
+   "YLR092W": [
+    "R_SO4ti"
+   ],
+   "YJL166W": [
+    "R_CYOR_u6m"
+   ],
+   "YDR072C": [
+    "R_MIP2CS226_SC",
+    "R_MIP2CS324_SC",
+    "R_MIP2CS326_SC",
+    "R_MIP2CS124_SC",
+    "R_MIP2CS224_SC",
+    "R_MIP2CS126_SC"
+   ],
+   "YJL200C": [
+    "R_ACONTm"
+   ],
+   "YDR298C": [
+    "R_ATPS3m"
+   ],
+   "YOL077W_1_A": [
+    "R_ATPS3m"
+   ],
+   "YIL020C": [
+    "R_PRMICIi"
+   ],
+   "YBR208C": [
+    "R_ALPHNH",
+    "R_UREASE"
+   ],
+   "YOL059W": [
+    "R_G3PD1irm"
+   ],
+   "YOR099W": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YNL117W": [
+    "R_MALSp"
+   ],
+   "YHR026W": [
+    "R_ATPS3v",
+    "R_ATPS3g"
+   ],
+   "YPL160W": [
+    "R_LEUTRS"
+   ],
+   "YOR128C": [
+    "R_AIRCr"
+   ],
+   "YJL052W": [
+    "R_GAPD"
+   ],
+   "YJL198W": [
+    "R_PIt2r"
+   ],
+   "YPL091W": [
+    "R_GTHO"
+   ],
+   "YBL039C": [
+    "R_CTPS2",
+    "R_CTPS1"
+   ],
+   "YNR058W": [
+    "R_AMAOTr"
+   ],
+   "YML096W": [
+    "R_ASNS1"
+   ],
+   "YEL069C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YOR323C": [
+    "R_G5SD2",
+    "R_G5SD"
+   ],
+   "YLL041C": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YML106W": [
+    "R_ORPT"
+   ],
+   "YGR060W": [
+    "R_C4STMO2",
+    "R_C4STMO1"
+   ],
+   "YMR169C": [
+    "R_ALDD19x"
+   ],
+   "YLR240W": [
+    "R_PIN3K_SC"
+   ],
+   "YER026C": [
+    "R_PSERS_SC",
+    "R_PSERSm_SC"
+   ],
+   "YPR069C": [
+    "R_SPMS"
+   ],
+   "YMR105C": [
+    "R_PPM",
+    "R_PGMT"
+   ],
+   "YJL216C": [
+    "R_MALT"
+   ],
+   "YOL143C": [
+    "R_RBFSa"
+   ],
+   "YOR142W": [
+    "R_SUCOASm",
+    "R_ITCOALm"
+   ],
+   "YPL281C": [
+    "R_ENO"
+   ],
+   "YOR040W": [
+    "R_GLYOXm"
+   ],
+   "YFR033C": [
+    "R_CYOR_u6m"
+   ],
+   "YEL046C": [
+    "R_THRA"
+   ],
+   "YPR035W": [
+    "R_GLNS"
+   ],
+   "YDL022W": [
+    "R_G3PD1ir"
+   ],
+   "YFR025C": [
+    "R_HISTP"
+   ],
+   "YLR044C": [
+    "R_PYRDC"
+   ],
+   "YLL018C": [
+    "R_ASPTRS"
+   ],
+   "YDL210W": [
+    "R_5AOPt2",
+    "R_ABUTt2"
+   ],
+   "YPR060C": [
+    "R_CHORM"
+   ],
+   "YMR271C": [
+    "R_ORPT"
+   ],
+   "YOR074C": [
+    "R_TMDS"
+   ],
+   "YML123C": [
+    "R_PIt2r"
+   ],
+   "YLR146C": [
+    "R_SPRMS"
+   ],
+   "YHR174W": [
+    "R_ENO"
+   ],
+   "YNR057C": [
+    "R_DBTSr"
+   ],
+   "YJR105W": [
+    "R_ADNK1"
+   ],
+   "YCL009C": [
+    "R_ACLSm",
+    "R_ACHBSm"
+   ],
+   "YJL121C": [
+    "R_RPE"
+   ],
+   "YMR208W": [
+    "R_MEVK1",
+    "R_MEVK4",
+    "R_MEVK2",
+    "R_MEVK3"
+   ],
+   "Q0105": [
+    "R_CYOR_u6m"
+   ],
+   "YNL029C": [
+    "R_G12MT2g",
+    "R_G12MT1g"
+   ],
+   "YGR175C": [
+    "R_SQLEr"
+   ],
+   "YIL145C": [
+    "R_PANTS"
+   ],
+   "YOL126C": [
+    "R_MDH"
+   ],
+   "YEL041W": [
+    "R_NADK",
+    "R_NADKm"
+   ],
+   "YLR058C": [
+    "R_GHMT2r"
+   ],
+   "YJR137C": [
+    "R_SULR"
+   ],
+   "YNR012W": [
+    "R_CYTDK2",
+    "R_URIK1",
+    "R_URIK2"
+   ],
+   "YGR292W": [
+    "R_MALT"
+   ],
+   "YDR111C": [
+    "R_ALATA_L"
+   ],
+   "YDR377W": [
+    "R_ATPS3m"
+   ],
+   "YDR256C": [
+    "R_CATp"
+   ],
+   "YHR091C": [
+    "R_ARGTRSm"
+   ],
+   "YBR023C": [
+    "R_CHTNS"
+   ],
+   "YKL001C": [
+    "R_ADSK"
+   ],
+   "YPL231W": [
+    "R_FA180ACPH",
+    "R_FAS80COA_L",
+    "R_FAS80_L",
+    "R_FA140ACPH",
+    "R_FAS140",
+    "R_FA161ACPH",
+    "R_FAS140COA",
+    "R_FAS120COA",
+    "R_ACOATA",
+    "R_FA181ACPH",
+    "R_FAS180",
+    "R_FAS160",
+    "R_FA182ACPH",
+    "R_FA160ACPH",
+    "R_FAS100COA",
+    "R_FAS120",
+    "R_FA120ACPH",
+    "R_FAS100",
+    "R_FAS160COA",
+    "R_FAS180COA",
+    "R_MCOATA",
+    "R_FA141ACPH"
+   ],
+   "YMR062C": [
+    "R_ACGSm",
+    "R_ORNTACim"
+   ],
+   "YIL066C": [
+    "R_RNDR1n",
+    "R_RNDR1"
+   ],
+   "YGL253W": [
+    "R_HEX1",
+    "R_HEX7",
+    "R_HEX4"
+   ],
+   "YLR299W": [
+    "R_GTMLT"
+   ],
+   "YDR345C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YHL032C": [
+    "R_GLYK"
+   ],
+   "YOR108W": [
+    "R_IPPS"
+   ],
+   "YNR041C": [
+    "R_HBZOPT6m"
+   ],
+   "YJL068C": [
+    "R_SFGTH"
+   ],
+   "YLR138W": [
+    "R_NAt3_1"
+   ],
+   "YDR148C": [
+    "R_PDHcm",
+    "R_AKGDam",
+    "R_AKGDbm"
+   ],
+   "YHR046C": [
+    "R_MI1PP"
+   ],
+   "YHR216W": [
+    "R_IMPD"
+   ],
+   "YOR278W": [
+    "R_UPP3S"
+   ],
+   "YOL052C": [
+    "R_ADMDC"
+   ],
+   "YDR305C": [
+    "R_AP4AHr"
+   ],
+   "YHR051W": [
+    "R_CYOOm"
+   ],
+   "YDR342C": [
+    "R_MANt2",
+    "R_GLCt1",
+    "R_FRUt2"
+   ],
+   "YPL078C": [
+    "R_ATPS3m"
+   ],
+   "YDR400W": [
+    "R_ADNUC",
+    "R_GNNUC"
+   ],
+   "YJL045W": [
+    "R_SUCD1m",
+    "R_SUCD3_u6m",
+    "R_SUCD2_u6m"
+   ],
+   "YER056C": [
+    "R_CSNt2",
+    "R_ADEt2",
+    "R_GUAt2r"
+   ],
+   "YGL234W": [
+    "R_PRAGSr",
+    "R_PRAIS"
+   ],
+   "YOR347C": [
+    "R_PYK"
+   ],
+   "YLR304C": [
+    "R_ACONT",
+    "R_ACONTm"
+   ],
+   "YFR053C": [
+    "R_HEX1",
+    "R_HEX7",
+    "R_HEX4"
+   ],
+   "YOR065W": [
+    "R_CYOR_u6m"
+   ],
+   "YDR001C": [
+    "R_TREH"
+   ],
+   "YIL162W": [
+    "R_SUCRe"
+   ],
+   "YDR294C": [
+    "R_SPHPL",
+    "R_PSPHPL"
+   ],
+   "YGL187C": [
+    "R_CYOOm"
+   ],
+   "YIR032C": [
+    "R_UGLYCHr"
+   ],
+   "YBR001C": [
+    "R_TREH"
+   ],
+   "YOR317W": [
+    "R_FACOAL141",
+    "R_FACOAL140",
+    "R_FACOAL161",
+    "R_FACOAL160",
+    "R_FACOAL182",
+    "R_FACOAL181",
+    "R_FACOAL180"
+   ],
+   "YBR299W": [
+    "R_MALT"
+   ],
+   "YJR066W": [
+    "R_PIN3K_SC"
+   ],
+   "YLR328W": [
+    "R_NNATm",
+    "R_NMNATm",
+    "R_NNAT"
+   ],
+   "YLR100W": [
+    "R_C3STKR2",
+    "R_C3STKR1"
+   ],
+   "YIR028W": [
+    "R_ALLTNti"
+   ]
+  },
+  "sbml_in": "Scerevisiae_iND750.xml",
+  "taxon_id": "559292",
+  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg1-scer)-(Scerevisiae_iND750).seqplus.xml",
+  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg1-scer)-(Scerevisiae_iND750).seqplus.xml",
+  "reaction2gene": {
+   "R_ARABR": [
+    "YHR104W"
+   ],
+   "R_GLYCt": [
+    "YLL043W"
+   ],
+   "R_LPP_SC": [
+    "YDR284C",
+    "YDR503C"
+   ],
+   "R_TREH": [
+    "YBR001C",
+    "YDR001C"
+   ],
+   "R_CTPS2": [
+    "YBL039C",
+    "YJR103W"
+   ],
+   "R_CTPS1": [
+    "YBL039C",
+    "YJR103W"
+   ],
+   "R_ALDD2y": [
+    "YPL061W"
+   ],
+   "R_DHPSm": [
+    "YNL256W"
+   ],
+   "R_UGLT": [
+    "YBR018C"
+   ],
+   "R_PRPPS": [
+    "YKL181W",
+    "YER099C",
+    "YHL011C",
+    "YBL068W",
+    "YOL061W"
+   ],
+   "R_HPROb": [
+    "YER023W"
+   ],
+   "R_HPROa": [
+    "YER023W"
+   ],
+   "R_13BGHe": [
+    "YOR190W",
+    "YDR261C",
+    "YLR300W"
+   ],
+   "R_IPMD": [
+    "YCL018W"
+   ],
+   "R_THMPe": [
+    "YBR092C"
+   ],
+   "R_ADCS": [
+    "YNR033W"
+   ],
+   "R_ASNN": [
+    "YDR321W"
+   ],
+   "R_HKYNH": [
+    "YLR231C"
+   ],
+   "R_ACOAO9p": [
+    "YGL205W"
+   ],
+   "R_PYDXNO": [
+    "YBR035C"
+   ],
+   "R_PROt2r": [
+    "YOR348C",
+    "YKR039W"
+   ],
+   "R_FBP26": [
+    "YJL155C"
+   ],
+   "R_PANTS": [
+    "YIL145C"
+   ],
+   "R_FBA3": [
+    "YKL060C"
+   ],
+   "R_LYSTRS": [
+    "YDR037W"
+   ],
+   "R_G6PDH2": [
+    "YNL241C"
+   ],
+   "R_FA140COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_PIt5m": [
+    "YER053C"
+   ],
+   "R_FACOAL161p": [
+    "YER015W"
+   ],
+   "R_FACOAL120p": [
+    "YER015W"
+   ],
+   "R_SPMS": [
+    "YPR069C"
+   ],
+   "R_ALCD19y": [
+    "YHR104W"
+   ],
+   "R_FA180ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_PMEVK": [
+    "YMR220W"
+   ],
+   "R_DHQTi": [
+    "YDR127W"
+   ],
+   "R_ALASm": [
+    "YDR232W"
+   ],
+   "R_TRPt2r": [
+    "YOL020W",
+    "YKR039W",
+    "YBR069C",
+    "YBR068C",
+    "YDR046C"
+   ],
+   "R_FA182COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_FRUt2": [
+    "YJR158W",
+    "YHR096C",
+    "YOL156W",
+    "YNR072W",
+    "YDR345C",
+    "YDR343C",
+    "YFL011W",
+    "YJL219W",
+    "YJL214W",
+    "YMR011W",
+    "YHR094C",
+    "YEL069C",
+    "YDR342C",
+    "YHR092C",
+    "YDL245C"
+   ],
+   "R_CAT": [
+    "YGR088W"
+   ],
+   "R_NNATm": [
+    "YLR328W"
+   ],
+   "R_SAM24MT": [
+    "YML008C"
+   ],
+   "R_FMNAT": [
+    "YDL045C"
+   ],
+   "R_TREHv": [
+    "YPR026W"
+   ],
+   "R_SERTRS": [
+    "YHR011W",
+    "YDR023W"
+   ],
+   "R_GHMT2rm": [
+    "YBR263W"
+   ],
+   "R_FA181ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_FAS80COA_L": [
+    "YGR037C",
+    "YKL182W",
+    "YPL231W",
+    "YNR016C"
+   ],
+   "R_CSp": [
+    "YCR005C"
+   ],
+   "R_ASNTRS": [
+    "YHR019C"
+   ],
+   "R_PDHcm": [
+    "YIL125W",
+    "YFL018C",
+    "YDR148C"
+   ],
+   "R_GNNUC": [
+    "YDR400W"
+   ],
+   "R_MMETt2": [
+    "YLL061W"
+   ],
+   "R_PUNP1m": [
+    "YLR209C"
+   ],
+   "R_SBTD_D2": [
+    "YJR159W"
+   ],
+   "R_KATp": [
+    "YIL160C"
+   ],
+   "R_CITtcm": [
+    "YBR291C"
+   ],
+   "R_DGK1": [
+    "YDR454C"
+   ],
+   "R_CHRPL": [
+    "YKL211C",
+    "YER090W"
+   ],
+   "R_SERD_L": [
+    "YCL064C",
+    "YIL168W"
+   ],
+   "R_KARA1im": [
+    "YLR355C"
+   ],
+   "R_TRDRm": [
+    "YHR106W"
+   ],
+   "R_SACCD2": [
+    "YIR034C"
+   ],
+   "R_SACCD1": [
+    "YNR050C"
+   ],
+   "R_G5SD2": [
+    "YOR323C"
+   ],
+   "R_FACOAL141": [
+    "YOR317W",
+    "YMR246W",
+    "YIL009W"
+   ],
+   "R_FACOAL140": [
+    "YOR317W",
+    "YMR246W",
+    "YIL009W"
+   ],
+   "R_CYSt2r": [
+    "YOL020W",
+    "YDR046C",
+    "YKR039W",
+    "YBR068C",
+    "YDR508C",
+    "YBR069C"
+   ],
+   "R_HCYSMT": [
+    "YLL062C",
+    "YPL273W"
+   ],
+   "R_C4STMO1": [
+    "YGR060W"
+   ],
+   "R_ABUTDm": [
+    "YOR374W",
+    "YER073W"
+   ],
+   "R_PRFGS": [
+    "YGR061C"
+   ],
+   "R_PAPSR": [
+    "YPR167C"
+   ],
+   "R_FBP": [
+    "YLR377C"
+   ],
+   "R_ACACT7p": [
+    "YIL160C"
+   ],
+   "R_FACOAL240p": [
+    "YBR041W"
+   ],
+   "R_MALSp": [
+    "YIR031C",
+    "YNL117W"
+   ],
+   "R_SUCOASm": [
+    "YOR142W",
+    "YGR244C"
+   ],
+   "R_ACSp": [
+    "YAL054C"
+   ],
+   "R_ECOAH7p": [
+    "YKR009C"
+   ],
+   "R_GUAPRT": [
+    "YDR399W"
+   ],
+   "R_THRTRSm": [
+    "YKL194C"
+   ],
+   "R_ACSm": [
+    "YAL054C"
+   ],
+   "R_FTHFCL": [
+    "YER183C"
+   ],
+   "R_GLUDC": [
+    "YMR250W"
+   ],
+   "R_SHK3D": [
+    "YDR127W"
+   ],
+   "R_FAS80_L": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_PI45BPP_SC": [
+    "YPL268W"
+   ],
+   "R_NNAMr": [
+    "YGL037C"
+   ],
+   "R_NAt3_1": [
+    "YLR138W"
+   ],
+   "R_GLUDy": [
+    "YAL062W",
+    "YOR375C"
+   ],
+   "R_PDE1": [
+    "YOR360C",
+    "YGL248W"
+   ],
+   "R_PDE2": [
+    "YOR360C"
+   ],
+   "R_PDE3": [
+    "YOR360C"
+   ],
+   "R_PDE4": [
+    "YOR360C"
+   ],
+   "R_PDE5": [
+    "YOR360C"
+   ],
+   "R_CDPDGPm_SC": [
+    "YCL004W"
+   ],
+   "R_GLUPRT": [
+    "YMR300C"
+   ],
+   "R_FA140ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_MANt2": [
+    "YJR158W",
+    "YHR096C",
+    "YOL156W",
+    "YNR072W",
+    "YDR345C",
+    "YDR343C",
+    "YFL011W",
+    "YJL219W",
+    "YJL214W",
+    "YMR011W",
+    "YHR094C",
+    "YEL069C",
+    "YDR342C",
+    "YHR092C",
+    "YDL245C"
+   ],
+   "R_NAPRT": [
+    "YOR209C"
+   ],
+   "R_G12MT2g": [
+    "YNL029C",
+    "YKR061W",
+    "YPL053C",
+    "YOR099W",
+    "YJL139C",
+    "YDR483W",
+    "YBR205W",
+    "YBR199W"
+   ],
+   "R_UDPACGLP": [
+    "YDL103C"
+   ],
+   "R_13GS": [
+    "YCR034W",
+    "YGR032W",
+    "YLR342W",
+    "YMR306W"
+   ],
+   "R_ASPTAm": [
+    "YKL106W"
+   ],
+   "R_EHGLATm": [
+    "YKL106W"
+   ],
+   "R_DESAT18": [
+    "YGL055W"
+   ],
+   "R_FAS260": [
+    "YLR372W"
+   ],
+   "R_DESAT16": [
+    "YGL055W"
+   ],
+   "R_HSDyi": [
+    "YJR139C"
+   ],
+   "R_G3PD1irm": [
+    "YOL059W"
+   ],
+   "R_FAS140": [
+    "YGR037C",
+    "YKL182W",
+    "YPL231W",
+    "YNR016C"
+   ],
+   "R_ACOAO5p": [
+    "YGL205W"
+   ],
+   "R_FBA2": [
+    "YKL060C"
+   ],
+   "R_EHGLATp": [
+    "YLR027C"
+   ],
+   "R_PYRDC": [
+    "YLR134W",
+    "YGR087C",
+    "YLR044C"
+   ],
+   "R_ASPTAp": [
+    "YLR027C"
+   ],
+   "R_UDPG4E": [
+    "YBR019C"
+   ],
+   "R_CHTNS": [
+    "YNL192W",
+    "YBR023C",
+    "YBR038W"
+   ],
+   "R_ETHAPT_SC": [
+    "YHR123W"
+   ],
+   "R_ALLTAHr": [
+    "YIR029W"
+   ],
+   "R_GLYGS": [
+    "YFR015C",
+    "YLR258W"
+   ],
+   "R_GLUTRS": [
+    "YGL245W"
+   ],
+   "R_RNDR2": [
+    "YER070W",
+    "YJL026W"
+   ],
+   "R_G5SD": [
+    "YOR323C"
+   ],
+   "R_MCITLm": [
+    "YPR006C"
+   ],
+   "R_GLYK": [
+    "YHL032C"
+   ],
+   "R_ANS": [
+    "YER090W",
+    "YKL211C"
+   ],
+   "R_HSTPT": [
+    "YIL116W"
+   ],
+   "R_ADSL2r": [
+    "YLR359W"
+   ],
+   "R_FA160COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_PINOS_SC": [
+    "YPR113W"
+   ],
+   "R_GLU5K": [
+    "YDR300C"
+   ],
+   "R_SPRMS": [
+    "YLR146C"
+   ],
+   "R_RNDR1n": [
+    "YER070W",
+    "YGR180C",
+    "YIL066C"
+   ],
+   "R_HBZOPT6m": [
+    "YPL172C",
+    "YBR003W",
+    "YNR041C"
+   ],
+   "R_MEVK1": [
+    "YMR208W"
+   ],
+   "R_FACOAL80p": [
+    "YER015W"
+   ],
+   "R_MEVK2": [
+    "YMR208W"
+   ],
+   "R_MEVK4": [
+    "YMR208W"
+   ],
+   "R_CHORM": [
+    "YPR060C"
+   ],
+   "R_GLCP": [
+    "YPR160W"
+   ],
+   "R_TMDS": [
+    "YOR074C"
+   ],
+   "R_DPMVD": [
+    "YNR043W"
+   ],
+   "R_G3PT": [
+    "YIL053W",
+    "YER062C"
+   ],
+   "R_HSK": [
+    "YHR025W"
+   ],
+   "R_AMID": [
+    "YDR242W",
+    "YMR293C"
+   ],
+   "R_ASPTRSm": [
+    "YPL104W"
+   ],
+   "R_DMATT": [
+    "YJL167W"
+   ],
+   "R_DCYTD": [
+    "YLR245C"
+   ],
+   "R_GGLGH": [
+    "YBR184W"
+   ],
+   "R_ACPSm": [
+    "YPL148C"
+   ],
+   "R_HPROxm": [
+    "YHR037W"
+   ],
+   "R_HACD7p": [
+    "YKR009C"
+   ],
+   "R_SUCFUMtm": [
+    "YJR095W"
+   ],
+   "R_ORNDC": [
+    "YKL184W"
+   ],
+   "R_METB1": [
+    "YJR130C"
+   ],
+   "R_UMPK": [
+    "YKL024C"
+   ],
+   "R_DOLK": [
+    "YMR013C"
+   ],
+   "R_ACOAH": [
+    "YBL015W"
+   ],
+   "R_GF6PTA": [
+    "YKL104C",
+    "YMR085W",
+    "YMR084W"
+   ],
+   "R_PROTRS": [
+    "YER087W",
+    "YHR020W"
+   ],
+   "R_FRDcm": [
+    "YEL047C"
+   ],
+   "R_THFGLUS": [
+    "YKL132C",
+    "YMR113W",
+    "YOR241W"
+   ],
+   "R_FA260tp": [
+    "YBR041W"
+   ],
+   "R_KYN": [
+    "YLR231C"
+   ],
+   "R_PHEt2r": [
+    "YCL025C",
+    "YKR039W",
+    "YDR046C",
+    "YOL020W",
+    "YBR068C"
+   ],
+   "R_GCCam": [
+    "YMR189W",
+    "YDR019C",
+    "YFL018C",
+    "YAL044C"
+   ],
+   "R_ICDHy": [
+    "YLR174W"
+   ],
+   "R_FMETTRSm": [
+    "YBL013W"
+   ],
+   "R_3HAO": [
+    "YJR025C"
+   ],
+   "R_TPI": [
+    "YDR050C"
+   ],
+   "R_ATPtm_H": [
+    "YBR085W",
+    "YMR056C",
+    "YBL030C"
+   ],
+   "R_GRTT": [
+    "YJL167W"
+   ],
+   "R_MTHFCm": [
+    "YBR084W"
+   ],
+   "R_ASPTA": [
+    "YLR027C"
+   ],
+   "R_NDPK9": [
+    "YKL067W"
+   ],
+   "R_NDPK8": [
+    "YKL067W"
+   ],
+   "R_NDPK7": [
+    "YKL067W"
+   ],
+   "R_NDPK6": [
+    "YKL067W"
+   ],
+   "R_NDPK5": [
+    "YKL067W"
+   ],
+   "R_NDPK4": [
+    "YKL067W"
+   ],
+   "R_NDPK3": [
+    "YKL067W"
+   ],
+   "R_NDPK2": [
+    "YKL067W"
+   ],
+   "R_NDPK1": [
+    "YKL067W"
+   ],
+   "R_FA161ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_SQLS": [
+    "YHR190W"
+   ],
+   "R_ALDD20xm": [
+    "YOR374W"
+   ],
+   "R_5AOPt2": [
+    "YDL210W"
+   ],
+   "R_FAS180ACPm": [
+    "YKL192C",
+    "YER061C",
+    "YKL055C",
+    "YOR221C"
+   ],
+   "R_ME2m": [
+    "YKL029C"
+   ],
+   "R_OHPHM6n": [
+    "YPL266W"
+   ],
+   "R_OXO2Ctm": [
+    "YPL134C",
+    "YOR222W"
+   ],
+   "R_HMGCOAS": [
+    "YML126C"
+   ],
+   "R_LEUTAm": [
+    "YHR208W"
+   ],
+   "R_PC": [
+    "YGL062W",
+    "YBR218C"
+   ],
+   "R_RBFKm": [
+    "YDR236C"
+   ],
+   "R_FA141COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_FA181COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_ENO": [
+    "YOR393W",
+    "YPL281C",
+    "YHR174W",
+    "YGR254W",
+    "YMR323W"
+   ],
+   "R_FAS80ACPm_L": [
+    "YKL192C",
+    "YER061C",
+    "YKL055C",
+    "YOR221C"
+   ],
+   "R_ACACT8p": [
+    "YIL160C"
+   ],
+   "R_URIt2": [
+    "YBL042C"
+   ],
+   "R_AMPN": [
+    "YBR284W",
+    "YJL070C",
+    "YML035C"
+   ],
+   "R_AMAOTr": [
+    "YNR058W"
+   ],
+   "R_ACCOACr": [
+    "YNR016C"
+   ],
+   "R_THFATm": [
+    "YDR019C",
+    "YMR189W",
+    "YAL044C",
+    "YBR221C",
+    "YER178W"
+   ],
+   "R_FADFMNtm": [
+    "YIL134W"
+   ],
+   "R_GND": [
+    "YGR256W",
+    "YHR183W"
+   ],
+   "R_NMNAT": [
+    "YGR010W"
+   ],
+   "R_SERt2r": [
+    "YCL025C",
+    "YFL055W",
+    "YPL265W",
+    "YDR508C",
+    "YKR039W"
+   ],
+   "R_DGGH": [
+    "YJL221C"
+   ],
+   "R_AMETt2": [
+    "YPL274W"
+   ],
+   "R_GLUK": [
+    "YCL040W"
+   ],
+   "R_PYDXO": [
+    "YBR035C"
+   ],
+   "R_ALLTTti": [
+    "YJR152W"
+   ],
+   "R_HACD10p": [
+    "YKR009C"
+   ],
+   "R_ADSL1r": [
+    "YLR359W"
+   ],
+   "R_INSTt2": [
+    "YDR497C",
+    "YOL103W"
+   ],
+   "R_ALPHNH": [
+    "YBR208C"
+   ],
+   "R_CYTDK2": [
+    "YNR012W"
+   ],
+   "R_DHPPDA": [
+    "YBR153W"
+   ],
+   "R_IPDDI": [
+    "YPL117C"
+   ],
+   "R_DUTPDP": [
+    "YBR252W"
+   ],
+   "R_RNDR1": [
+    "YIL066C",
+    "YJL026W",
+    "YER070W"
+   ],
+   "R_GTHO": [
+    "YPL091W"
+   ],
+   "R_GBEZ": [
+    "YEL011W"
+   ],
+   "R_DAGCPT_SC": [
+    "YNL130C",
+    "YHR123W"
+   ],
+   "R_OMBZLM6m": [
+    "YML110C"
+   ],
+   "R_GCCbim": [
+    "YDR019C",
+    "YMR189W",
+    "YFL018C",
+    "YAL044C"
+   ],
+   "R_TYRTAi": [
+    "YHR137W",
+    "YGL202W"
+   ],
+   "R_TYRTAm": [
+    "YKL106W"
+   ],
+   "R_OCBTi": [
+    "YJL088W"
+   ],
+   "R_ICL": [
+    "YER065C"
+   ],
+   "R_ABTA": [
+    "YGR019W"
+   ],
+   "R_C22STDS": [
+    "YMR015C"
+   ],
+   "R_SO4ti": [
+    "YBR294W",
+    "YLR092W",
+    "YGR125W"
+   ],
+   "R_AHCi": [
+    "YER043C"
+   ],
+   "R_LCADm": [
+    "YER073W"
+   ],
+   "R_ATPATF2": [
+    "YCL050C"
+   ],
+   "R_ATPATF3": [
+    "YCL050C"
+   ],
+   "R_ATPATF1": [
+    "YDR530C"
+   ],
+   "R_FCLTm": [
+    "YOR176W"
+   ],
+   "R_DPR": [
+    "YHR063C"
+   ],
+   "R_FDH": [
+    "YPL275W",
+    "YPL276W",
+    "YOR388C"
+   ],
+   "R_NADK": [
+    "YJR049C",
+    "YEL041W",
+    "YPL188W"
+   ],
+   "R_LYSTRSm": [
+    "YNL073W"
+   ],
+   "R_SSALy": [
+    "YBR006W"
+   ],
+   "R_TYRTA": [
+    "YLR027C"
+   ],
+   "R_SUCD1m": [
+    "YKL141W",
+    "YDR178W",
+    "YLL041C",
+    "YJL045W",
+    "YKL148C",
+    "YMR118C",
+    "YLR164W"
+   ],
+   "R_PRO1xm": [
+    "YLR142W"
+   ],
+   "R_KYN3OX": [
+    "YBL098W"
+   ],
+   "R_CYSTGL": [
+    "YAL012W"
+   ],
+   "R_VALTA": [
+    "YJR148W"
+   ],
+   "R_UREASE": [
+    "YBR208C"
+   ],
+   "R_BPNT": [
+    "YOL064C"
+   ],
+   "R_FAS140COA": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_CHLPCTD": [
+    "YGR202C"
+   ],
+   "R_PHETA1": [
+    "YHR137W"
+   ],
+   "R_MCOATAm": [
+    "YOR221C"
+   ],
+   "R_FAS100": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_IGPS": [
+    "YKL211C"
+   ],
+   "R_PDHm": [
+    "YNL071W",
+    "YFL018C",
+    "YBR221C",
+    "YER178W"
+   ],
+   "R_HETZK": [
+    "YPL214C"
+   ],
+   "R_ADK4m": [
+    "YER170W"
+   ],
+   "R_GALIGH": [
+    "YBR184W"
+   ],
+   "R_GCC2bim": [
+    "YDR019C",
+    "YMR189W",
+    "YFL018C",
+    "YAL044C"
+   ],
+   "R_NNDPRm": [
+    "YFR047C"
+   ],
+   "R_TMDPPK": [
+    "YOR143C"
+   ],
+   "R_FACOAL140p": [
+    "YER015W"
+   ],
+   "R_MIPCS226_SC": [
+    "YPL057C",
+    "YBR036C"
+   ],
+   "R_GLUCYS": [
+    "YJL101C"
+   ],
+   "R_IPPSm": [
+    "YNL104C"
+   ],
+   "R_ILETA": [
+    "YJR148W"
+   ],
+   "R_PGM": [
+    "YKL152C",
+    "YOL056W",
+    "YDL021W"
+   ],
+   "R_PGL": [
+    "YCR073W_0_A",
+    "YNR034W",
+    "YGR248W",
+    "YHR163W"
+   ],
+   "R_PGK": [
+    "YCR012W"
+   ],
+   "R_FAS120ACPm": [
+    "YKL192C",
+    "YER061C",
+    "YKL055C",
+    "YOR221C"
+   ],
+   "R_PGI": [
+    "YBR196C"
+   ],
+   "R_HMGCOAR": [
+    "YLR450W",
+    "YML075C"
+   ],
+   "R_ADK1m": [
+    "YER170W"
+   ],
+   "R_CSNATirm": [
+    "YML042W"
+   ],
+   "R_TRPS1": [
+    "YGL026C"
+   ],
+   "R_ACACT9p": [
+    "YIL160C"
+   ],
+   "R_SLFAT": [
+    "YCL050C"
+   ],
+   "R_HMGCOASm": [
+    "YML126C"
+   ],
+   "R_SPHPL": [
+    "YDR294C"
+   ],
+   "R_FAS160COA": [
+    "YGR037C",
+    "YKL182W",
+    "YPL231W",
+    "YNR016C"
+   ],
+   "R_DURIPP": [
+    "YLR209C"
+   ],
+   "R_CBPSn": [
+    "YJL130C"
+   ],
+   "R_3DSPHR": [
+    "YBR265W"
+   ],
+   "R_GALt2": [
+    "YDR536W",
+    "YNL318C",
+    "YLR081W",
+    "YOL156W",
+    "YFL011W",
+    "YJL219W"
+   ],
+   "R_GMPS2": [
+    "YMR217W"
+   ],
+   "R_ACOATA": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_CERH126": [
+    "YDR297W"
+   ],
+   "R_CERH124": [
+    "YDR297W"
+   ],
+   "R_INDPYRD": [
+    "YDR380W"
+   ],
+   "R_SHKK": [
+    "YDR127W"
+   ],
+   "R_TRDR": [
+    "YDR353W"
+   ],
+   "R_AHSERL": [
+    "YLR303W"
+   ],
+   "R_ARGN": [
+    "YPL111W"
+   ],
+   "R_ALLTNti": [
+    "YIR028W"
+   ],
+   "R_FAS181ACPm": [
+    "YKL192C",
+    "YKL055C",
+    "YER061C",
+    "YOR221C"
+   ],
+   "R_MELTGH": [
+    "YBR184W"
+   ],
+   "R_CSNt2": [
+    "YGL186C",
+    "YER060W_0_A",
+    "YER060W",
+    "YER056C"
+   ],
+   "R_ECOAH6p": [
+    "YKR009C"
+   ],
+   "R_TRPTRSm": [
+    "YDR268W"
+   ],
+   "R_ACP1e": [
+    "YAR071W"
+   ],
+   "R_DMQMT6m": [
+    "YOL096C"
+   ],
+   "R_MIP2CS226_SC": [
+    "YDR072C"
+   ],
+   "R_ASPTRS": [
+    "YLL018C"
+   ],
+   "R_MAN6PI": [
+    "YER003C"
+   ],
+   "R_DASYNm_SC": [
+    "YBR029C"
+   ],
+   "R_GLUDxi": [
+    "YDL215C"
+   ],
+   "R_LGTHL": [
+    "YML004C"
+   ],
+   "R_PYR5CDm": [
+    "YHR037W"
+   ],
+   "R_FACOAL260p": [
+    "YBR041W"
+   ],
+   "R_ASPKi": [
+    "YER052C"
+   ],
+   "R_EPMGH": [
+    "YBR184W"
+   ],
+   "R_TRPTRS": [
+    "YOL097C"
+   ],
+   "R_IPCS326_SC": [
+    "YKL004W"
+   ],
+   "R_APRAUR": [
+    "YBR153W"
+   ],
+   "R_C3STDH2": [
+    "YGL001C"
+   ],
+   "R_C3STDH1": [
+    "YGL001C"
+   ],
+   "R_DHAD1m": [
+    "YJR016C"
+   ],
+   "R_CYOR_u6m": [
+    "YHR001W_0_A",
+    "YJL166W",
+    "YGR183C",
+    "YBL045C",
+    "YFR033C",
+    "YEL024W",
+    "Q0105",
+    "YDR529C",
+    "YOR065W",
+    "YPR191W"
+   ],
+   "R_EHGLAT": [
+    "YLR027C"
+   ],
+   "R_ASPt2r": [
+    "YFL055W",
+    "YPL265W",
+    "YKR039W"
+   ],
+   "R_HPROym": [
+    "YHR037W"
+   ],
+   "R_ALDD2ym": [
+    "YOR374W"
+   ],
+   "R_PPND2": [
+    "YBR166C"
+   ],
+   "R_NADS1": [
+    "YHR074W"
+   ],
+   "R_PSERT": [
+    "YOR184W"
+   ],
+   "R_HACD6p": [
+    "YKR009C"
+   ],
+   "R_MALT": [
+    "YJL216C",
+    "YGR287C",
+    "YBR299W",
+    "YJL221C",
+    "YGR292W",
+    "YIL172C"
+   ],
+   "R_TALA": [
+    "YLR354C",
+    "YGR043C"
+   ],
+   "R_IMPD": [
+    "YAR073W",
+    "YML056C",
+    "YLR432W",
+    "YHR216W",
+    "YAR075W"
+   ],
+   "R_NTRLASE2": [
+    "YJL126W",
+    "YLR351C"
+   ],
+   "R_NTRLASE3": [
+    "YLR351C",
+    "YJL126W"
+   ],
+   "R_C24STRer": [
+    "YGL012W"
+   ],
+   "R_SBTD_L": [
+    "YJR159W"
+   ],
+   "R_IMPC": [
+    "YLR028C",
+    "YMR120C"
+   ],
+   "R_SHSL4r": [
+    "YML082W"
+   ],
+   "R_DHORTS": [
+    "YLR420W"
+   ],
+   "R_ARMT": [
+    "YBR034C"
+   ],
+   "R_ACONT": [
+    "YLR304C"
+   ],
+   "R_HEX1": [
+    "YFR053C",
+    "YCL040W",
+    "YGL253W"
+   ],
+   "R_HEX7": [
+    "YGL253W",
+    "YFR053C"
+   ],
+   "R_HEX4": [
+    "YFR053C",
+    "YGL253W"
+   ],
+   "R_SUCD3_u6m": [
+    "YKL141W",
+    "YDR178W",
+    "YLL041C",
+    "YJL045W",
+    "YKL148C",
+    "YMR118C",
+    "YLR164W"
+   ],
+   "R_TMDPK": [
+    "YOR143C"
+   ],
+   "R_ASADi": [
+    "YDR158W"
+   ],
+   "R_LEUTRSm": [
+    "YLR382C"
+   ],
+   "R_PUNP5": [
+    "YLR209C"
+   ],
+   "R_PUNP4": [
+    "YLR209C"
+   ],
+   "R_PUNP7": [
+    "YLR209C"
+   ],
+   "R_PUNP6": [
+    "YLR209C"
+   ],
+   "R_PUNP1": [
+    "YLR209C"
+   ],
+   "R_PUNP3": [
+    "YLR209C"
+   ],
+   "R_PUNP2": [
+    "YLR209C"
+   ],
+   "R_CYSTLp": [
+    "YGL184C"
+   ],
+   "R_HACNHm": [
+    "YDR234W"
+   ],
+   "R_GLNS": [
+    "YPR035W"
+   ],
+   "R_ACACT6p": [
+    "YIL160C"
+   ],
+   "R_CYSTRS": [
+    "YNL247W"
+   ],
+   "R_ILETRSm": [
+    "YPL040C"
+   ],
+   "R_CRNCARtm": [
+    "YOR100C"
+   ],
+   "R_ILETAm": [
+    "YHR208W"
+   ],
+   "R_OAAt2m": [
+    "YKL120W"
+   ],
+   "R_FAS240_L": [
+    "YCR034W"
+   ],
+   "R_PSERS_SC": [
+    "YER026C"
+   ],
+   "R_ZYMSTt": [
+    "YOR011W"
+   ],
+   "R_TMDPP": [
+    "YLR209C"
+   ],
+   "R_ALDD20y": [
+    "YPL061W"
+   ],
+   "R_MTHFR3": [
+    "YPL023C",
+    "YGL125W"
+   ],
+   "R_ACOAO6p": [
+    "YGL205W"
+   ],
+   "R_C3STKR1": [
+    "YLR100W"
+   ],
+   "R_AKGDam": [
+    "YIL125W",
+    "YFL018C",
+    "YDR148C"
+   ],
+   "R_DHNPAm": [
+    "YNL256W"
+   ],
+   "R_CLPNSm_SC": [
+    "YDL142C"
+   ],
+   "R_GLCt1": [
+    "YMR011W",
+    "YDL245C",
+    "YJL219W",
+    "YLR081W",
+    "YHR092C",
+    "YJL214W",
+    "YHR096C",
+    "YEL069C",
+    "YOL156W",
+    "YFL011W",
+    "YDR345C",
+    "YDR343C",
+    "YDR342C",
+    "YJR158W",
+    "YDR536W",
+    "YNR072W",
+    "YHR094C"
+   ],
+   "R_GAPD": [
+    "YJL052W",
+    "YGR192C",
+    "YJR009C"
+   ],
+   "R_HBZOPT6": [
+    "YDL090C",
+    "YKL019W",
+    "YGL155W",
+    "YMR101C",
+    "YJL031C",
+    "YPR176C",
+    "YBR002C"
+   ],
+   "R_GTMLT": [
+    "YLR299W"
+   ],
+   "R_ALAt2r": [
+    "YOL020W",
+    "YKR039W",
+    "YCL025C",
+    "YPL265W",
+    "YOR348C"
+   ],
+   "R_METAT": [
+    "YLR180W",
+    "YDR502C"
+   ],
+   "R_RNDR4": [
+    "YER070W",
+    "YJL026W"
+   ],
+   "R_PMETM_SC": [
+    "YJR073C"
+   ],
+   "R_OPHBDC6": [
+    "YDR538W"
+   ],
+   "R_RNDR3": [
+    "YER070W",
+    "YJL026W"
+   ],
+   "R_PSPHPL": [
+    "YDR294C"
+   ],
+   "R_MDH": [
+    "YOL126C"
+   ],
+   "R_PRAGSr": [
+    "YGL234W"
+   ],
+   "R_UPPRT": [
+    "YHR128W"
+   ],
+   "R_DAGPYP_SC": [
+    "YDR503C",
+    "YDR284C"
+   ],
+   "R_IPCS126_SC": [
+    "YKL004W"
+   ],
+   "R_PYK": [
+    "YAL038W",
+    "YOR347C"
+   ],
+   "R_PIt2m": [
+    "YJR077C"
+   ],
+   "R_CHORS": [
+    "YGL148W"
+   ],
+   "R_CPPPGO": [
+    "YDR044W"
+   ],
+   "R_GLYOX": [
+    "YDR272W"
+   ],
+   "R_ASNNe": [
+    "YLR157C",
+    "YLR160C",
+    "YLR155C",
+    "YLR158C"
+   ],
+   "R_PGAMT": [
+    "YEL058W"
+   ],
+   "R_ALATA_Lm": [
+    "YLR089C"
+   ],
+   "R_PIt2r": [
+    "YCR098C",
+    "YCR037C",
+    "YBR296C",
+    "YML123C",
+    "YNR013C",
+    "YJL198W"
+   ],
+   "R_ATPPRT": [
+    "YER055C"
+   ],
+   "R_RBFSb": [
+    "YBR256C"
+   ],
+   "R_RBFSa": [
+    "YOL143C"
+   ],
+   "R_FAS140ACPm": [
+    "YKL192C",
+    "YER061C",
+    "YKL055C",
+    "YOR221C"
+   ],
+   "R_FALDH": [
+    "YDL168W"
+   ],
+   "R_ACONTm": [
+    "YLR304C",
+    "YJL200C"
+   ],
+   "R_FUM": [
+    "YPL262W"
+   ],
+   "R_THMDPe": [
+    "YBR092C"
+   ],
+   "R_4HTHRS": [
+    "YCR053W"
+   ],
+   "R_SULR": [
+    "YJR137C",
+    "YFR030W"
+   ],
+   "R_PPA": [
+    "YBR011C"
+   ],
+   "R_PIN4Kn_SC": [
+    "YNL267W"
+   ],
+   "R_PPM": [
+    "YMR105C",
+    "YKL127W"
+   ],
+   "R_AHSERL2": [
+    "YLR303W"
+   ],
+   "R_PPNDH": [
+    "YNL316C"
+   ],
+   "R_PUNP3m": [
+    "YLR209C"
+   ],
+   "R_ALATRS": [
+    "YOR335C"
+   ],
+   "R_ADSK": [
+    "YKL001C"
+   ],
+   "R_ATP2tp_H": [
+    "YPR128C"
+   ],
+   "R_G6PI": [
+    "YBR196C"
+   ],
+   "R_MIPCS224_SC": [
+    "YBR036C",
+    "YPL057C"
+   ],
+   "R_RNDR4n": [
+    "YER070W",
+    "YGR180C"
+   ],
+   "R_ADSS": [
+    "YNL220W"
+   ],
+   "R_ORNt3m": [
+    "YOR130C"
+   ],
+   "R_VALTRSm": [
+    "YGR094W"
+   ],
+   "R_HCITSn": [
+    "YDL182W",
+    "YDL131W"
+   ],
+   "R_DTMPK": [
+    "YJR057W"
+   ],
+   "R_ATPS": [
+    "YPL036W",
+    "YCR024C_0_A",
+    "YEL017C_1_A",
+    "YGL008C"
+   ],
+   "R_DHAD2m": [
+    "YJR016C"
+   ],
+   "R_TRE6PS": [
+    "YDR074W",
+    "YBR126C",
+    "YML100W",
+    "YMR261C"
+   ],
+   "R_TRE6PP": [
+    "YDR074W",
+    "YBR126C",
+    "YML100W",
+    "YMR261C"
+   ],
+   "R_LYSt2r": [
+    "YKR039W",
+    "YNL268W"
+   ],
+   "R_SERPT": [
+    "YDR062W",
+    "YMR296C"
+   ],
+   "R_MOHMT": [
+    "YBR176W"
+   ],
+   "R_DNMPPA": [
+    "YDL100C"
+   ],
+   "R_ASNt2r": [
+    "YPL265W",
+    "YKR039W",
+    "YDR508C",
+    "YCL025C"
+   ],
+   "R_ACACT5p": [
+    "YIL160C"
+   ],
+   "R_DDPAm": [
+    "YDR035W"
+   ],
+   "R_PPAm": [
+    "YMR267W"
+   ],
+   "R_MTHFD2": [
+    "YKR080W"
+   ],
+   "R_DHQS": [
+    "YDR127W"
+   ],
+   "R_UGLYCHr": [
+    "YIR032C"
+   ],
+   "R_DHFRim": [
+    "YOR236W"
+   ],
+   "R_ARGTRS": [
+    "YDR341C"
+   ],
+   "R_MFAPS_SC": [
+    "YJR073C"
+   ],
+   "R_GALS3": [
+    "YBR184W"
+   ],
+   "R_ACGKm": [
+    "YER069W"
+   ],
+   "R_MIPCS124_SC": [
+    "YBR036C",
+    "YPL057C"
+   ],
+   "R_ECOAH11p": [
+    "YKR009C"
+   ],
+   "R_PSERDg_SC": [
+    "YGR170W"
+   ],
+   "R_ILEt2r": [
+    "YCL025C",
+    "YKR039W",
+    "YBR069C",
+    "YBR068C",
+    "YDR046C"
+   ],
+   "R_D_LACDm": [
+    "YDL174C"
+   ],
+   "R_CHTNDA": [
+    "YLR308W",
+    "YLR307W"
+   ],
+   "R_MTHFDm": [
+    "YBR084W"
+   ],
+   "R_FAS180": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_FAS120COA": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_ATPS3v": [
+    "YBR127C",
+    "YPL234C",
+    "YDL185W",
+    "YOR270C",
+    "YOR332W",
+    "YLR447C",
+    "YEL051W",
+    "YKL080W",
+    "YHR039C_0_A",
+    "YHR026W",
+    "YEL027W",
+    "YPR036W",
+    "YGR020C"
+   ],
+   "R_PPBNGS": [
+    "YGL040C"
+   ],
+   "R_HMBS": [
+    "YDL205C"
+   ],
+   "R_ALDD20ym": [
+    "YER073W",
+    "YOR374W"
+   ],
+   "R_ATPS3g": [
+    "YBR127C",
+    "YPL234C",
+    "YDL185W",
+    "YOR332W",
+    "YLR447C",
+    "YEL051W",
+    "YKL080W",
+    "YHR039C_0_A",
+    "YHR026W",
+    "YMR054W",
+    "YEL027W",
+    "YPR036W",
+    "YGR020C"
+   ],
+   "R_URAt2": [
+    "YBR021W"
+   ],
+   "R_ABUTt2": [
+    "YOR348C",
+    "YDL210W"
+   ],
+   "R_SBTR": [
+    "YHR104W"
+   ],
+   "R_CYOOm": [
+    "YGL191W",
+    "YDL067C",
+    "Q0275",
+    "YLR038C",
+    "YGL187C",
+    "Q0250",
+    "Q0045",
+    "YMR256C",
+    "YNL052W",
+    "YHR051W",
+    "YLR395C",
+    "YIL111W"
+   ],
+   "R_ATPS3m": [
+    "YDL004W",
+    "YKL016C",
+    "Q0085",
+    "YPL078C",
+    "Q0130",
+    "YDR377W",
+    "YPL271W",
+    "YML081C_0_A",
+    "YLR295C",
+    "YBR039W",
+    "YJR121W",
+    "YDR298C",
+    "Q0080",
+    "YDL181W",
+    "YBL099W",
+    "YOL077W_1_A",
+    "YPR020W",
+    "YDR322C_2_A"
+   ],
+   "R_UPP3MT": [
+    "YKR069W"
+   ],
+   "R_HISt2r": [
+    "YCL025C",
+    "YKR039W",
+    "YGR191W",
+    "YBR069C"
+   ],
+   "R_THRS": [
+    "YCR053W"
+   ],
+   "R_FAS160": [
+    "YGR037C",
+    "YKL182W",
+    "YPL231W",
+    "YNR016C"
+   ],
+   "R_P5CR": [
+    "YER023W"
+   ],
+   "R_AKP1": [
+    "YDR481C"
+   ],
+   "R_THRA": [
+    "YEL046C"
+   ],
+   "R_DICtm": [
+    "YLR348C"
+   ],
+   "R_SQLEr": [
+    "YGR175C"
+   ],
+   "R_IPCS324_SC": [
+    "YKL004W"
+   ],
+   "R_PYAM5PO": [
+    "YBR035C"
+   ],
+   "R_ARGt2r": [
+    "YKR039W",
+    "YNL270C",
+    "YEL063C"
+   ],
+   "R_GALU": [
+    "YKL035W",
+    "YHL012W"
+   ],
+   "R_GALT": [
+    "YBR018C"
+   ],
+   "R_FA182ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_NDP3g": [
+    "YEL042W"
+   ],
+   "R_GALK": [
+    "YBR020W"
+   ],
+   "R_ACOTAim": [
+    "YOL140W"
+   ],
+   "R_GK1": [
+    "YDR454C"
+   ],
+   "R_FA160ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_ILETRS": [
+    "YBL076C"
+   ],
+   "R_XYLR": [
+    "YHR104W"
+   ],
+   "R_ALDD2xm": [
+    "YOR374W"
+   ],
+   "R_LEUTRS": [
+    "YPL160W"
+   ],
+   "R_GCC2am": [
+    "YDR019C",
+    "YMR189W",
+    "YFL018C",
+    "YAL044C"
+   ],
+   "R_PSERDv_SC": [
+    "YGR170W"
+   ],
+   "R_IGPDH": [
+    "YOR202W"
+   ],
+   "R_PFK26": [
+    "YIL107C",
+    "YOL136C"
+   ],
+   "R_GK2": [
+    "YDR454C"
+   ],
+   "R_G3PDm": [
+    "YIL155C"
+   ],
+   "R_GLYTRS": [
+    "YPR081C",
+    "YBR121C"
+   ],
+   "R_CSNATifm": [
+    "YAR035W"
+   ],
+   "R_CRNt": [
+    "YBR132C"
+   ],
+   "R_G6PI2": [
+    "YBR196C"
+   ],
+   "R_PHETRSm": [
+    "YPR047W"
+   ],
+   "R_AIRCr": [
+    "YOR128C"
+   ],
+   "R_XYLK": [
+    "YGR194C"
+   ],
+   "R_GLNt2r": [
+    "YDR508C",
+    "YCL025C",
+    "YKR039W",
+    "YPL265W"
+   ],
+   "R_THRD_Lm": [
+    "YER086W"
+   ],
+   "R_RBK": [
+    "YCR036W"
+   ],
+   "R_CATp": [
+    "YDR256C"
+   ],
+   "R_OHPBAT": [
+    "YOR184W"
+   ],
+   "R_ERGSTt": [
+    "YOR011W"
+   ],
+   "R_ACGAMPM": [
+    "YEL058W"
+   ],
+   "R_AICART": [
+    "YLR028C",
+    "YMR120C"
+   ],
+   "R_SUCCtm": [
+    "YLR348C"
+   ],
+   "R_GLYt2r": [
+    "YPL265W",
+    "YKR039W",
+    "YOR348C",
+    "YOL020W"
+   ],
+   "R_ECOAH5p": [
+    "YKR009C"
+   ],
+   "R_RAFGH": [
+    "YBR184W"
+   ],
+   "R_XYLTD_D": [
+    "YLR070C"
+   ],
+   "R_TYRTAp": [
+    "YLR027C"
+   ],
+   "R_CSm": [
+    "YNR001C",
+    "YPR001W"
+   ],
+   "R_ALDD19x": [
+    "YMR170C",
+    "YMR169C"
+   ],
+   "R_PEPAT": [
+    "YDL040C",
+    "YGR147C"
+   ],
+   "R_DHAK": [
+    "YML070W",
+    "YFL053W"
+   ],
+   "R_IPCS226_SC": [
+    "YKL004W"
+   ],
+   "R_CITtam": [
+    "YBR291C"
+   ],
+   "R_URIK1": [
+    "YNR012W"
+   ],
+   "R_AMID3": [
+    "YDR242W"
+   ],
+   "R_GCCcm": [
+    "YMR189W",
+    "YDR019C",
+    "YFL018C",
+    "YAL044C"
+   ],
+   "R_HMPK1": [
+    "YOL055C",
+    "YPL258C",
+    "YPR121W"
+   ],
+   "R_METt2r": [
+    "YDR046C",
+    "YKR039W",
+    "YCL025C",
+    "YGR055W",
+    "YHL036W",
+    "YBR068C",
+    "YDR508C"
+   ],
+   "R_FACOAL161": [
+    "YOR317W",
+    "YMR246W",
+    "YIL009W"
+   ],
+   "R_FACOAL160": [
+    "YOR317W",
+    "YMR246W",
+    "YIL009W"
+   ],
+   "R_LEUt2r": [
+    "YDR046C",
+    "YDR508C",
+    "YBR069C",
+    "YBR068C",
+    "YCL025C",
+    "YKR039W"
+   ],
+   "R_FTHFL": [
+    "YGR204W"
+   ],
+   "R_DOLPMTcer": [
+    "YPR183W"
+   ],
+   "R_MIPCS326_SC": [
+    "YBR036C",
+    "YPL057C"
+   ],
+   "R_THRt2r": [
+    "YCL025C",
+    "YBR069C",
+    "YKR039W",
+    "YDR508C"
+   ],
+   "R_ACACT1m": [
+    "YPL028W"
+   ],
+   "R_ALCD2x": [
+    "YDL168W",
+    "YBR145W",
+    "YMR303C",
+    "YOL086C",
+    "YGL256W"
+   ],
+   "R_ORNTA": [
+    "YLR438W"
+   ],
+   "R_VALTRS": [
+    "YGR094W"
+   ],
+   "R_METS": [
+    "YER091C"
+   ],
+   "R_NTRLASE": [
+    "YLR351C",
+    "YJL126W"
+   ],
+   "R_ALCD2m": [
+    "YMR083W"
+   ],
+   "R_MIP2CS124_SC": [
+    "YDR072C"
+   ],
+   "R_BTNt2i": [
+    "YGR065C",
+    "YNR056C"
+   ],
+   "R_URIDK2r": [
+    "YKL024C"
+   ],
+   "R_ASPCTn": [
+    "YJL130C"
+   ],
+   "R_PDX5PO": [
+    "YBR035C"
+   ],
+   "R_FACOAL182": [
+    "YMR246W",
+    "YIL009W",
+    "YOR317W"
+   ],
+   "R_FACOAL181": [
+    "YOR317W",
+    "YMR246W",
+    "YIL009W"
+   ],
+   "R_ADNUC": [
+    "YDR400W"
+   ],
+   "R_ICDHyp": [
+    "YNL009W"
+   ],
+   "R_FAS160ACPm": [
+    "YKL192C",
+    "YKL055C",
+    "YER061C",
+    "YOR221C"
+   ],
+   "R_FACOAL141p": [
+    "YER015W"
+   ],
+   "R_FACOAL100p": [
+    "YER015W"
+   ],
+   "R_NADKm": [
+    "YEL041W",
+    "YPL188W",
+    "YJR049C"
+   ],
+   "R_FAS100COA": [
+    "YGR037C",
+    "YKL182W",
+    "YPL231W",
+    "YNR016C"
+   ],
+   "R_PFK": [
+    "YMR205C",
+    "YGR240C"
+   ],
+   "R_HICITDm": [
+    "YIL094C"
+   ],
+   "R_URIDK2rn": [
+    "YKL024C"
+   ],
+   "R_NH4t": [
+    "YNL142W",
+    "YPR138C",
+    "YGR121C"
+   ],
+   "R_FAS100ACPm": [
+    "YKL192C",
+    "YER061C",
+    "YKL055C",
+    "YOR221C"
+   ],
+   "R_DHORTSn": [
+    "YJL130C"
+   ],
+   "R_MALTt2": [
+    "YBR298C",
+    "YDL247W",
+    "YJR160C",
+    "YGR289C"
+   ],
+   "R_DDPA": [
+    "YBR249C",
+    "YDR035W"
+   ],
+   "R_TMPPP": [
+    "YPL214C"
+   ],
+   "R_C3STKR2": [
+    "YLR100W"
+   ],
+   "R_PSPHS": [
+    "YDR297W"
+   ],
+   "R_ACLSm": [
+    "YCL009C",
+    "YMR108W"
+   ],
+   "R_FUMm": [
+    "YPL262W"
+   ],
+   "R_ANPRT": [
+    "YDR354W"
+   ],
+   "R_C14STR": [
+    "YNL280C"
+   ],
+   "R_FACOAL160p": [
+    "YER015W"
+   ],
+   "R_FAS120": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_TYRTRSm": [
+    "YPL097W"
+   ],
+   "R_ACOAO7p": [
+    "YGL205W"
+   ],
+   "R_RNDR2n": [
+    "YER070W",
+    "YGR180C"
+   ],
+   "R_PSCVTi": [
+    "YDR127W"
+   ],
+   "R_TKT1": [
+    "YBR117C",
+    "YPR074C"
+   ],
+   "R_OMPDC": [
+    "YEL021W"
+   ],
+   "R_AGPRim": [
+    "YER069W"
+   ],
+   "R_CYTD": [
+    "YLR245C"
+   ],
+   "R_XPPT": [
+    "YJR133W"
+   ],
+   "R_ADD": [
+    "YNL141W"
+   ],
+   "R_UREA2t2": [
+    "YHL016C"
+   ],
+   "R_PMANM": [
+    "YFL045C"
+   ],
+   "R_MTHFD": [
+    "YGR204W"
+   ],
+   "R_MTHFC": [
+    "YGR204W"
+   ],
+   "R_GTHS": [
+    "YOL049W"
+   ],
+   "R_GTHP": [
+    "YBR244W",
+    "YKL026C",
+    "YIR037W"
+   ],
+   "R_ARGSSr": [
+    "YOL058W"
+   ],
+   "R_G3PD1ir": [
+    "YDL022W"
+   ],
+   "R_PGCD": [
+    "YER081W",
+    "YIL074C"
+   ],
+   "R_FA120ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_THRD_L": [
+    "YCL064C",
+    "YKL218C"
+   ],
+   "R_OMCDC": [
+    "YJR148W"
+   ],
+   "R_FAS161ACPm": [
+    "YKL192C",
+    "YKL055C",
+    "YER061C",
+    "YOR221C"
+   ],
+   "R_MDHm": [
+    "YKL085W"
+   ],
+   "R_ECOAH8p": [
+    "YKR009C"
+   ],
+   "R_RNDR3n": [
+    "YER070W",
+    "YGR180C"
+   ],
+   "R_MIP2CS324_SC": [
+    "YDR072C"
+   ],
+   "R_GCC2cm": [
+    "YMR189W",
+    "YDR019C",
+    "YFL018C",
+    "YAL044C"
+   ],
+   "R_PGMT": [
+    "YKL127W",
+    "YMR105C"
+   ],
+   "R_PMPK": [
+    "YPL258C",
+    "YOL055C"
+   ],
+   "R_PI4P5K_SC": [
+    "YDR208W",
+    "YFR019W"
+   ],
+   "R_MDHp": [
+    "YDL078C"
+   ],
+   "R_PYRt2": [
+    "YKL217W"
+   ],
+   "R_ATPtp_H": [
+    "YPR128C"
+   ],
+   "R_AP4AHr": [
+    "YDR305C"
+   ],
+   "R_UMPKn": [
+    "YKL024C"
+   ],
+   "R_LEUTA": [
+    "YJR148W"
+   ],
+   "R_PETOHM_SC": [
+    "YGR157W"
+   ],
+   "R_AGT": [
+    "YFL030W"
+   ],
+   "R_OMMBLHX6m": [
+    "YGR255C"
+   ],
+   "R_VALt2r": [
+    "YDR046C",
+    "YCL025C",
+    "YKR039W",
+    "YBR069C",
+    "YBR068C"
+   ],
+   "R_CYSTS": [
+    "YGR155W"
+   ],
+   "R_ACGSm": [
+    "YMR062C",
+    "YJL071W"
+   ],
+   "R_ACt2r": [
+    "YCR032W"
+   ],
+   "R_HACD5p": [
+    "YKR009C"
+   ],
+   "R_DPRm": [
+    "YLR355C"
+   ],
+   "R_ADEt2": [
+    "YER060W_0_A",
+    "YER056C",
+    "YGL186C",
+    "YER060W"
+   ],
+   "R_GLYOXm": [
+    "YOR040W"
+   ],
+   "R_PRASCS": [
+    "YAR015W"
+   ],
+   "R_AGAT_SC": [
+    "YDL052C"
+   ],
+   "R_PRMICIi": [
+    "YIL020C"
+   ],
+   "R_PHCDm": [
+    "YHR037W"
+   ],
+   "R_IPPMIa": [
+    "YGL009C"
+   ],
+   "R_IPPMIb": [
+    "YGL009C"
+   ],
+   "R_ACGAM6PS": [
+    "YFL017C"
+   ],
+   "R_GHMT2r": [
+    "YLR058C"
+   ],
+   "R_HACDp": [
+    "YKR009C"
+   ],
+   "R_HSERTA": [
+    "YNL277W"
+   ],
+   "R_MHPGLUT": [
+    "YER091C"
+   ],
+   "R_FAS180COA": [
+    "YGR037C",
+    "YNR016C",
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_DHORD": [
+    "YKL216W"
+   ],
+   "R_TKT2": [
+    "YPR074C",
+    "YBR117C"
+   ],
+   "R_AKGDbm": [
+    "YIL125W",
+    "YFL018C",
+    "YDR148C"
+   ],
+   "R_URIK2": [
+    "YNR012W"
+   ],
+   "R_ADK3m": [
+    "YER170W"
+   ],
+   "R_UPP3S": [
+    "YOR278W"
+   ],
+   "R_UPPDC1": [
+    "YDR047W"
+   ],
+   "R_SUCRe": [
+    "YIL162W"
+   ],
+   "R_GLPT": [
+    "YLR195C"
+   ],
+   "R_SADT": [
+    "YJR010W"
+   ],
+   "R_C5STDS": [
+    "YLR056W"
+   ],
+   "R_GLUt2r": [
+    "YCL025C",
+    "YFL055W",
+    "YKR039W",
+    "YDR536W",
+    "YPL265W"
+   ],
+   "R_NNAMrm": [
+    "YGL037C"
+   ],
+   "R_FTHFLm": [
+    "YBR084W"
+   ],
+   "R_HISTRSm": [
+    "YPR033C"
+   ],
+   "R_HXPRT": [
+    "YDR399W"
+   ],
+   "R_ADMDC": [
+    "YOL052C"
+   ],
+   "R_MI1PS": [
+    "YJL153C"
+   ],
+   "R_CYSS": [
+    "YGR012W"
+   ],
+   "R_MI1PP": [
+    "YHR046C"
+   ],
+   "R_ARAB1D2": [
+    "YBR149W"
+   ],
+   "R_ARAB1D1": [
+    "YBR149W"
+   ],
+   "R_DOLPMMer": [
+    "YDL093W",
+    "YAL023C",
+    "YDL095W",
+    "YJR143C",
+    "YOR321W",
+    "YGR199W"
+   ],
+   "R_CBPS": [
+    "YOR303W",
+    "YJR109C"
+   ],
+   "R_DRBK": [
+    "YCR036W"
+   ],
+   "R_FA161COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_ACOAO8p": [
+    "YGL205W"
+   ],
+   "R_ADK1": [
+    "YDR226W"
+   ],
+   "R_ORPT": [
+    "YML106W",
+    "YMR271C"
+   ],
+   "R_ADK3": [
+    "YDR226W"
+   ],
+   "R_ADK4": [
+    "YDR226W"
+   ],
+   "R_IPCS124_SC": [
+    "YKL004W"
+   ],
+   "R_CERS326": [
+    "YMR272C"
+   ],
+   "R_GLNTRS": [
+    "YOR168W"
+   ],
+   "R_PPPGOm": [
+    "YER014W"
+   ],
+   "R_RPE": [
+    "YJL121C"
+   ],
+   "R_MIPCS324_SC": [
+    "YBR036C",
+    "YPL057C"
+   ],
+   "R_SBPP1": [
+    "YJL134W",
+    "YKR053C"
+   ],
+   "R_DPGM": [
+    "YKL152C"
+   ],
+   "R_FA180COAabcp": [
+    "YKL188C",
+    "YPL147W"
+   ],
+   "R_RPI": [
+    "YOR095C"
+   ],
+   "R_ACS": [
+    "YLR153C"
+   ],
+   "R_IPPS": [
+    "YOR108W",
+    "YNL104C"
+   ],
+   "R_AMID2": [
+    "YDR242W"
+   ],
+   "R_OMCDCm": [
+    "YHR208W"
+   ],
+   "R_GARFTi": [
+    "YDR408C"
+   ],
+   "R_ASNS1": [
+    "YML096W",
+    "YGR124W",
+    "YPR145W"
+   ],
+   "R_MIP2CS126_SC": [
+    "YDR072C"
+   ],
+   "R_DXHPScm": [
+    "YHR068W"
+   ],
+   "R_ORNTACim": [
+    "YMR062C"
+   ],
+   "R_NADDPp": [
+    "YGL067W"
+   ],
+   "R_METTRSm": [
+    "YGR171C"
+   ],
+   "R_NMNATm": [
+    "YLR328W"
+   ],
+   "R_ALATA_L": [
+    "YDR111C"
+   ],
+   "R_ECOAH4p": [
+    "YKR009C"
+   ],
+   "R_CITtbm": [
+    "YBR291C"
+   ],
+   "R_NAPRTm": [
+    "YOR209C"
+   ],
+   "R_DASYN_SC": [
+    "YBR029C"
+   ],
+   "R_PFK_2": [
+    "YMR205C",
+    "YGR240C"
+   ],
+   "R_PFK_3": [
+    "YMR205C",
+    "YGR240C"
+   ],
+   "R_HACD8p": [
+    "YKR009C"
+   ],
+   "R_BTSr": [
+    "YGR286C"
+   ],
+   "R_ACHBSm": [
+    "YCL009C",
+    "YMR108W"
+   ],
+   "R_AMPDA": [
+    "YML035C"
+   ],
+   "R_NNDPR": [
+    "YFR047C"
+   ],
+   "R_ACACT1": [
+    "YPL028W"
+   ],
+   "R_DCTPD": [
+    "YHR144C"
+   ],
+   "R_CERS324": [
+    "YMR272C"
+   ],
+   "R_GLUSx": [
+    "YDL171C"
+   ],
+   "R_MIP2CS326_SC": [
+    "YDR072C"
+   ],
+   "R_13BGH": [
+    "YGR282C"
+   ],
+   "R_ADPT": [
+    "YML022W",
+    "YDR441C"
+   ],
+   "R_FAS182ACPm": [
+    "YKL192C",
+    "YKL055C",
+    "YER061C",
+    "YOR221C"
+   ],
+   "R_DHORD4": [
+    "YKL216W"
+   ],
+   "R_FBA": [
+    "YKL060C"
+   ],
+   "R_NADH2_u6cm": [
+    "YMR145C",
+    "YDL085W"
+   ],
+   "R_4HGLSDm": [
+    "YHR037W"
+   ],
+   "R_HISTP": [
+    "YFR025C"
+   ],
+   "R_PRAMPC": [
+    "YCL030C"
+   ],
+   "R_MALtm": [
+    "YLR348C"
+   ],
+   "R_IG3PS": [
+    "YBR248C"
+   ],
+   "R_PNTK": [
+    "YDR531W"
+   ],
+   "R_ADNK1": [
+    "YJR105W"
+   ],
+   "R_ADNCYC": [
+    "YJL005W"
+   ],
+   "R_ME1m": [
+    "YKL029C"
+   ],
+   "R_HISTD": [
+    "YCL030C"
+   ],
+   "R_PEPDt3": [
+    "YKR093W"
+   ],
+   "R_ACACT4p": [
+    "YIL160C"
+   ],
+   "R_CSNATirp": [
+    "YML042W"
+   ],
+   "R_TYRTRS": [
+    "YGR185C"
+   ],
+   "R_MAN1PT": [
+    "YDL055C"
+   ],
+   "R_PIN3K_SC": [
+    "YLR240W",
+    "YJR066W",
+    "YKL203C"
+   ],
+   "R_DCMPDA": [
+    "YHR144C"
+   ],
+   "R_NNAT": [
+    "YLR328W"
+   ],
+   "R_ICDHxm": [
+    "YOR136W",
+    "YNL037C"
+   ],
+   "R_FAS141ACPm": [
+    "YKL192C",
+    "YER061C",
+    "YKL055C",
+    "YOR221C"
+   ],
+   "R_TYRt2r": [
+    "YBR068C",
+    "YDR046C",
+    "YBR069C",
+    "YOL020W",
+    "YCL025C",
+    "YKR039W"
+   ],
+   "R_FRDm": [
+    "YJR051W"
+   ],
+   "R_IPCS224_SC": [
+    "YKL004W"
+   ],
+   "R_ORNt2r": [
+    "YKR039W",
+    "YEL063C"
+   ],
+   "R_LNS14DM": [
+    "YHR007C"
+   ],
+   "R_G12MT1g": [
+    "YNL029C",
+    "YKR061W",
+    "YPL053C",
+    "YOR099W",
+    "YJL139C",
+    "YDR483W",
+    "YBR205W",
+    "YBR199W"
+   ],
+   "R_PSERDm_SC": [
+    "YNL169C"
+   ],
+   "R_GLCS2": [
+    "YLR258W",
+    "YFR015C"
+   ],
+   "R_SBPP2": [
+    "YKR053C",
+    "YJL134W"
+   ],
+   "R_GUAt2r": [
+    "YGL186C",
+    "YER056C",
+    "YER060W",
+    "YER060W_0_A"
+   ],
+   "R_HSDxi": [
+    "YJR139C"
+   ],
+   "R_TRPO2": [
+    "YJR078W"
+   ],
+   "R_YUMPS": [
+    "YGL063W",
+    "YPL212C",
+    "YFL001W",
+    "YNL292W"
+   ],
+   "R_ACOAO4p": [
+    "YGL205W"
+   ],
+   "R_DADA": [
+    "YNL141W"
+   ],
+   "R_CHLt2": [
+    "YGL077C"
+   ],
+   "R_MIP2CS224_SC": [
+    "YDR072C"
+   ],
+   "R_ALLTNr": [
+    "YIR027C"
+   ],
+   "R_MIPCS126_SC": [
+    "YPL057C",
+    "YBR036C"
+   ],
+   "R_METTRS": [
+    "YGR264C"
+   ],
+   "R_ARGTRSm": [
+    "YHR091C"
+   ],
+   "R_GLUTRSm": [
+    "YOL033W"
+   ],
+   "R_AASAD2": [
+    "YBR115C",
+    "YGL154C"
+   ],
+   "R_AASAD1": [
+    "YBR115C",
+    "YGL154C"
+   ],
+   "R_ITCOALm": [
+    "YOR142W",
+    "YGR244C"
+   ],
+   "R_RBFK": [
+    "YDR236C"
+   ],
+   "R_PSP_L": [
+    "YGR208W"
+   ],
+   "R_DBTSr": [
+    "YNR057C"
+   ],
+   "R_CHOLK": [
+    "YLR133W"
+   ],
+   "R_GTPCII": [
+    "YBL033C"
+   ],
+   "R_C4STMO2": [
+    "YGR060W"
+   ],
+   "R_ARGSL": [
+    "YHR018C"
+   ],
+   "R_L_LACDm": [
+    "YML054C"
+   ],
+   "R_ETHAK": [
+    "YDR147W"
+   ],
+   "R_NADS1m": [
+    "YHR074W"
+   ],
+   "R_PPCK": [
+    "YKR097W"
+   ],
+   "R_THMt2": [
+    "YLR237W",
+    "YOR192C",
+    "YOR071C"
+   ],
+   "R_LNSTLS": [
+    "YHR072W"
+   ],
+   "R_L_LACt2r": [
+    "YKL217W"
+   ],
+   "R_HACD4p": [
+    "YKR009C"
+   ],
+   "R_PNTOt2": [
+    "YCR028C"
+   ],
+   "R_PHETRS": [
+    "YLR060W",
+    "YFL022C"
+   ],
+   "R_HISTRS": [
+    "YPR033C"
+   ],
+   "R_CYSTL": [
+    "YFR055W"
+   ],
+   "R_PIN4K_SC": [
+    "YNL267W",
+    "YLR305C"
+   ],
+   "R_ADA": [
+    "YNL141W"
+   ],
+   "R_THRTRS": [
+    "YIL078W"
+   ],
+   "R_ASNTRSm": [
+    "YCR024C"
+   ],
+   "R_CSND": [
+    "YPR062W"
+   ],
+   "R_FACOAL180": [
+    "YOR317W",
+    "YMR246W",
+    "YIL009W"
+   ],
+   "R_FOLD3m": [
+    "YNL256W"
+   ],
+   "R_GTPCI": [
+    "YGR267C"
+   ],
+   "R_PRAIi": [
+    "YDR007W"
+   ],
+   "R_NADH2_u6m": [
+    "YML120C",
+    "YKL192C"
+   ],
+   "R_GLYCLm": [
+    "YMR189W",
+    "YFL018C",
+    "YDR019C",
+    "YAL044C"
+   ],
+   "R_PSERSm_SC": [
+    "YER026C"
+   ],
+   "R_HPPKm": [
+    "YNL256W"
+   ],
+   "R_PETHCT": [
+    "YGR007W"
+   ],
+   "R_FA240tp": [
+    "YBR041W"
+   ],
+   "R_MCOATA": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_KARA2im": [
+    "YLR355C"
+   ],
+   "R_CERS2_APOS_26": [
+    "YMR272C"
+   ],
+   "R_CERS2_APOS_24": [
+    "YMR272C"
+   ],
+   "R_DHFRi": [
+    "YOR236W"
+   ],
+   "R_SFGTH": [
+    "YJL068C"
+   ],
+   "R_FA141ACPH": [
+    "YKL182W",
+    "YPL231W"
+   ],
+   "R_MEVK3": [
+    "YMR208W"
+   ],
+   "R_ACOATAm": [
+    "YER061C"
+   ],
+   "R_DIPS": [
+    "YLR172C"
+   ],
+   "R_ICDHym": [
+    "YDL066W"
+   ],
+   "R_PRATPP": [
+    "YCL030C"
+   ],
+   "R_PRAIS": [
+    "YGL234W"
+   ],
+   "R_SLCBK2": [
+    "YOR171C",
+    "YLR260W"
+   ],
+   "R_C8STI": [
+    "YMR202W"
+   ],
+   "R_SUCD2_u6m": [
+    "YKL141W",
+    "YDR178W",
+    "YLL041C",
+    "YJL045W",
+    "YKL148C",
+    "YMR118C",
+    "YLR164W"
+   ],
+   "R_SLCBK1": [
+    "YLR260W",
+    "YOR171C"
+   ]
+  }
+ }
+}
