@@ -871,10 +871,10 @@ class MetaDraftGUI(QWidget):
         for g, m, s, o in LD['genes']['selected']:
             total_sel += 1
             if o not in gene_stats['org']:
-                gene_stats['org'][o] = 1.0
+                gene_stats['org'][o] = 1
                 gene_stats['score'][o] = float(s)
             else:
-                gene_stats['org'][o] += 1.0
+                gene_stats['org'][o] += 1
                 gene_stats['score'][o] += float(s)
 
 
