@@ -51,7 +51,7 @@ try:
 except ImportError:
     HAVE_DOCX = False
 
-__version__ = '0.7.8'
+__version__ = '0.7.9'
 
 HAVE_QT4 = False
 HAVE_QT5 = False
@@ -1597,13 +1597,23 @@ class MetaDraftGUI(QWidget):
             slx.append(x[0][len(self.gene_prefix):])
             tlx.append(x[1])
 
-
+        new_groups = {}
         for r_ in selected_reactions:
             R = self.selected_reactions[r_]['obj'].clone()
             #print('-', R.__objref__)
             #for r in R.reagents:
                 #print('--', r.__objref__)
+
             rid = R.getId()
+
+            # store group information
+            if R._organism_ not in new_groups:
+                new_groups[R._organism_] = {'grp_map' : self._DAT_MODELS[R._organism_].getGroupMembership(),
+                                            'grpd' : [rid]}
+            else:
+                new_groups[R._organism_]['grpd'].append(rid)
+
+
             R.setCompartmentId(self.default_compartment)
             DUP_R = False
             notes = self.readNotesFromNotesDB(R._organism_, R.getId(), user, self._DAT_NOTESDB_KEY_)
@@ -1677,6 +1687,35 @@ class MetaDraftGUI(QWidget):
             if notes != '':
                 self.model.getGene(g_).setNotes('<p>{}</p>'.format(notes))
                 print('gn', self.model.getGene(g_).getNotes())
+
+        # generate new group information
+        cntr = 1
+        grps = {}
+
+        for o in new_groups:
+            grps = {}
+            tmpmod = self._DAT_MODELS[o]
+            for mid in new_groups[o]['grpd']:
+                if mid in new_groups[o]['grp_map']:
+                    for gid in new_groups[o]['grp_map'][mid]:
+                        if gid not in grps:
+                            grps[gid] = []
+                        grps[gid].append(mid)
+                else:
+                    print(mid)
+
+            for g in grps:
+                new_gid = '{}_{}'.format(cbmpy.CBModel.fixId(o), g)
+                self.model.createGroup(new_gid)
+                G = self.model.getGroup(new_gid)
+                G.setName(tmpmod.getGroup(g).getName())
+                for mid in grps[g]:
+                    # a bit of a hack for now, only deals with reactions and species
+                    obj = self.model.getReaction(mid)
+                    if obj is None:
+                        obj = self.model.getSpecies(mid)
+                    if obj is not None:
+                        G.addMember(obj)
 
         return self.model
 
