@@ -160,7 +160,7 @@ class StreamToLogger(object):
 
 
 ## 0: developer, 1: partner, 2: public
-RELEASE_STATUS = 0
+RELEASE_STATUS = 1
 
 if RELEASE_STATUS > 0:
     __DEBUG__ = False
@@ -668,7 +668,7 @@ class MetaDraftGUI(QWidget):
     def menu_helpAbout(self):
 
         title = "About MetaDraft"
-        msg = "This is the MetaDraft component of MetaToolkit version {}-({}) (rc1). MetaDraft uses PySCeS-CBMPy (http://cbmpy.sourceforge.net) technology.\n\n".format(__version__, cbmpy.__version__)
+        msg = "This is the MetaDraft version {}-({}), https://github.com/SystemsBioinformatics/metadraft. MetaDraft uses PySCeS-CBMPy (http://cbmpy.sourceforge.net) technology, both part of the MetaToolkit project.\n\n".format(__version__, cbmpy.__version__)
         msg += "(c) Brett G. Olivier, Vrije Universiteit Amsterdam, Amsterdam, 2015-2017. All rights reserved\n"
         msg += "\nFor help and support please contact Brett Olivier:\nemail: b.g.olivier@vu.nl\n"
         if HAVE_QT4:
@@ -1560,6 +1560,21 @@ class MetaDraftGUI(QWidget):
         #self.menuConfig.setEnabled(True)
         self._wnotes_.setDisabled(True)
 
+    def func_getGroupMembership(self, mod):
+        """
+        Returns group membership of items in groups. Returns {object_id: ['group_id1', 'group_id2']}
+
+        """
+        grps = {}
+        for g in mod.groups:
+            gid = g.getId()
+            for mid in g.getMemberIDs():
+                if mid in grps:
+                    grps[mid].append(gid)
+                else:
+                    grps[mid] = [gid]
+        return grps
+
     def buildSBMLModel(self):
         self.menu_buildAll()
         self.model = cbmpy.CBModel.Model(self.model_name)
@@ -1608,7 +1623,7 @@ class MetaDraftGUI(QWidget):
 
             # store group information
             if R._organism_ not in new_groups:
-                new_groups[R._organism_] = {'grp_map' : self._DAT_MODELS[R._organism_].getGroupMembership(),
+                new_groups[R._organism_] = {'grp_map' : self.func_getGroupMembership(self._DAT_MODELS[R._organism_]),
                                             'grpd' : [rid]}
             else:
                 new_groups[R._organism_]['grpd'].append(rid)
