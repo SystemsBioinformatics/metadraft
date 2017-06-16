@@ -8,3 +8,5 @@ INFO:STDOUT:For help and support please contact Brett Olivier:
 INFO:STDOUT:email: b.g.olivier@vu.nl
 INFO:STDOUT:
 INFO:STDOUT:You are using PyQt5.
+INFO:STDOUT:INITDB: connecting geneDB
+INFO:STDOUT:INITDB: connecting notesDB
