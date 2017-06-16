@@ -752,7 +752,7 @@
   "YIR028W": "bigg1-scer"
  },
  "bigg1-scer": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg1",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg1",
   "genbank_in": [
    "Saccharomyces_cerevisiae_S288c-(BK006935.2).gbff",
    "Saccharomyces_cerevisiae_S288c-(BK006935.2)-mito.gbff"
@@ -3627,8 +3627,8 @@
   },
   "sbml_in": "Scerevisiae_iND750.xml",
   "taxon_id": "559292",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg1-scer)-(Scerevisiae_iND750).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg1-scer)-(Scerevisiae_iND750).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg1-scer)-(Scerevisiae_iND750).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg1-scer)-(Scerevisiae_iND750).seqplus.xml",
   "reaction2gene": {
    "R_ARABR": [
     "YHR104W"

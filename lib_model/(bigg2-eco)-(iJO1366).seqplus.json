@@ -1369,7 +1369,7 @@
   "b3132": "bigg2-eco"
  },
  "bigg2-eco": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": "iJO1366-(NC_000913.3).gbk",
   "gene2reaction": {
    "b2690": [
@@ -8290,8 +8290,8 @@
   },
   "sbml_in": "iJO1366.xml",
   "taxon_id": "511145",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-eco)-(iJO1366).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-eco)-(iJO1366).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-eco)-(iJO1366).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-eco)-(iJO1366).seqplus.xml",
   "reaction2gene": {
    "R_CTPS2": [
     "b2780"

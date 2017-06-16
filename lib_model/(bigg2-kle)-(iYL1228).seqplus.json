@@ -1,6 +1,6 @@
 {
  "bigg2-kle": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": "iYL1228-(CP000647.1).gbk",
   "gene2reaction": {
    "KPN_03939": [
@@ -6311,8 +6311,8 @@
   },
   "sbml_in": "iYL1228.xml",
   "taxon_id": "272620",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-kle)-(iYL1228).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-kle)-(iYL1228).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-kle)-(iYL1228).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-kle)-(iYL1228).seqplus.xml",
   "reaction2gene": {
    "R_FGLU": [
     "KPN_00793"

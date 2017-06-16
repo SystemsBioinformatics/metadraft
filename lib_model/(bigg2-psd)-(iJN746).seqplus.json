@@ -748,7 +748,7 @@
   "PP_4810": "bigg2-psd"
  },
  "bigg2-psd": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": [
    "iJN746-(NC_002947_4).gbk"
   ],
@@ -3510,8 +3510,8 @@
   },
   "sbml_in": "iJN746.xml",
   "taxon_id": "160488",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-psd)-(iJN746).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-psd)-(iJN746).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-psd)-(iJN746).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-psd)-(iJN746).seqplus.xml",
   "reaction2gene": {
    "R_OIVD2": [
     "PP_4404",

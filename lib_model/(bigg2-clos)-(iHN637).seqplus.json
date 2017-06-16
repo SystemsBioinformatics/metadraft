@@ -639,7 +639,7 @@
   "CLJU_RS12870": "bigg2-clos"
  },
  "bigg2-clos": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": "iHN637-(CP000099.1).gbk ",
   "gene2reaction": {
    "CLJU_RS10575": [
@@ -2873,8 +2873,8 @@
   },
   "sbml_in": "iHN637.xml",
   "taxon_id": "748727",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-clos)-(iHN637).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-clos)-(iHN637).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-clos)-(iHN637).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-clos)-(iHN637).seqplus.xml",
   "reaction2gene": {
    "R_NTPP4": [
     "CLJU_RS20535"

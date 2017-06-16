@@ -1261,7 +1261,7 @@
   "b4006": "bigg1-eco"
  },
  "bigg1-eco": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg1",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg1",
   "genbank_in": "100908EcoliMG1655.gbff",
   "gene2reaction": {
    "b0007": [
@@ -7520,8 +7520,8 @@
   },
   "sbml_in": "Ecoli_iAF1260.glc.l3.xml",
   "taxon_id": "511145",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg1-eco)-(Ecoli_iAF1260.glc.l3).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg1-eco)-(Ecoli_iAF1260.glc.l3).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg1-eco)-(Ecoli_iAF1260.glc.l3).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg1-eco)-(Ecoli_iAF1260.glc.l3).seqplus.xml",
   "reaction2gene": {
    "R_CTPS2": [
     "b2780"

@@ -518,7 +518,7 @@
   "LLMG_RS06010": "lab-llac1363"
  },
  "lab-llac1363": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\lab",
+  "data_path": "d:\\code-git\\metadraft\\data\\lab",
   "genbank_in": "Lactococcus_lactis_MG1363.gbk",
   "gene2reaction": {
    "LLMG_RS01830": [
@@ -2339,8 +2339,8 @@
   },
   "sbml_in": "Lactococcus_lactis_MG1363.xml",
   "taxon_id": "416870",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(lab-llac1363)-(Lactococcus_lactis_MG1363).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(lab-llac1363)-(Lactococcus_lactis_MG1363).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(lab-llac1363)-(Lactococcus_lactis_MG1363).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(lab-llac1363)-(Lactococcus_lactis_MG1363).seqplus.xml",
   "reaction2gene": {
    "R_PPIabc": [
     "LLMG_RS09490",

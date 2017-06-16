@@ -1,6 +1,6 @@
 {
  "bigg2-saur": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": "iSB619-(NC_002745.2).gbk",
   "gene2reaction": {
    "SA_RS02970": [
@@ -2199,8 +2199,8 @@
   },
   "sbml_in": "iSB619.xml",
   "taxon_id": "158879",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-saur)-(iSB619).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-saur)-(iSB619).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-saur)-(iSB619).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-saur)-(iSB619).seqplus.xml",
   "reaction2gene": {
    "R_OIVD2": [
     "SA_RS07630",

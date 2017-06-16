@@ -1,6 +1,6 @@
 {
  "bigg2-geo": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": "iAF987-(CP000148.1).gbk",
   "gene2reaction": {
    "Gmet_1189": [
@@ -4381,8 +4381,8 @@
   },
   "sbml_in": "iAF987.xml",
   "taxon_id": "269799",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-geo)-(iAF987).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-geo)-(iAF987).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-geo)-(iAF987).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-geo)-(iAF987).seqplus.xml",
   "reaction2gene": {
    "R_4HBZR": [
     "Gmet_2135",

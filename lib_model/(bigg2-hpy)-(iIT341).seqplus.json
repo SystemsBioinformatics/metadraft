@@ -341,7 +341,7 @@
   "HP1158": "bigg2-hpy"
  },
  "bigg2-hpy": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": "iIT341-(NC_000915.1).gbk",
   "gene2reaction": {
    "HP0329": [
@@ -1486,8 +1486,8 @@
   },
   "sbml_in": "iIT341.xml",
   "taxon_id": "85962",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-hpy)-(iIT341).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-hpy)-(iIT341).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-hpy)-(iIT341).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-hpy)-(iIT341).seqplus.xml",
   "reaction2gene": {
    "R_HPROx": [
     "HP0056"

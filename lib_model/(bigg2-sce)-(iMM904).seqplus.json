@@ -907,7 +907,7 @@
   "YIR028W": "bigg2-sce"
  },
  "bigg2-sce": {
-  "data_path": "d:\\@virdrives\\google\\work\\python\\metadraft\\data\\bigg2",
+  "data_path": "d:\\code-git\\metadraft\\data\\bigg2",
   "genbank_in": [
    "iMM904-(GCF_000146045_2).gbff"
   ],
@@ -4627,8 +4627,8 @@
   },
   "sbml_in": "iMM904.xml",
   "taxon_id": "559292",
-  "sbml_out_generic": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-sce)-(iMM904).seqplus.xml",
-  "sbml_out": "d:\\@virdrives\\google\\work\\python\\metadraft\\lib_model\\(bigg2-sce)-(iMM904).seqplus.xml",
+  "sbml_out_generic": "d:\\code-git\\metadraft\\lib_model\\(bigg2-sce)-(iMM904).seqplus.xml",
+  "sbml_out": "d:\\code-git\\metadraft\\lib_model\\(bigg2-sce)-(iMM904).seqplus.xml",
   "reaction2gene": {
    "R_ARABR": [
     "YHR104W"
