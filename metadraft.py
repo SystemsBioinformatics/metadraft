@@ -51,7 +51,7 @@ try:
 except ImportError:
     HAVE_DOCX = False
 
-__version__ = '0.7.9'
+__version__ = '0.8.0'
 
 HAVE_QT4 = False
 HAVE_QT5 = False
@@ -160,7 +160,7 @@ class StreamToLogger(object):
 
 
 ## 0: developer, 1: partner, 2: public
-RELEASE_STATUS = 1
+RELEASE_STATUS = 0
 
 if RELEASE_STATUS > 0:
     __DEBUG__ = False
@@ -1716,8 +1716,6 @@ class MetaDraftGUI(QWidget):
                         if gid not in grps:
                             grps[gid] = []
                         grps[gid].append(mid)
-                else:
-                    print(mid)
 
             for g in grps:
                 new_gid = '{}_{}'.format(cbmpy.CBModel.fixId(o), g)
@@ -1731,6 +1729,13 @@ class MetaDraftGUI(QWidget):
                         obj = self.model.getSpecies(mid)
                     if obj is not None:
                         G.addMember(obj)
+
+            new_gid = 'metadraft_{}'.format(cbmpy.CBModel.fixId(o))
+            self.model.createGroup(new_gid)
+            G = self.model.getGroup(new_gid)
+            G.setName('MetaDraft reactions {}'.format(o))
+            G.setNotes('These {} reactions were included from the {} model using MetaDraft (https://github.com/SystemsBioinformatics/metadraft) ver. {}'.format(len(new_groups[o]['grpd']), o, __version__))
+            G.addMember([self._DAT_MODELS[o].getReaction(r_) for r_ in new_groups[o]['grpd']])
 
         return self.model
 
