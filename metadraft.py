@@ -1949,7 +1949,7 @@ class MetaDraftGUI(QWidget):
 
     def func_tableSaveCSV(self, table):
         path = self.saveFile('Save File', directory=self._history_save_dir_, filterex='CSV(*.csv)')
-        if not path.isEmpty():
+        if path is not None and len(path) > 0:
             if not str(path).endswith('.csv'):
                 path += '.csv'
             with open(unicode(path), 'wb') as stream:
