@@ -51,7 +51,7 @@ try:
 except ImportError:
     HAVE_DOCX = False
 
-__version__ = '0.8.0'
+__version__ = '0.7.10'
 
 HAVE_QT4 = False
 HAVE_QT5 = False
@@ -160,7 +160,7 @@ class StreamToLogger(object):
 
 
 ## 0: developer, 1: partner, 2: public
-RELEASE_STATUS = 0
+RELEASE_STATUS = 1
 
 if RELEASE_STATUS > 0:
     __DEBUG__ = False
@@ -798,14 +798,13 @@ class MetaDraftGUI(QWidget):
                 self.status_bar.showMessage('Invalid file type: \"{}\" ignored.'.format(str(fname)))
         biotools.writeFASTA(fname+'.unselected.fasta', seqout, paranoid_style=False)
 
-
     def func_generateSummaryReport(self):
         self.func_generateGeneReport()
         self.func_generateReactionReport()
         self.func_generateMetaboliteReport()
 
-
     def func_generateGeneReport(self):
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']
         LD['reports']['genes']['unmatched'] = []
         LD['reports']['genes']['selected'] = []
@@ -824,8 +823,11 @@ class MetaDraftGUI(QWidget):
                     LD['reports']['genes']['selected'].append(gdat)
                 else:
                     LD['reports']['genes']['unselected'].append(gdat)
+        QApplication.restoreOverrideCursor()
+
 
     def func_generateReactionReport(self): #r, n, o, s
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']
         LD['reports']['reactions']['selected'] = []
         LD['reports']['reactions']['unselected'] = []
@@ -842,9 +844,11 @@ class MetaDraftGUI(QWidget):
                 LD['reports']['reactions']['selected'].append(rdat)
             else:
                 LD['reports']['reactions']['unselected'].append(rdat)
-        #print(LD['reports']['reactions'])
+        QApplication.restoreOverrideCursor()
+
 
     def func_generateMetaboliteReport(self):
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']
         LD['reports']['metabolites']['selected'] = []
         LD['reports']['metabolites']['unselected'] = []
@@ -861,9 +865,10 @@ class MetaDraftGUI(QWidget):
                 #LD['reports']['metabolites']['selected'].append(mdat)
             #else:
                 #LD['reports']['metabolites']['unselected'].append(mdat)
-        #print(LD['reports']['metabolites'])
+        QApplication.restoreOverrideCursor()
 
     def func_formatSummaryReport(self):
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']['reports']
         gene_stats = {'org' : {},
                       'score' : {}
@@ -879,7 +884,7 @@ class MetaDraftGUI(QWidget):
                 gene_stats['org'][o] += 1
                 gene_stats['score'][o] += float(s)
 
-        print(gene_stats)
+        #print(gene_stats)
 
         gene_tbl = []
         for o in gene_stats['org']:
@@ -897,7 +902,7 @@ class MetaDraftGUI(QWidget):
             else:
                 react_stats['org'][o] += 1
 
-        print(react_stats)
+        #print(react_stats)
 
         react_tbl = []
         for o in react_stats['org']:
@@ -915,7 +920,7 @@ class MetaDraftGUI(QWidget):
             else:
                 metab_stats['org'][o] += 1
 
-        print(metab_stats)
+        #print(metab_stats)
 
         metab_tbl = []
         for o in metab_stats['org']:
@@ -979,9 +984,11 @@ class MetaDraftGUI(QWidget):
         </html>
         """
         cp = self.metadraft_rpt_footer
+        QApplication.restoreOverrideCursor()
         return html.format(cp)
 
     def func_formatGeneReport(self):
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']['reports']
         nmg = ', '.join(LD['genes']['unmatched'])
         selg = '<tr><td>{}</td><td>{}</td><td>{}</td><td>{}</td></tr>'.format('Source', 'Target', 'Score', 'Model')
@@ -1005,13 +1012,15 @@ class MetaDraftGUI(QWidget):
                 tgene.append(g)
             nselg += '<tr><td><a href="#{}_{}_{}">{}</a></td><td>{}</td><td>{}</td><td>{}</td></tr>'.format(o, g, m, g, m, s, o)
             annotG += buildAnnotation(m, g, o)
-        print(mgene, len(mgene))
+        #print(mgene, len(mgene))
         cp = self.metadraft_rpt_footer
+        QApplication.restoreOverrideCursor()
         return mrpt.gene_report_template(__version__, '{}:{}'.format(len(mgene), len(tgene+mgene)), os.path.split(self._DAT_LINK_DICT_['__metaproteome__']['input_fasta'])[-1].replace('.in.','.'),\
                                           self._DAT_LINK_DICT_['__metaproteome__']['__fullname__'], nmg, selg, nselg, annotG, cp)
 
 
     def func_formatReactionReport(self):
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']['reports']
         annotR = ''
         def buildAnnotation(r, o):
@@ -1042,11 +1051,13 @@ class MetaDraftGUI(QWidget):
             nselg += '<tr><td><a href="#{}_{}">{}</a></td><td>{}</td><td>{}</td><td>{}</td></tr>'.format(o, r, r, n, o, s)
             annotR += buildAnnotation(r, o)
         cp = self.metadraft_rpt_footer
+        QApplication.restoreOverrideCursor()
         return mrpt.reaction_report_template(__version__, nreact, os.path.split(self._DAT_LINK_DICT_['__metaproteome__']['input_fasta'])[-1].replace('.in.','.'),\
                                           self._DAT_LINK_DICT_['__metaproteome__']['__fullname__'], selg, nselg, annotR, cp)
 
 
     def func_formatMetaboliteReport(self):
+        QApplication.setOverrideCursor(QCursor(QtCore.Qt.WaitCursor))
         LD = self._DAT_LINK_DICT_['__metaproteome__']['reports']
         selg = '<tr><td>{}</td><td>{}</td><td>{}</td></tr>'.format('Metabolite', 'Name', 'Model')
         def buildAnnotation(m, o):
@@ -1067,6 +1078,7 @@ class MetaDraftGUI(QWidget):
         #for m, n, o in LD['metabolites']['unselected']:
             #nselg += '<tr><td>{}</td><td>{}</td><td>{}</td></tr>'.format(m, n, o)
         cp = self.metadraft_rpt_footer
+        QApplication.restoreOverrideCursor()
         return mrpt.metabolite_report_template(__version__, nmetab, os.path.split(self._DAT_LINK_DICT_['__metaproteome__']['input_fasta'])[-1].replace('.in.','.'),\
                                           self._DAT_LINK_DICT_['__metaproteome__']['__fullname__'], selg, nselg, annotM, cp)
 
@@ -1267,11 +1279,11 @@ class MetaDraftGUI(QWidget):
 
         def deleteModel():
             print(item)
-            path = os.path.join(self.seqplus_files, '{}.seqplus.xml'.format(item))
+            path = os.path.join(self.seqplus_files, '{}.seqplus.xml'.format(item[0]))
             print(path)
             if os.path.exists(path):
                 reply = QMessageBox.question(self, 'Message',\
-                                                   "Are you sure you want to delete:\n{}?".format(self._widget_result_tree_rightclick_data_),\
+                                                   "Are you sure you want to delete:\n{}?".format(item[0]),\
                                                    QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
                 if reply == QMessageBox.Yes:
                     os.remove(path)
@@ -1378,10 +1390,11 @@ class MetaDraftGUI(QWidget):
         self.widgetLogView.setWindowModality(Qt.ApplicationModal)
         self.widgetLogView.setReadOnly(True)
         self.widgetLogView.setWindowTitle('SysLog Viewer ({})'.format(self.log_syslog))
-        F = open(self.log_syslog, 'r')
-        self.widgetLogView.setPlainText(F.read())
-        F.close()
-        self.widgetLogView.show()
+        if self.log_syslog is not None:
+            F = open(self.log_syslog, 'r')
+            self.widgetLogView.setPlainText(F.read())
+            F.close()
+            self.widgetLogView.show()
 
     @pyqtSlot()
     def menu_addSeqPlusModel(self):
@@ -3342,7 +3355,7 @@ class MetaDraftGUI(QWidget):
                     # this might be or
                     assoc_new = ' and '.join(list(set(assoc_new.split(','))))
                 assoc_new = '({})'.format(assoc_new)
-                print(assoc_new)
+                #print(assoc_new)
                 break
 
         # TODO: use a regular expression here
