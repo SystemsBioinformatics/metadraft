@@ -3192,11 +3192,11 @@ class MetaDraftGUI(QWidget):
         return data
 
     def getDBXrefFromGeneDB(self, gid):
-        annot = self._genedb_.getCell('GENES', 'id', gid, 'db_xref')
         try:
+            annot = self._genedb_.getCell('GENES', 'id', gid, 'db_xref')
             annot = self._genedb_.URLDecode(annot)
-        except ValueError:
-            annot = ''
+        except (ValueError, AttributeError):
+            annot = {}
         return annot
 
     def func_formatGeneAnnotationToHTML(self, gene, gannot, r_html, color='#ffffff'):
@@ -3220,7 +3220,7 @@ class MetaDraftGUI(QWidget):
                 r_html += "<tr bgcolor=\"{}\"><td><strong>{}</strong></td><td>{}</td></tr>".format(color, ga_, gannot[ga_])
         try:
             db_xref =  eval(self.getDBXrefFromGeneDB(gene))
-        except TypeError:
+        except (TypeError, AttributeError):
             #print('dbxref error')
             db_xref = {}
         db_xrefs = ''
