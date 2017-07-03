@@ -51,7 +51,7 @@ try:
 except ImportError:
     HAVE_DOCX = False
 
-__version__ = '0.7.10'
+__version__ = '0.7.11'
 
 HAVE_QT4 = False
 HAVE_QT5 = False
@@ -160,7 +160,7 @@ class StreamToLogger(object):
 
 
 ## 0: developer, 1: partner, 2: public
-RELEASE_STATUS = 1
+RELEASE_STATUS = 0
 
 if RELEASE_STATUS > 0:
     __DEBUG__ = False
@@ -2056,9 +2056,14 @@ class MetaDraftGUI(QWidget):
         self.table_reaction.setColumnWidth(0,100)
         self.widgetTableReaction_populate()
         self.table_reaction.setSortingEnabled(True)
-        #self.table_reaction.currentCellChanged.connect(self.widgetTableReaction_cellClicked)
-        self.table_reaction.cellClicked.connect(self.widgetTableReaction_cellClicked)
+
+        # this works for mouseclicks
+        #self.table_reaction.cellClicked.connect(self.widgetTableReaction_cellClicked)
+        # this should also work for cursor changes
+        self.table_reaction.itemSelectionChanged.connect(self.widgetTableReaction_cellSelectionChanged)
+
         self.table_reaction.cellChanged.connect(self.widgetTableReaction_cellChecked)
+
 
     def widgetTableReaction_populate(self):
         self.reaction_table_loading = True
@@ -2716,9 +2721,12 @@ class MetaDraftGUI(QWidget):
         self.table_gene.setSortingEnabled(True)
         self.table_gene.setContextMenuPolicy(QtCore.Qt.CustomContextMenu)
         self.table_gene.customContextMenuRequested.connect(self.widgetTableGene_tableRightClicked)
-        self.table_gene.cellClicked.connect(self.widgetTableGene_cellClicked)
-        #self.table_gene.itemSelectionChanged.connect(self.widgetTableGene_cellSelectionChanged)
-        #self.table_gene.currentCellChanged.connect(self.widgetTableGene_cellClicked)
+
+        # this works for mouseclicks
+        #self.table_gene.cellClicked.connect(self.widgetTableGene_cellClicked)
+        # this should also work for cursor changes
+        self.table_gene.itemSelectionChanged.connect(self.widgetTableGene_cellSelectionChanged)
+
         self.table_gene.cellChanged.connect(self.widgetTableGene_cellChecked)
         self._gene_all_ids_ = tuple([str(self.table_gene.item(r, 1).text()) for r in range(self.table_gene.rowCount())])
         self._gene_all_ids_src_ = tuple([str(self.table_gene.item(r, 0).text())[len(self.gene_prefix):] for r in range(self.table_gene.rowCount())])
@@ -3017,35 +3025,36 @@ class MetaDraftGUI(QWidget):
     @pyqtSlot()
     def widgetTableGene_cellSelectionChanged(self):
         items = self.table_gene.selectedItems()
-        print(','.join([i.text() for i in items]))
-        print(items)
+        #print(','.join([i.text() for i in items]))
+        #print(items)
         if len(items) == 0:
-            return
-        if items[0].row() == self.GENE_LAST_SELECTED_ROW:
+            print('No items doing nothing')
+        elif items[0].row() == self.GENE_LAST_SELECTED_ROW:
             print('Same row doing nothing')
         else:
             print('New row {} --> {}'.format(self.GENE_LAST_SELECTED_ROW, items[0].row()))
-            self.widgetTableGene_cellClicked(items[0].row(), 0)
-
+            self.widgetTableGene_cellClicked(items[0].row(), items[0].column())
 
     @pyqtSlot(int, int)
     def widgetTableGene_cellClicked(self, row, column):
-        if self.table_gene.item(row, 0) == None:# or row == self.GENE_LAST_SELECTED_ROW:
-            return
+        realmatch = True
+        if self.table_gene.item(row, 0) == None:
+            realmatch = False
         print("Gene: Row %d and Column %d was clicked" % (row, column))
         self.GENE_LAST_SELECTED_ROW = row
         gene = str(self.table_gene.item(row, 0).text())
         r_html = self.buildHtmlStringsGene(str(self.table_gene.item(row, 1).text()), gene)
         self.widgetDisplayReact_update(r_html)
 
-        if self._wnotes_current_obj_ is not None:
-            self.note_readFromNotesWidget(self._wnotes_current_obj_)
-        gene = gene[len(self.gene_prefix):]
-        self._dummy_gene_obj_.setId(gene)
-        self._dummy_gene_obj_.setName(gene)
-        self._dummy_gene_obj_.__setObjRef__(self._dummy_gene_obj_)
-        self._wnotes_current_obj_ = self._dummy_gene_obj_
-        self.note_writeToNotesWidget(self._dummy_gene_obj_, self.func_getCurrentUser(realname=False))
+        if realmatch:
+            if self._wnotes_current_obj_ is not None:
+                self.note_readFromNotesWidget(self._wnotes_current_obj_)
+            gene = gene[len(self.gene_prefix):]
+            self._dummy_gene_obj_.setId(gene)
+            self._dummy_gene_obj_.setName(gene)
+            self._dummy_gene_obj_.__setObjRef__(self._dummy_gene_obj_)
+            self._wnotes_current_obj_ = self._dummy_gene_obj_
+            self.note_writeToNotesWidget(self._dummy_gene_obj_, self.func_getCurrentUser(realname=False))
 
     @pyqtSlot(int, int)
     def widgetTableGene_cellChecked(self, row, column):
@@ -3061,9 +3070,22 @@ class MetaDraftGUI(QWidget):
         self.GENE_SELECTION_STATE_CHANGE = True
         #print(self._gene_selected_ids_)
 
+    @pyqtSlot()
+    def widgetTableReaction_cellSelectionChanged(self):
+        items = self.table_reaction.selectedItems()
+        #print(','.join([i.text() for i in items]))
+        #print(items)
+        if len(items) == 0:
+            print('No items doing nothing')
+        elif items[0].row() == self.REACT_LAST_SELECTED_ROW:
+            print('Same row doing nothing')
+        else:
+            print('New row {} --> {}'.format(self.REACT_LAST_SELECTED_ROW, items[0].row()))
+            self.widgetTableReaction_cellClicked(items[0].row(), items[0].column())
+
     @pyqtSlot(int, int)
     def widgetTableReaction_cellClicked(self, row, column):
-        #print("Reaction: Row %d and Column %d was clicked" % (row, column))
+        print("Reaction: Row %d and Column %d was clicked" % (row, column))
         if self.table_reaction.item(row, 0) == None:
             return
         self.REACT_LAST_SELECTED_ROW = row
@@ -3216,11 +3238,14 @@ class MetaDraftGUI(QWidget):
         return r_html
 
     def buildHtmlStringsGene(self, gene, genesrc):
-        if gene == '':
-            return 'No matching gene'
+        print(gene, genesrc)
+        realmatch = True
+        if gene == '' or gene is None:
+            realmatch = False
         genesrc = genesrc[len(self.gene_prefix):]
-        organism = self._DAT_LINK_DICT_["__idx__"][gene]
-        reactions = self._DAT_G2REACT[gene]
+        if realmatch:
+            organism = self._DAT_LINK_DICT_["__idx__"][gene]
+            reactions = self._DAT_G2REACT[gene]
         #print(self._DAT_SEARCH_RES)
         #print(self._DAT_G2REACT)
         #self._updateGeneMap_()
@@ -3246,72 +3271,74 @@ class MetaDraftGUI(QWidget):
             r_html += '<tr><td colspan="2" align=\"center\"><strong>Source Gene Information: {}</strong></td></tr>'.format(genesrc)
             r_html = self.func_formatGeneAnnotationToHTML(genesrc, gannotsrc, r_html, color='#e6ffe6')
 
-        r_html += '<tr><td colspan="2" align=\"center\"><strong>Matching Gene Information: {}</strong></td></tr>'.format(gene)
-        r_html = self.func_formatGeneAnnotationToHTML(gene, gannot, r_html, color='#ffffcc')
-        r_html += '<tr><td colspan="2" align=\"center\"><strong>Associated reactions(s)</strong></td></tr>'
 
-        for o_ in reactions:
-            #r_html += "<tr><td><strong>Organism</strong></td><td><strong>{}</strong></td></tr>".format(organism)
-            #if o_.reversible:
-                #reverse = '(reversible)'
-            #else:
-                #reverse = '(irreversble)'
-            #r_html += "<tr><td><strong>{}</strong><br/>{}</td><td><strong>{}</strong></td></tr>".format(o_.getId(), reverse, o_.getName())
-            r_html += "<tr><td><strong>{}</strong> ({})</td><td><strong>{}</strong></td></tr>".format(o_.getId(), organism, o_.getName())
-            #r_html += "<tr><td><strong>Equation ID</strong></td><td>{}</td></tr>".format(o_.getEquation())
-            #r_html += "<tr><td><strong>Equation Name</strong></td><td>{}</td></tr>".format(o_.getEquation(use_names=True))
-            #r_html += "<tr><td><strong>Source gene</strong></td><td>{}</td></tr>".format(gene)
-            #r_html += "<tr><td><strong>Matching gene</strong></td><td>{}</td></tr>".format(gene)
-            try:
-                emod = self._DAT_MODELS[o_._organism_]
-                gpr = emod.getGPRforReaction(o_.getId())
-                if emod.__FBC_VERSION__ < 2:
-                    assoc = gpr.getAssociationStr(use_labels=True)
-                else:
-                    assoc = gpr.getAssociationStr(use_labels=True)
-                # TODO: use a regular expression here
-                gids = gpr.getGeneLabels()
-                gids = list(set(gids))
-                gids.sort(key = len)
-                gids.reverse()
-                #print(self._gene_selected_ids_)
-                #print(self._gene_selected_map_)
-                #print(assoc)
-                #print(gids)
-                if len(gids) == 1:
-                    if gids[0] in self._gene_selected_ids_:
-                        assoc = assoc.replace(assoc, '<span style="color: green;">{}</span> '.format(gids[0]))
-                    elif gids[0] in self._gene_all_ids_:
-                        assoc = assoc.replace(assoc, '<span style="color: red;">{}</span> '.format(gids[0]))
-                else:
-                    for g_ in gids:
-                        #ids = str('{}{}{}'.format(genesrc, self.id_sep, g_))
-                        if g_ in self._gene_selected_ids_:
-                            #print(ids, g_ in self._gene_selected_ids_)
-                            assoc = assoc.replace(g_+' ', '<span style="color: green;">{}</span> '.format(g_))
-                            assoc = assoc.replace(' '+g_, ' <span style="color: green;">{}</span>'.format(g_))
-                            #assoc = assoc.replace(g_, ' <span style="color: green;">{}</span>'.format(g_))
-                        elif g_ in self._gene_all_ids_:
-                            assoc = assoc.replace(g_+' ', '<span style="color: red;">{}</span> '.format(g_))
-                            assoc = assoc.replace(' '+g_, ' <span style="color: red;">{}</span>'.format(g_))
-                            #assoc = assoc.replace(g_, ' <span style="color: red;">{}</span>'.format(g_))
-                assoc = assoc.replace(gene, '<strong>{}</strong>'.format(gene))
+        if realmatch:
+            r_html += '<tr><td colspan="2" align=\"center\"><strong>Matching Gene Information: {}</strong></td></tr>'.format(gene)
+            r_html = self.func_formatGeneAnnotationToHTML(gene, gannot, r_html, color='#ffffcc')
+            r_html += '<tr><td colspan="2" align=\"center\"><strong>Associated reactions(s)</strong></td></tr>'
 
-            except AttributeError as why:
-                o_.serializeToDisk(o_.getId())
-                print('ERROR: {} - {}'.format(gene, o_.getId()))
-                print(why)
-                assoc = '<span style="color: red;"><strong>{}</strong></span> '.format('UNKNOWN')
+            for o_ in reactions:
+                #r_html += "<tr><td><strong>Organism</strong></td><td><strong>{}</strong></td></tr>".format(organism)
+                #if o_.reversible:
+                    #reverse = '(reversible)'
+                #else:
+                    #reverse = '(irreversble)'
+                #r_html += "<tr><td><strong>{}</strong><br/>{}</td><td><strong>{}</strong></td></tr>".format(o_.getId(), reverse, o_.getName())
+                r_html += "<tr><td><strong>{}</strong> ({})</td><td><strong>{}</strong></td></tr>".format(o_.getId(), organism, o_.getName())
+                #r_html += "<tr><td><strong>Equation ID</strong></td><td>{}</td></tr>".format(o_.getEquation())
+                #r_html += "<tr><td><strong>Equation Name</strong></td><td>{}</td></tr>".format(o_.getEquation(use_names=True))
+                #r_html += "<tr><td><strong>Source gene</strong></td><td>{}</td></tr>".format(gene)
+                #r_html += "<tr><td><strong>Matching gene</strong></td><td>{}</td></tr>".format(gene)
+                try:
+                    emod = self._DAT_MODELS[o_._organism_]
+                    gpr = emod.getGPRforReaction(o_.getId())
+                    if emod.__FBC_VERSION__ < 2:
+                        assoc = gpr.getAssociationStr(use_labels=True)
+                    else:
+                        assoc = gpr.getAssociationStr(use_labels=True)
+                    # TODO: use a regular expression here
+                    gids = gpr.getGeneLabels()
+                    gids = list(set(gids))
+                    gids.sort(key = len)
+                    gids.reverse()
+                    #print(self._gene_selected_ids_)
+                    #print(self._gene_selected_map_)
+                    #print(assoc)
+                    #print(gids)
+                    if len(gids) == 1:
+                        if gids[0] in self._gene_selected_ids_:
+                            assoc = assoc.replace(assoc, '<span style="color: green;">{}</span> '.format(gids[0]))
+                        elif gids[0] in self._gene_all_ids_:
+                            assoc = assoc.replace(assoc, '<span style="color: red;">{}</span> '.format(gids[0]))
+                    else:
+                        for g_ in gids:
+                            #ids = str('{}{}{}'.format(genesrc, self.id_sep, g_))
+                            if g_ in self._gene_selected_ids_:
+                                #print(ids, g_ in self._gene_selected_ids_)
+                                assoc = assoc.replace(g_+' ', '<span style="color: green;">{}</span> '.format(g_))
+                                assoc = assoc.replace(' '+g_, ' <span style="color: green;">{}</span>'.format(g_))
+                                #assoc = assoc.replace(g_, ' <span style="color: green;">{}</span>'.format(g_))
+                            elif g_ in self._gene_all_ids_:
+                                assoc = assoc.replace(g_+' ', '<span style="color: red;">{}</span> '.format(g_))
+                                assoc = assoc.replace(' '+g_, ' <span style="color: red;">{}</span>'.format(g_))
+                                #assoc = assoc.replace(g_, ' <span style="color: red;">{}</span>'.format(g_))
+                    assoc = assoc.replace(gene, '<strong>{}</strong>'.format(gene))
 
-            #r_html += "<tr><td><strong>Association</strong></td><td>{}</td></tr>".format(assoc)
-            r_html += '<tr><td colspan="2" align=\"left\">{}</td></tr>'.format(assoc)
-            # disabled for now, using geneDB
-            #miriam = o_.getMIRIAMannotations()
-            #if miriam != None:
-                #for m in miriam:
-                    #if len(miriam[m]) > 0:
-                        #for u in range(len(miriam[m])):
-                            #r_html += "<tr><td>{}</td><td><a href=\"{}\">{}</a></td></tr>".format(m, miriam[m][u], miriam[m][u])
+                except AttributeError as why:
+                    o_.serializeToDisk(o_.getId())
+                    print('ERROR: {} - {}'.format(gene, o_.getId()))
+                    print(why)
+                    assoc = '<span style="color: red;"><strong>{}</strong></span> '.format('UNKNOWN')
+
+                #r_html += "<tr><td><strong>Association</strong></td><td>{}</td></tr>".format(assoc)
+                r_html += '<tr><td colspan="2" align=\"left\">{}</td></tr>'.format(assoc)
+                # disabled for now, using geneDB
+                #miriam = o_.getMIRIAMannotations()
+                #if miriam != None:
+                    #for m in miriam:
+                        #if len(miriam[m]) > 0:
+                            #for u in range(len(miriam[m])):
+                                #r_html += "<tr><td>{}</td><td><a href=\"{}\">{}</a></td></tr>".format(m, miriam[m][u], miriam[m][u])
         r_html += "</table>"
 
         return r_html
