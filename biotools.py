@@ -133,8 +133,6 @@ def readFASTAFile(fname):
     return CDS_features, GENE_features, MISC_features
 
 
-
-
 def checkModelLocusTags(sbml, genbank):
     """
     Checks the gene identifiers (assuming they are locus tags) against a genbank file of the same organism
@@ -291,7 +289,8 @@ def addSeqAnnotation(emod, gpr, good, updated, update_tags=True):
     #print(geneAnnot)
     if update_tags and len(updated) > 0:
         if emod.__FBC_VERSION__ < 2:
-            updateGeneIdsFBCv1(emod, updated, geneAnnot, annotation_key='GENE ASSOCIATION', replace_existing=True)
+            #updateGeneIdsFBCv1(emod, updated, geneAnnot, annotation_key='GENE ASSOCIATION', replace_existing=True)
+            updateGeneIdsFBCv2(emod, updated, geneAnnot, replace_existing=True)
         else:
             updateGeneIdsFBCv2(emod, updated, geneAnnot, replace_existing=True)
 
@@ -308,7 +307,6 @@ def updateGeneIdsFBCv2(emod, updated, gene_annotation, replace_existing=True):
     """
     for of_ in updated:
         G = emod.getGeneByLabel(of_)
-        print(G.id, G.label, of_, updated[of_])
         G.setLabel(updated[of_])
 
 def updateGeneIdsFBCv1(emod, updated, gene_annotation, annotation_key='GENE ASSOCIATION', replace_existing=True):
@@ -323,13 +321,16 @@ def updateGeneIdsFBCv1(emod, updated, gene_annotation, annotation_key='GENE ASSO
      - *replace_existing* [default=True] replace existing annotations, otherwise only new ones are added
 
     """
-    # protein, assoc, id=None, name=None, gene_pattern='(\(\W*\w*\W*\))')
+
     if replace_existing:
-        emod._genes_ = []
-        emod.gpr = []
+        for g in emod.getGeneIds():
+            emod.deleteGene(g)
+        for gpr in [g.getid() for g in emod.gpr]:
+            emod.deleteGPRAssociation(gpr)
+        print(len(emod.genes), len(emod.gpr))
         emod.__genes_idx__ = []
     gid = name = None
-    g0 = len(emod._genes_)
+    g0 = len(emod.genes)
     gpr0 = len(emod.gpr)
     ga_keys = []
     for r_ in emod.getReactionIds():
@@ -358,11 +359,11 @@ def updateGeneIdsFBCv1(emod, updated, gene_annotation, annotation_key='GENE ASSO
                 ga_keys.append(GA)
     print('INFO: used key(s) \'{}\''.format(ga_keys))
     emod.__updateGeneIdx__()
-    for g_ in emod._genes_:
+    for g_ in emod.genes:
         if g_.getLabel() in gene_annotation:
             #print(g_)
             g_.annotation = gene_annotation[g_.getLabel()]
-    print('INFO: Added {} new genes and {} associations to model'.format(len(emod._genes_)- g0, len(emod.gpr)- gpr0))
+    print('INFO: Added {} new genes and {} associations to model'.format(len(emod.genes)- g0, len(emod.gpr)- gpr0))
 
 
 def createSequence(modrefseq, filtered_ids=None, description=None):
