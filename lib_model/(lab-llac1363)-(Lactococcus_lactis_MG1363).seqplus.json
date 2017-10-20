@@ -1,0 +1,4214 @@
+{
+ "__idx__": {
+  "llmg_1184": "lab-llac1363",
+  "llmg_1185": "lab-llac1363",
+  "llmg_1187": "lab-llac1363",
+  "llmg_1181": "lab-llac1363",
+  "llmg_1183": "lab-llac1363",
+  "llmg_1429": "lab-llac1363",
+  "llmg_1342": "lab-llac1363",
+  "llmg_1346": "lab-llac1363",
+  "llmg_1345": "lab-llac1363",
+  "llmg_1430": "lab-llac1363",
+  "llmg_1431": "lab-llac1363",
+  "llmg_0210": "lab-llac1363",
+  "llmg_0190": "lab-llac1363",
+  "llmg_0191": "lab-llac1363",
+  "llmg_1532": "lab-llac1363",
+  "llmg_0196": "lab-llac1363",
+  "llmg_0197": "lab-llac1363",
+  "llmg_2242": "lab-llac1363",
+  "llmg_0199": "lab-llac1363",
+  "llmg_1942": "lab-llac1363",
+  "llmg_1828": "lab-llac1363",
+  "llmg_1945": "lab-llac1363",
+  "llmg_1946": "lab-llac1363",
+  "llmg_1947": "lab-llac1363",
+  "llmg_2431": "lab-llac1363",
+  "llmg_2539": "lab-llac1363",
+  "llmg_2432": "lab-llac1363",
+  "llmg_0447": "lab-llac1363",
+  "llmg_0440": "lab-llac1363",
+  "llmg_0441": "lab-llac1363",
+  "llmg_0361": "lab-llac1363",
+  "llmg_0360": "lab-llac1363",
+  "llmg_0930": "lab-llac1363",
+  "llmg_0931": "lab-llac1363",
+  "llmg_0893": "lab-llac1363",
+  "llmg_0500": "lab-llac1363",
+  "llmg_1764": "lab-llac1363",
+  "llmg_0508": "lab-llac1363",
+  "llmg_1006": "lab-llac1363",
+  "llmg_1000": "lab-llac1363",
+  "llmg_2155": "lab-llac1363",
+  "llmg_1008": "lab-llac1363",
+  "llmg_1317": "lab-llac1363",
+  "llmg_1948": "lab-llac1363",
+  "llmg_2299": "lab-llac1363",
+  "llmg_0879": "lab-llac1363",
+  "llmg_1530": "lab-llac1363",
+  "llmg_0063": "lab-llac1363",
+  "llmg_0066": "lab-llac1363",
+  "llmg_1820": "lab-llac1363",
+  "llmg_2481": "lab-llac1363",
+  "llmg_2484": "lab-llac1363",
+  "llmg_0753": "lab-llac1363",
+  "llmg_1719": "lab-llac1363",
+  "llmg_0999": "lab-llac1363",
+  "llmg_0870": "lab-llac1363",
+  "llmg_1829": "lab-llac1363",
+  "llmg_1943": "lab-llac1363",
+  "llmg_1309": "lab-llac1363",
+  "llmg_0397": "lab-llac1363",
+  "llmg_0392": "lab-llac1363",
+  "llmg_1477": "lab-llac1363",
+  "llmg_1579": "lab-llac1363",
+  "llmg_1472": "lab-llac1363",
+  "llmg_1473": "lab-llac1363",
+  "llmg_1478": "lab-llac1363",
+  "llmg_1906": "lab-llac1363",
+  "llmg_0091": "lab-llac1363",
+  "llmg_1901": "lab-llac1363",
+  "llmg_2201": "lab-llac1363",
+  "llmg_1678": "lab-llac1363",
+  "llmg_1679": "lab-llac1363",
+  "llmg_2477": "lab-llac1363",
+  "llmg_2476": "lab-llac1363",
+  "llmg_1913": "lab-llac1363",
+  "llmg_0480": "lab-llac1363",
+  "llmg_1237": "lab-llac1363",
+  "llmg_0326": "lab-llac1363",
+  "llmg_0535": "lab-llac1363",
+  "llmg_2332": "lab-llac1363",
+  "llmg_1871": "lab-llac1363",
+  "llmg_1872": "lab-llac1363",
+  "llmg_1873": "lab-llac1363",
+  "llmg_1874": "lab-llac1363",
+  "llmg_1875": "lab-llac1363",
+  "llmg_0976": "lab-llac1363",
+  "llmg_0977": "lab-llac1363",
+  "llmg_0974": "lab-llac1363",
+  "llmg_0975": "lab-llac1363",
+  "llmg_0973": "lab-llac1363",
+  "llmg_0970": "lab-llac1363",
+  "llmg_1976": "lab-llac1363",
+  "llmg_1979": "lab-llac1363",
+  "llmg_1978": "lab-llac1363",
+  "llmg_0874": "lab-llac1363",
+  "llmg_2504": "lab-llac1363",
+  "llmg_0871": "lab-llac1363",
+  "llmg_2506": "lab-llac1363",
+  "llmg_1558": "lab-llac1363",
+  "llmg_2053": "lab-llac1363",
+  "llmg_1120": "lab-llac1363",
+  "llmg_1288": "lab-llac1363",
+  "llmg_0437": "lab-llac1363",
+  "llmg_1284": "lab-llac1363",
+  "llmg_1282": "lab-llac1363",
+  "llmg_1280": "lab-llac1363",
+  "llmg_0427": "lab-llac1363",
+  "llmg_0024": "lab-llac1363",
+  "llmg_0025": "lab-llac1363",
+  "llmg_0020": "lab-llac1363",
+  "llmg_0022": "lab-llac1363",
+  "llmg_0559": "lab-llac1363",
+  "llmg_0650": "lab-llac1363",
+  "llmg_0555": "lab-llac1363",
+  "llmg_1755": "lab-llac1363",
+  "llmg_1754": "lab-llac1363",
+  "llmg_1058": "lab-llac1363",
+  "llmg_1756": "lab-llac1363",
+  "llmg_1289": "lab-llac1363",
+  "llmg_1050": "lab-llac1363",
+  "llmg_0438": "lab-llac1363",
+  "llmg_1758": "lab-llac1363",
+  "llmg_0119": "lab-llac1363",
+  "llmg_0291": "lab-llac1363",
+  "llmg_0299": "lab-llac1363",
+  "llmg_0113": "lab-llac1363",
+  "llmg_1638": "lab-llac1363",
+  "llmg_0886": "lab-llac1363",
+  "llmg_1637": "lab-llac1363",
+  "llmg_0885": "lab-llac1363",
+  "llmg_0727": "lab-llac1363",
+  "llmg_0722": "lab-llac1363",
+  "llmg_0729": "lab-llac1363",
+  "llmg_0728": "lab-llac1363",
+  "llmg_1278": "lab-llac1363",
+  "llmg_1279": "lab-llac1363",
+  "llmg_1276": "lab-llac1363",
+  "llmg_1277": "lab-llac1363",
+  "llmg_1275": "lab-llac1363",
+  "llmg_0209": "lab-llac1363",
+  "llmg_0206": "lab-llac1363",
+  "llmg_0207": "lab-llac1363",
+  "llmg_1441": "lab-llac1363",
+  "llmg_1689": "lab-llac1363",
+  "llmg_1939": "lab-llac1363",
+  "llmg_1831": "lab-llac1363",
+  "llmg_1524": "lab-llac1363",
+  "llmg_1833": "lab-llac1363",
+  "llmg_1934": "lab-llac1363",
+  "llmg_1681": "lab-llac1363",
+  "llmg_1529": "lab-llac1363",
+  "llmg_2272": "lab-llac1363",
+  "llmg_2420": "lab-llac1363",
+  "llmg_2421": "lab-llac1363",
+  "llmg_1089": "lab-llac1363",
+  "llmg_1088": "lab-llac1363",
+  "llmg_0738": "lab-llac1363",
+  "llmg_2013": "lab-llac1363",
+  "llmg_2017": "lab-llac1363",
+  "llmg_2019": "lab-llac1363",
+  "llmg_0372": "lab-llac1363",
+  "llmg_0375": "lab-llac1363",
+  "llmg_0376": "lab-llac1363",
+  "llmg_0277": "lab-llac1363",
+  "llmg_1843": "lab-llac1363",
+  "llmg_1599": "lab-llac1363",
+  "llmg_1595": "lab-llac1363",
+  "llmg_0516": "lab-llac1363",
+  "llmg_0517": "lab-llac1363",
+  "llmg_0511": "lab-llac1363",
+  "llmg_2167": "lab-llac1363",
+  "llmg_2162": "lab-llac1363",
+  "llmg_2161": "lab-llac1363",
+  "llmg_2160": "lab-llac1363",
+  "llmg_1154": "lab-llac1363",
+  "llmg_1153": "lab-llac1363",
+  "llmg_2169": "lab-llac1363",
+  "llmg_0257": "lab-llac1363",
+  "llmg_1334": "lab-llac1363",
+  "llmg_2288": "lab-llac1363",
+  "llmg_2289": "lab-llac1363",
+  "llmg_2285": "lab-llac1363",
+  "llmg_0158": "lab-llac1363",
+  "llmg_0763": "lab-llac1363",
+  "llmg_0762": "lab-llac1363",
+  "llmg_0607": "lab-llac1363",
+  "llmg_0563": "lab-llac1363",
+  "llmg_1709": "lab-llac1363",
+  "llmg_0565": "lab-llac1363",
+  "llmg_0567": "lab-llac1363",
+  "llmg_0566": "lab-llac1363",
+  "llmg_1702": "lab-llac1363",
+  "llmg_1700": "lab-llac1363",
+  "llmg_1704": "lab-llac1363",
+  "llmg_1705": "lab-llac1363",
+  "llmg_1989": "lab-llac1363",
+  "llmg_1333": "lab-llac1363",
+  "llmg_1332": "lab-llac1363",
+  "llmg_1331": "lab-llac1363",
+  "llmg_1337": "lab-llac1363",
+  "llmg_1336": "lab-llac1363",
+  "llmg_2311": "lab-llac1363",
+  "llmg_1338": "lab-llac1363",
+  "llmg_1757": "lab-llac1363",
+  "llmg_0123": "lab-llac1363",
+  "llmg_1424": "lab-llac1363",
+  "llmg_0125": "lab-llac1363",
+  "llmg_0127": "lab-llac1363",
+  "llmg_1569": "lab-llac1363",
+  "llmg_2233": "lab-llac1363",
+  "llmg_2314": "lab-llac1363",
+  "llmg_2230": "lab-llac1363",
+  "llmg_2237": "lab-llac1363",
+  "llmg_2236": "lab-llac1363",
+  "llmg_2235": "lab-llac1363",
+  "llmg_2234": "lab-llac1363",
+  "llmg_1642": "lab-llac1363",
+  "llmg_1641": "lab-llac1363",
+  "llmg_2467": "lab-llac1363",
+  "llmg_2468": "lab-llac1363",
+  "llmg_2469": "lab-llac1363",
+  "llmg_1896": "lab-llac1363",
+  "llmg_1897": "lab-llac1363",
+  "llmg_1898": "lab-llac1363",
+  "llmg_1899": "lab-llac1363",
+  "llmg_0338": "lab-llac1363",
+  "llmg_0181": "lab-llac1363",
+  "llmg_0335": "lab-llac1363",
+  "llmg_0336": "lab-llac1363",
+  "llmg_1412": "lab-llac1363",
+  "llmg_0236": "lab-llac1363",
+  "llmg_1416": "lab-llac1363",
+  "llmg_0230": "lab-llac1363",
+  "llmg_2309": "lab-llac1363",
+  "llmg_2307": "lab-llac1363",
+  "llmg_1418": "lab-llac1363",
+  "llmg_0940": "lab-llac1363",
+  "llmg_0789": "lab-llac1363",
+  "llmg_0788": "lab-llac1363",
+  "llmg_2518": "lab-llac1363",
+  "llmg_1961": "lab-llac1363",
+  "llmg_0864": "lab-llac1363",
+  "llmg_0868": "lab-llac1363",
+  "llmg_0783": "lab-llac1363",
+  "llmg_2511": "lab-llac1363",
+  "llmg_0785": "lab-llac1363",
+  "llmg_0787": "lab-llac1363",
+  "llmg_1720": "lab-llac1363",
+  "llmg_1823": "lab-llac1363",
+  "llmg_1119": "lab-llac1363",
+  "llmg_1118": "lab-llac1363",
+  "llmg_2040": "lab-llac1363",
+  "llmg_2042": "lab-llac1363",
+  "llmg_1110": "lab-llac1363",
+  "llmg_1117": "lab-llac1363",
+  "llmg_2046": "lab-llac1363",
+  "llmg_1114": "lab-llac1363",
+  "llmg_1290": "lab-llac1363",
+  "llmg_1291": "lab-llac1363",
+  "llmg_1292": "lab-llac1363",
+  "llmg_1294": "lab-llac1363",
+  "llmg_0425": "lab-llac1363",
+  "llmg_0426": "lab-llac1363",
+  "llmg_1297": "lab-llac1363",
+  "llmg_0428": "lab-llac1363",
+  "llmg_0429": "lab-llac1363",
+  "llmg_1002": "lab-llac1363",
+  "llmg_0347": "lab-llac1363",
+  "llmg_0346": "lab-llac1363",
+  "llmg_1568": "lab-llac1363",
+  "llmg_0292": "lab-llac1363",
+  "llmg_0126": "lab-llac1363",
+  "llmg_0988": "lab-llac1363",
+  "llmg_0523": "lab-llac1363",
+  "llmg_1743": "lab-llac1363",
+  "llmg_1741": "lab-llac1363",
+  "llmg_1063": "lab-llac1363",
+  "llmg_1062": "lab-llac1363",
+  "llmg_1060": "lab-llac1363",
+  "llmg_0281": "lab-llac1363",
+  "llmg_0408": "lab-llac1363",
+  "llmg_1603": "lab-llac1363",
+  "llmg_0739": "lab-llac1363",
+  "llmg_1601": "lab-llac1363",
+  "llmg_1606": "lab-llac1363",
+  "llmg_1604": "lab-llac1363",
+  "llmg_0732": "lab-llac1363",
+  "llmg_0737": "lab-llac1363",
+  "llmg_0630": "lab-llac1363",
+  "llmg_0635": "lab-llac1363",
+  "llmg_0634": "lab-llac1363",
+  "llmg_0637": "lab-llac1363",
+  "llmg_0636": "lab-llac1363",
+  "llmg_1456": "lab-llac1363",
+  "llmg_1455": "lab-llac1363",
+  "llmg_2346": "lab-llac1363",
+  "llmg_1450": "lab-llac1363",
+  "llmg_0987": "lab-llac1363",
+  "llmg_1516": "lab-llac1363",
+  "llmg_1699": "lab-llac1363",
+  "llmg_1926": "lab-llac1363",
+  "llmg_1927": "lab-llac1363",
+  "llmg_1924": "lab-llac1363",
+  "llmg_1925": "lab-llac1363",
+  "llmg_1923": "lab-llac1363",
+  "llmg_1693": "lab-llac1363",
+  "llmg_2415": "lab-llac1363",
+  "llmg_2414": "lab-llac1363",
+  "llmg_2412": "lab-llac1363",
+  "llmg_1098": "lab-llac1363",
+  "llmg_1099": "lab-llac1363",
+  "llmg_1097": "lab-llac1363",
+  "llmg_0467": "lab-llac1363",
+  "llmg_0462": "lab-llac1363",
+  "llmg_0463": "lab-llac1363",
+  "llmg_0264": "lab-llac1363",
+  "llmg_0859": "lab-llac1363",
+  "llmg_0858": "lab-llac1363",
+  "llmg_0912": "lab-llac1363",
+  "llmg_0913": "lab-llac1363",
+  "llmg_1854": "lab-llac1363",
+  "llmg_1588": "lab-llac1363",
+  "llmg_1991": "lab-llac1363",
+  "llmg_1997": "lab-llac1363",
+  "llmg_1996": "lab-llac1363",
+  "llmg_1782": "lab-llac1363",
+  "llmg_1783": "lab-llac1363",
+  "llmg_1781": "lab-llac1363",
+  "llmg_1786": "lab-llac1363",
+  "llmg_1787": "lab-llac1363",
+  "llmg_1784": "lab-llac1363",
+  "llmg_1785": "lab-llac1363",
+  "llmg_1789": "lab-llac1363",
+  "llmg_2176": "lab-llac1363",
+  "llmg_2073": "lab-llac1363",
+  "llmg_2075": "lab-llac1363",
+  "llmg_2077": "lab-llac1363",
+  "llmg_2076": "lab-llac1363",
+  "llmg_1149": "lab-llac1363",
+  "llmg_0415": "lab-llac1363",
+  "llmg_0617": "lab-llac1363",
+  "llmg_0776": "lab-llac1363",
+  "llmg_1738": "lab-llac1363",
+  "llmg_1735": "lab-llac1363",
+  "llmg_1734": "lab-llac1363",
+  "llmg_1733": "lab-llac1363",
+  "llmg_1732": "lab-llac1363",
+  "llmg_2181": "lab-llac1363",
+  "llmg_2182": "lab-llac1363",
+  "llmg_1325": "lab-llac1363",
+  "llmg_1326": "lab-llac1363",
+  "llmg_1327": "lab-llac1363",
+  "llmg_1328": "lab-llac1363",
+  "llmg_1329": "lab-llac1363",
+  "llmg_2387": "lab-llac1363",
+  "llmg_2224": "lab-llac1363",
+  "llmg_0138": "lab-llac1363",
+  "llmg_0139": "lab-llac1363",
+  "llmg_0910": "lab-llac1363",
+  "llmg_2455": "lab-llac1363",
+  "llmg_1218": "lab-llac1363",
+  "llmg_1219": "lab-llac1363",
+  "llmg_1194": "lab-llac1363",
+  "llmg_1216": "lab-llac1363",
+  "llmg_1217": "lab-llac1363",
+  "llmg_0341": "lab-llac1363",
+  "llmg_2310": "lab-llac1363",
+  "llmg_1426": "lab-llac1363",
+  "llmg_0224": "lab-llac1363",
+  "llmg_2313": "lab-llac1363",
+  "llmg_0958": "lab-llac1363",
+  "llmg_2316": "lab-llac1363",
+  "llmg_0955": "lab-llac1363",
+  "llmg_0957": "lab-llac1363",
+  "llmg_0952": "lab-llac1363",
+  "llmg_0816": "lab-llac1363",
+  "llmg_1113": "lab-llac1363",
+  "llmg_1952": "lab-llac1363",
+  "llmg_1951": "lab-llac1363",
+  "llmg_1950": "lab-llac1363",
+  "llmg_1105": "lab-llac1363",
+  "llmg_1106": "lab-llac1363",
+  "llmg_1107": "lab-llac1363",
+  "llmg_0455": "lab-llac1363",
+  "llmg_0454": "lab-llac1363",
+  "llmg_0358": "lab-llac1363",
+  "llmg_0456": "lab-llac1363",
+  "llmg_0451": "lab-llac1363",
+  "llmg_1963": "lab-llac1363",
+  "llmg_1777": "lab-llac1363",
+  "llmg_0862": "lab-llac1363",
+  "llmg_0355": "lab-llac1363",
+  "llmg_0929": "lab-llac1363",
+  "llmg_0928": "lab-llac1363",
+  "llmg_1775": "lab-llac1363",
+  "llmg_1779": "lab-llac1363",
+  "llmg_1778": "lab-llac1363",
+  "llmg_0538": "lab-llac1363",
+  "llmg_0539": "lab-llac1363",
+  "llmg_0536": "lab-llac1363",
+  "llmg_1770": "lab-llac1363",
+  "llmg_0532": "lab-llac1363",
+  "llmg_1776": "lab-llac1363",
+  "llmg_0530": "lab-llac1363",
+  "llmg_1938": "lab-llac1363",
+  "llmg_1179": "lab-llac1363",
+  "llmg_1178": "lab-llac1363",
+  "llmg_0782": "lab-llac1363",
+  "llmg_1832": "lab-llac1363",
+  "llmg_2147": "lab-llac1363",
+  "llmg_2149": "lab-llac1363",
+  "llmg_1470": "lab-llac1363",
+  "llmg_0176": "lab-llac1363",
+  "llmg_0174": "lab-llac1363",
+  "llmg_0175": "lab-llac1363",
+  "llmg_0171": "lab-llac1363",
+  "llmg_0076": "lab-llac1363",
+  "llmg_1616": "lab-llac1363",
+  "llmg_0074": "lab-llac1363",
+  "llmg_0749": "lab-llac1363",
+  "llmg_0072": "lab-llac1363",
+  "llmg_0071": "lab-llac1363",
+  "llmg_0745": "lab-llac1363",
+  "llmg_0744": "lab-llac1363",
+  "llmg_0741": "lab-llac1363",
+  "llmg_0079": "lab-llac1363",
+  "llmg_0742": "lab-llac1363",
+  "llmg_2494": "lab-llac1363",
+  "llmg_0629": "lab-llac1363",
+  "llmg_0586": "lab-llac1363",
+  "llmg_2499": "lab-llac1363",
+  "llmg_0389": "lab-llac1363",
+  "llmg_0388": "lab-llac1363",
+  "llmg_0384": "lab-llac1363",
+  "llmg_0387": "lab-llac1363",
+  "llmg_0386": "lab-llac1363",
+  "llmg_0383": "lab-llac1363",
+  "llmg_0382": "lab-llac1363",
+  "llmg_1508": "lab-llac1363",
+  "llmg_1509": "lab-llac1363",
+  "llmg_2359": "lab-llac1363",
+  "llmg_1465": "lab-llac1363",
+  "llmg_1464": "lab-llac1363",
+  "llmg_1900": "lab-llac1363",
+  "llmg_0993": "lab-llac1363",
+  "llmg_0994": "lab-llac1363",
+  "llmg_0997": "lab-llac1363",
+  "llmg_2215": "lab-llac1363",
+  "llmg_2217": "lab-llac1363",
+  "llmg_2400": "lab-llac1363",
+  "llmg_2312": "lab-llac1363",
+  "llmg_1221": "lab-llac1363",
+  "llmg_1220": "lab-llac1363",
+  "llmg_1222": "lab-llac1363",
+  "llmg_1225": "lab-llac1363",
+  "llmg_1227": "lab-llac1363",
+  "llmg_1226": "lab-llac1363",
+  "llmg_0314": "lab-llac1363",
+  "llmg_0315": "lab-llac1363",
+  "llmg_0312": "lab-llac1363",
+  "llmg_0313": "lab-llac1363",
+  "llmg_0258": "lab-llac1363",
+  "llmg_2321": "lab-llac1363",
+  "llmg_0255": "lab-llac1363",
+  "llmg_0253": "lab-llac1363",
+  "llmg_2327": "lab-llac1363",
+  "llmg_0964": "lab-llac1363",
+  "llmg_1864": "lab-llac1363",
+  "llmg_1863": "lab-llac1363",
+  "llmg_1862": "lab-llac1363",
+  "llmg_1861": "lab-llac1363",
+  "llmg_1869": "lab-llac1363",
+  "llmg_0349": "lab-llac1363",
+  "llmg_0348": "lab-llac1363",
+  "llmg_1038": "lab-llac1363",
+  "llmg_1039": "lab-llac1363",
+  "llmg_1030": "lab-llac1363",
+  "llmg_1031": "lab-llac1363",
+  "llmg_1032": "lab-llac1363",
+  "llmg_1295": "lab-llac1363",
+  "llmg_1137": "lab-llac1363",
+  "llmg_1136": "lab-llac1363",
+  "llmg_1131": "lab-llac1363",
+  "llmg_1296": "lab-llac1363",
+  "llmg_0401": "lab-llac1363",
+  "llmg_1138": "lab-llac1363",
+  "llmg_1298": "lab-llac1363",
+  "llmg_0340": "lab-llac1363",
+  "llmg_0073": "lab-llac1363",
+  "llmg_1486": "lab-llac1363",
+  "llmg_0342": "lab-llac1363",
+  "llmg_1049": "lab-llac1363",
+  "llmg_1048": "lab-llac1363",
+  "llmg_0543": "lab-llac1363",
+  "llmg_1041": "lab-llac1363",
+  "llmg_1042": "lab-llac1363",
+  "llmg_2196": "lab-llac1363",
+  "llmg_2197": "lab-llac1363",
+  "llmg_2195": "lab-llac1363",
+  "llmg_2190": "lab-llac1363",
+  "llmg_2199": "lab-llac1363",
+  "llmg_2398": "lab-llac1363",
+  "llmg_2399": "lab-llac1363",
+  "llmg_1531": "lab-llac1363",
+  "llmg_2392": "lab-llac1363",
+  "llmg_2396": "lab-llac1363",
+  "llmg_1544": "lab-llac1363",
+  "llmg_1542": "lab-llac1363",
+  "llmg_1543": "lab-llac1363",
+  "llmg_0894": "lab-llac1363",
+  "llmg_0891": "lab-llac1363",
+  "llmg_1623": "lab-llac1363",
+  "llmg_1622": "lab-llac1363",
+  "llmg_2448": "lab-llac1363",
+  "llmg_2443": "lab-llac1363",
+  "llmg_1949": "lab-llac1363"
+ },
+ "lab-llac1363": {
+  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\data\\lab",
+  "genbank_in": "Lactococcus_lactis_MG1363.gbk",
+  "gene2reaction": {
+   "llmg_1184": [
+    "R_GLUSy"
+   ],
+   "llmg_1185": [
+    "R_DAPDC"
+   ],
+   "llmg_1187": [
+    "R_GLUR"
+   ],
+   "llmg_1181": [
+    "R_VALTA",
+    "R_ILETA",
+    "R_LEUTA"
+   ],
+   "llmg_0119": [
+    "R_AGAT_LLA"
+   ],
+   "llmg_1569": [
+    "R_PFK_2",
+    "R_F1PK"
+   ],
+   "llmg_1008": [
+    "R_GMPS2"
+   ],
+   "llmg_1342": [
+    "R_DHFOR2",
+    "R_DHFR"
+   ],
+   "llmg_1346": [
+    "R_XPPT"
+   ],
+   "llmg_0277": [
+    "R_NNAMr"
+   ],
+   "llmg_1345": [
+    "R_XANt2"
+   ],
+   "llmg_1430": [
+    "R_FMNAT",
+    "R_RBFK"
+   ],
+   "llmg_1431": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_0210": [
+    "R_TDPDRR"
+   ],
+   "llmg_0523": [
+    "R_GLYC3Pt6"
+   ],
+   "llmg_1823": [
+    "R_ASNN"
+   ],
+   "llmg_0191": [
+    "R_DUTPDP"
+   ],
+   "llmg_1532": [
+    "R_APRAUR",
+    "R_DHPPDA_1"
+   ],
+   "llmg_1743": [
+    "R_PRPPS"
+   ],
+   "llmg_0196": [
+    "R_PREN"
+   ],
+   "llmg_0197": [
+    "R_DHNAOT"
+   ],
+   "llmg_2242": [
+    "R_PGCD"
+   ],
+   "llmg_0199": [
+    "R_FE2abc"
+   ],
+   "llmg_1942": [
+    "R_GLNabc"
+   ],
+   "llmg_1828": [
+    "R_ICHORS"
+   ],
+   "llmg_1063": [
+    "R_CYTD",
+    "R_DCYTD"
+   ],
+   "llmg_1945": [
+    "R_ATPS3r"
+   ],
+   "llmg_1946": [
+    "R_ATPS3r"
+   ],
+   "llmg_1947": [
+    "R_ATPS3r"
+   ],
+   "llmg_2235": [
+    "R_GALK2"
+   ],
+   "llmg_1297": [
+    "R_HISTRS"
+   ],
+   "llmg_0440": [
+    "R_CELBpts"
+   ],
+   "llmg_2539": [
+    "R_GAPD"
+   ],
+   "llmg_2432": [
+    "R_ALCD2x",
+    "R_ACALD"
+   ],
+   "llmg_1875": [
+    "R_AMALT1",
+    "R_AMALT2",
+    "R_AMALT3",
+    "R_AMALT4"
+   ],
+   "llmg_0281": [
+    "R_RNTR4",
+    "R_RNTR2",
+    "R_RNTR3",
+    "R_RNTR1"
+   ],
+   "llmg_1948": [
+    "R_ATPS3r"
+   ],
+   "llmg_1137": [
+    "R_MNabc"
+   ],
+   "llmg_0738": [
+    "R_MALTabc"
+   ],
+   "llmg_0739": [
+    "R_MALTabc"
+   ],
+   "llmg_1601": [
+    "R_PPM",
+    "R_PPM2"
+   ],
+   "llmg_1298": [
+    "R_HSTPT",
+    "R_TYRTA",
+    "R_PHETA1"
+   ],
+   "llmg_1604": [
+    "R_CGPT"
+   ],
+   "llmg_0732": [
+    "R_CYTK1",
+    "R_CYTK2"
+   ],
+   "llmg_0737": [
+    "R_MALTabc"
+   ],
+   "llmg_1441": [
+    "R_FRDx"
+   ],
+   "llmg_0447": [
+    "R_POR"
+   ],
+   "llmg_0635": [
+    "R_CS"
+   ],
+   "llmg_0634": [
+    "R_PC"
+   ],
+   "llmg_0637": [
+    "R_ICDHy"
+   ],
+   "llmg_0441": [
+    "R_S6PG",
+    "R_AB6PGH",
+    "R_PGGH"
+   ],
+   "llmg_2046": [
+    "R_PRPPS"
+   ],
+   "llmg_0361": [
+    "R_UGLDDS1"
+   ],
+   "llmg_0360": [
+    "R_ALAALA"
+   ],
+   "llmg_0630": [
+    "R_DPCOAK"
+   ],
+   "llmg_1031": [
+    "R_ANS1"
+   ],
+   "llmg_0930": [
+    "R_ACACT1r"
+   ],
+   "llmg_0931": [
+    "R_HMGCOAR"
+   ],
+   "llmg_1735": [
+    "R_NADH4"
+   ],
+   "llmg_1734": [
+    "R_NADH4"
+   ],
+   "llmg_2494": [
+    "R_HIBD"
+   ],
+   "llmg_0190": [
+    "R_BG_CELLB_"
+   ],
+   "llmg_1603": [
+    "R_CRPT_25"
+   ],
+   "llmg_1874": [
+    "R_GLGC"
+   ],
+   "llmg_1288": [
+    "R_HISTP"
+   ],
+   "llmg_1138": [
+    "R_MNabc"
+   ],
+   "llmg_0500": [
+    "R_HARAAT"
+   ],
+   "llmg_1105": [
+    "R_DHORD6",
+    "R_DHORD1"
+   ],
+   "llmg_1456": [
+    "R_LACZ"
+   ],
+   "llmg_0181": [
+    "R_FTHFCL"
+   ],
+   "llmg_0508": [
+    "R_CYSS"
+   ],
+   "llmg_2346": [
+    "R_S7PI"
+   ],
+   "llmg_1450": [
+    "R_AHMMPS"
+   ],
+   "llmg_0987": [
+    "R_PRAIS"
+   ],
+   "llmg_1516": [
+    "R_GF6PTA"
+   ],
+   "llmg_1006": [
+    "R_FRUK"
+   ],
+   "llmg_1000": [
+    "R_AIRC"
+   ],
+   "llmg_2155": [
+    "R_GK1",
+    "R_GK2"
+   ],
+   "llmg_1926": [
+    "R_PSCVT"
+   ],
+   "llmg_1927": [
+    "R_PPND"
+   ],
+   "llmg_1924": [
+    "R_PPNDH"
+   ],
+   "llmg_1925": [
+    "R_SHKK"
+   ],
+   "llmg_1923": [
+    "R_PGM"
+   ],
+   "llmg_1693": [
+    "R_MTHFD",
+    "R_MTHFC"
+   ],
+   "llmg_0355": [
+    "R_PGM"
+   ],
+   "llmg_2415": [
+    "R_UDCPDPS"
+   ],
+   "llmg_2414": [
+    "R_DASYN_LLA"
+   ],
+   "llmg_2412": [
+    "R_PROTRS"
+   ],
+   "llmg_0727": [
+    "R_GLCpts",
+    "R_MANpts",
+    "R_FRUpts"
+   ],
+   "llmg_2299": [
+    "R_HEX1"
+   ],
+   "llmg_0879": [
+    "R_SPMDAT1",
+    "R_SPMDAT2"
+   ],
+   "llmg_1098": [
+    "R_G3PD4",
+    "R_G3PD8"
+   ],
+   "llmg_1530": [
+    "R_DB4PS",
+    "R_GTPCII"
+   ],
+   "llmg_1097": [
+    "R_GLYCt1"
+   ],
+   "llmg_0063": [
+    "R_SO4t2"
+   ],
+   "llmg_0066": [
+    "R_ASPTA6",
+    "R_ASPTA5",
+    "R_aratry1",
+    "R_aratry2",
+    "R_METTA",
+    "R_araphe3",
+    "R_araphe2",
+    "R_araphe1",
+    "R_AKGTA3",
+    "R_aratyr2",
+    "R_aratyr4",
+    "R_aratyr3",
+    "R_aratyr1"
+   ],
+   "llmg_1820": [
+    "R_ASPK"
+   ],
+   "llmg_1770": [
+    "R_NOX2",
+    "R_NOX1"
+   ],
+   "llmg_2481": [
+    "R_CHORM"
+   ],
+   "llmg_0467": [
+    "R_CTPS2",
+    "R_CTPS1_1"
+   ],
+   "llmg_2484": [
+    "R_GLNS"
+   ],
+   "llmg_0753": [
+    "R_AMMQT8_2"
+   ],
+   "llmg_0462": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_0463": [
+    "R_HMPK1",
+    "R_PMPK"
+   ],
+   "llmg_1719": [
+    "R_NMNP"
+   ],
+   "llmg_1509": [
+    "R_ORPT"
+   ],
+   "llmg_1741": [
+    "R_LEUTRS"
+   ],
+   "llmg_0264": [
+    "R_FBP"
+   ],
+   "llmg_2504": [
+    "R_ASPR"
+   ],
+   "llmg_0859": [
+    "R_MNNH"
+   ],
+   "llmg_0858": [
+    "R_MANAO"
+   ],
+   "llmg_0912": [
+    "R_UAMAGS"
+   ],
+   "llmg_1829": [
+    "R_2S6HCC"
+   ],
+   "llmg_1854": [
+    "R_ALKP"
+   ],
+   "llmg_1588": [
+    "R_TRDR"
+   ],
+   "llmg_1709": [
+    "R_MALTAT"
+   ],
+   "llmg_1991": [
+    "R_AALDH"
+   ],
+   "llmg_1486": [
+    "R_DAGK_LLA"
+   ],
+   "llmg_1997": [
+    "R_PFL"
+   ],
+   "llmg_1996": [
+    "R_PPA"
+   ],
+   "llmg_2359": [
+    "R_ADK1",
+    "R_ADK2",
+    "R_DADK"
+   ],
+   "llmg_0207": [
+    "R_TDPDRE"
+   ],
+   "llmg_1943": [
+    "R_GLNabc"
+   ],
+   "llmg_1309": [
+    "R_ACHBS",
+    "R_ACLS"
+   ],
+   "llmg_1754": [
+    "R_OCBT"
+   ],
+   "llmg_0397": [
+    "R_ACPSc"
+   ],
+   "llmg_0392": [
+    "R_LDH_L"
+   ],
+   "llmg_1062": [
+    "R_DRPA"
+   ],
+   "llmg_1782": [
+    "R_ACCOAC"
+   ],
+   "llmg_1783": [
+    "R_MCMAT6",
+    "R_MCMAT5",
+    "R_MCMAT4",
+    "R_MCMAT2",
+    "R_MCMAT8",
+    "R_MCMAT7",
+    "R_MCMAT3"
+   ],
+   "llmg_1290": [
+    "R_IG3PS"
+   ],
+   "llmg_1781": [
+    "R_HODHL8",
+    "R_HDDHL5",
+    "R_HHDHL7",
+    "R_HTDHL6",
+    "R_HOCHL3",
+    "R_HBUHL1",
+    "R_HHYHL2",
+    "R_HDEHL4"
+   ],
+   "llmg_1579": [
+    "R_PGM"
+   ],
+   "llmg_1787": [
+    "R_kaasIII",
+    "R_ACOATA"
+   ],
+   "llmg_1784": [
+    "R_HTDR6",
+    "R_HHYR2",
+    "R_HDDR5",
+    "R_HHDR7",
+    "R_HDER4",
+    "R_HOCR3",
+    "R_HODR8",
+    "R_HBUR1"
+   ],
+   "llmg_1473": [
+    "R_NMNAT",
+    "R_NNAT"
+   ],
+   "llmg_1060": [
+    "R_TMDPP",
+    "R_PYNP1r",
+    "R_PYNP1",
+    "R_PYNP4"
+   ],
+   "llmg_1478": [
+    "R_GLYTRS"
+   ],
+   "llmg_2176": [
+    "R_UPPRT"
+   ],
+   "llmg_0788": [
+    "R_RIBabc"
+   ],
+   "llmg_1906": [
+    "R_ALATRS"
+   ],
+   "llmg_2075": [
+    "R_ADPRDP"
+   ],
+   "llmg_1901": [
+    "R_PPIabc",
+    "R_PIabc"
+   ],
+   "llmg_2077": [
+    "R_P5CR"
+   ],
+   "llmg_2201": [
+    "R_ADSS"
+   ],
+   "llmg_1149": [
+    "R_ORNCD"
+   ],
+   "llmg_1678": [
+    "R_PAPPT1"
+   ],
+   "llmg_1679": [
+    "R_PGGT2"
+   ],
+   "llmg_0415": [
+    "R_DTMPK"
+   ],
+   "llmg_2477": [
+    "R_LYSt6"
+   ],
+   "llmg_2476": [
+    "R_UDCPK"
+   ],
+   "llmg_0617": [
+    "R_ENO"
+   ],
+   "llmg_2311": [
+    "R_ARGORNt3"
+   ],
+   "llmg_1699": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "llmg_2431": [
+    "R_PGL"
+   ],
+   "llmg_0776": [
+    "R_TRDR"
+   ],
+   "llmg_1237": [
+    "R_CARORSr"
+   ],
+   "llmg_0952": [
+    "R_DHORD1"
+   ],
+   "llmg_0326": [
+    "R_UAGCVT"
+   ],
+   "llmg_1221": [
+    "R_DALTAL_LLA"
+   ],
+   "llmg_2040": [
+    "R_CYSTRS"
+   ],
+   "llmg_1738": [
+    "R_PGGH"
+   ],
+   "llmg_2332": [
+    "R_GLUTRS",
+    "R_GLUTRS2"
+   ],
+   "llmg_1871": [
+    "R_GLCP"
+   ],
+   "llmg_1872": [
+    "R_GLCS1"
+   ],
+   "llmg_1873": [
+    "R_GLGC"
+   ],
+   "llmg_1733": [
+    "R_SERD_L"
+   ],
+   "llmg_1732": [
+    "R_SERD_L"
+   ],
+   "llmg_0976": [
+    "R_PRFGS"
+   ],
+   "llmg_0977": [
+    "R_GLUPRT"
+   ],
+   "llmg_0974": [
+    "R_PRFGS"
+   ],
+   "llmg_0975": [
+    "R_PRFGS"
+   ],
+   "llmg_2181": [
+    "R_SHSL1",
+    "R_SHSL5"
+   ],
+   "llmg_0973": [
+    "R_PRASCS"
+   ],
+   "llmg_0970": [
+    "R_CMLDC"
+   ],
+   "llmg_2182": [
+    "R_HSST",
+    "R_HSAT"
+   ],
+   "llmg_1979": [
+    "R_ARGabc",
+    "R_GLUabc"
+   ],
+   "llmg_1978": [
+    "R_ARGabc",
+    "R_GLUabc"
+   ],
+   "llmg_0874": [
+    "R_DHDPS"
+   ],
+   "llmg_2215": [
+    "R_ASPTRS"
+   ],
+   "llmg_0871": [
+    "R_ASAD"
+   ],
+   "llmg_0870": [
+    "R_GLYCt1"
+   ],
+   "llmg_2506": [
+    "R_ASNS1"
+   ],
+   "llmg_1325": [
+    "R_SPMDabc",
+    "R_PTRCabc"
+   ],
+   "llmg_1326": [
+    "R_SPMDabc",
+    "R_PTRCabc"
+   ],
+   "llmg_1327": [
+    "R_SPMDabc",
+    "R_PTRCabc"
+   ],
+   "llmg_1328": [
+    "R_SPMDabc",
+    "R_PTRCabc"
+   ],
+   "llmg_1329": [
+    "R_UAPGR"
+   ],
+   "llmg_1702": [
+    "R_GTHRD"
+   ],
+   "llmg_2387": [
+    "R_THRS"
+   ],
+   "llmg_2224": [
+    "R_PGSA_LLA"
+   ],
+   "llmg_0426": [
+    "R_DPMVD"
+   ],
+   "llmg_0138": [
+    "R_ARGSS"
+   ],
+   "llmg_0139": [
+    "R_ARGSL"
+   ],
+   "llmg_0910": [
+    "R_NH4t"
+   ],
+   "llmg_1558": [
+    "R_CLPNS_LLA"
+   ],
+   "llmg_2053": [
+    "R_ILETRS"
+   ],
+   "llmg_1120": [
+    "R_LDH_L"
+   ],
+   "llmg_0438": [
+    "R_CELBpts"
+   ],
+   "llmg_0437": [
+    "R_CELBpts"
+   ],
+   "llmg_1284": [
+    "R_IPPMIa",
+    "R_IPPMIb"
+   ],
+   "llmg_1282": [
+    "R_IPPMIa",
+    "R_IPPMIb"
+   ],
+   "llmg_2455": [
+    "R_VALTRS"
+   ],
+   "llmg_1280": [
+    "R_DHAD2",
+    "R_DHAD1"
+   ],
+   "llmg_0913": [
+    "R_UGT2_LLA",
+    "R_UGT1_LLA",
+    "R_UAGPT1"
+   ],
+   "llmg_0885": [
+    "R_GLU5K"
+   ],
+   "llmg_0312": [
+    "R_AEPabc"
+   ],
+   "llmg_0636": [
+    "R_ACONT"
+   ],
+   "llmg_1099": [
+    "R_GLYK"
+   ],
+   "llmg_0024": [
+    "R_MNLpts"
+   ],
+   "llmg_1219": [
+    "R_DALTAL_LLA"
+   ],
+   "llmg_0020": [
+    "R_GUAPRT",
+    "R_HXPRT"
+   ],
+   "llmg_0022": [
+    "R_MNLpts"
+   ],
+   "llmg_1194": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_1216": [
+    "R_HETZK"
+   ],
+   "llmg_1217": [
+    "R_HMPK1",
+    "R_PMPK"
+   ],
+   "llmg_0559": [
+    "R_FLVR"
+   ],
+   "llmg_0650": [
+    "R_ILEt2",
+    "R_VALt2",
+    "R_LEUt2"
+   ],
+   "llmg_1455": [
+    "R_AB6PGH"
+   ],
+   "llmg_0428": [
+    "R_IPDDI"
+   ],
+   "llmg_1416": [
+    "R_DCMPDA"
+   ],
+   "llmg_0555": [
+    "R_TMDK1",
+    "R_DURIK1",
+    "R_TMDK2"
+   ],
+   "llmg_1755": [
+    "R_ACGK"
+   ],
+   "llmg_1426": [
+    "R_SUCpts"
+   ],
+   "llmg_1757": [
+    "R_ORNTAC"
+   ],
+   "llmg_1756": [
+    "R_ACOTA"
+   ],
+   "llmg_2314": [
+    "R_ARGTRS"
+   ],
+   "llmg_1289": [
+    "R_PRAMPC",
+    "R_PRATPP"
+   ],
+   "llmg_2316": [
+    "R_UAMAS"
+   ],
+   "llmg_0955": [
+    "R_ALCD2x",
+    "R_ALCD19"
+   ],
+   "llmg_1050": [
+    "R_GLYK"
+   ],
+   "llmg_0957": [
+    "R_RPE"
+   ],
+   "llmg_1758": [
+    "R_AGPR"
+   ],
+   "llmg_2237": [
+    "R_GALt2"
+   ],
+   "llmg_2307": [
+    "R_ARGORNt3"
+   ],
+   "llmg_0816": [
+    "R_DUTPDP"
+   ],
+   "llmg_1952": [
+    "R_ATPS3r"
+   ],
+   "llmg_1951": [
+    "R_ATPS3r"
+   ],
+   "llmg_1950": [
+    "R_ATPS3r"
+   ],
+   "llmg_1606": [
+    "R_G3PCT"
+   ],
+   "llmg_0292": [
+    "R_ADPDS"
+   ],
+   "llmg_0291": [
+    "R_THDPS",
+    "R_APAT"
+   ],
+   "llmg_0940": [
+    "R_DHDPRy"
+   ],
+   "llmg_0299": [
+    "R_DADA",
+    "R_ADA"
+   ],
+   "llmg_0113": [
+    "R_GTPDPK"
+   ],
+   "llmg_1524": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_1058": [
+    "R_PNTK"
+   ],
+   "llmg_1638": [
+    "R_MALLAC"
+   ],
+   "llmg_0886": [
+    "R_G5SD"
+   ],
+   "llmg_1637": [
+    "R_MALt2"
+   ],
+   "llmg_1106": [
+    "R_DHORD6",
+    "R_DHORD1"
+   ],
+   "llmg_1107": [
+    "R_OMPDC"
+   ],
+   "llmg_0127": [
+    "R_GLCpts",
+    "R_ACGALpts",
+    "R_MNLpts",
+    "R_SUCpts",
+    "R_DHAPT",
+    "R_MANpts",
+    "R_SBTpts",
+    "R_FRUpts",
+    "R_TREpts",
+    "R_ACGApts",
+    "R_GALTpts",
+    "R_CELBpts"
+   ],
+   "llmg_0455": [
+    "R_MALP"
+   ],
+   "llmg_0454": [
+    "R_TREpts"
+   ],
+   "llmg_0358": [
+    "R_PGGT2"
+   ],
+   "llmg_0456": [
+    "R_PGMT_B"
+   ],
+   "llmg_0451": [
+    "R_PGAMT",
+    "R_PGMT"
+   ],
+   "llmg_0722": [
+    "R_SERTRS"
+   ],
+   "llmg_2197": [
+    "R_PHPDC"
+   ],
+   "llmg_1777": [
+    "R_ACCOAC"
+   ],
+   "llmg_2518": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_0729": [
+    "R_GLCpts",
+    "R_MANpts",
+    "R_FRUpts"
+   ],
+   "llmg_0728": [
+    "R_GLCpts",
+    "R_MANpts",
+    "R_FRUpts"
+   ],
+   "llmg_0929": [
+    "R_HMGCOAS"
+   ],
+   "llmg_0928": [
+    "R_G6PDA"
+   ],
+   "llmg_2195": [
+    "R_PHETRS"
+   ],
+   "llmg_1775": [
+    "R_CYSS"
+   ],
+   "llmg_0958": [
+    "R_RPI"
+   ],
+   "llmg_1976": [
+    "R_ACGAMT"
+   ],
+   "llmg_1278": [
+    "R_ACLS",
+    "R_THRD_L"
+   ],
+   "llmg_1279": [
+    "R_ACLS",
+    "R_THRD_L"
+   ],
+   "llmg_1276": [
+    "R_ACLS",
+    "R_THRD_L"
+   ],
+   "llmg_1277": [
+    "R_KARA1",
+    "R_DPR",
+    "R_KARA2"
+   ],
+   "llmg_1275": [
+    "R_ACLDC"
+   ],
+   "llmg_1779": [
+    "R_ACCOAC"
+   ],
+   "llmg_1778": [
+    "R_ACCOAC"
+   ],
+   "llmg_0209": [
+    "R_TDPGDH"
+   ],
+   "llmg_0538": [
+    "R_HODHL8",
+    "R_HDDHL5",
+    "R_HHDHL7",
+    "R_HTDHL6",
+    "R_HOCHL3",
+    "R_HBUHL1",
+    "R_HHYHL2",
+    "R_HDEHL4"
+   ],
+   "llmg_0539": [
+    "R_DEMAT4",
+    "R_TDMAT6",
+    "R_OCMAT3",
+    "R_DDMAT5",
+    "R_OCDMAT8",
+    "R_BTMAT1",
+    "R_HDMAT7",
+    "R_HEMAT2"
+   ],
+   "llmg_0536": [
+    "R_ACODA"
+   ],
+   "llmg_0206": [
+    "R_G1PTMT"
+   ],
+   "llmg_0535": [
+    "R_ARGabc"
+   ],
+   "llmg_0532": [
+    "R_FMETDF"
+   ],
+   "llmg_1776": [
+    "R_METGL",
+    "R_TRPAS1",
+    "R_CYSTL",
+    "R_CYSTGL"
+   ],
+   "llmg_0530": [
+    "R_GAPD"
+   ],
+   "llmg_1831": [
+    "R_NPHS"
+   ],
+   "llmg_1179": [
+    "R_GLUDC"
+   ],
+   "llmg_1178": [
+    "R_GLUABUTt7"
+   ],
+   "llmg_1689": [
+    "R_DMATT",
+    "R_GRTT"
+   ],
+   "llmg_2511": [
+    "R_RPI"
+   ],
+   "llmg_1939": [
+    "R_SHK3D"
+   ],
+   "llmg_1938": [
+    "R_DHQS"
+   ],
+   "llmg_1832": [
+    "R_SUCBZL"
+   ],
+   "llmg_1833": [
+    "R_SUCBZS"
+   ],
+   "llmg_2149": [
+    "R_ADPRDP"
+   ],
+   "llmg_1934": [
+    "R_CHORS"
+   ],
+   "llmg_1681": [
+    "R_HCYSMT"
+   ],
+   "llmg_1529": [
+    "R_RBFSb"
+   ],
+   "llmg_2272": [
+    "R_GPDDA5",
+    "R_GPDDA4",
+    "R_GPDDA3",
+    "R_GPDDA2",
+    "R_GPDDA1"
+   ],
+   "llmg_0091": [
+    "R_METACH"
+   ],
+   "llmg_1477": [
+    "R_GLYTRS"
+   ],
+   "llmg_1786": [
+    "R_ACPS2"
+   ],
+   "llmg_2420": [
+    "R_DAGGT_LLA"
+   ],
+   "llmg_2421": [
+    "R_DAGGT_LLA"
+   ],
+   "llmg_1218": [
+    "R_TMPPP"
+   ],
+   "llmg_1089": [
+    "R_CBPS"
+   ],
+   "llmg_1472": [
+    "R_NAPRT"
+   ],
+   "llmg_0025": [
+    "R_M1PD"
+   ],
+   "llmg_0176": [
+    "R_GLNTRS2"
+   ],
+   "llmg_0174": [
+    "R_GLNTRS2"
+   ],
+   "llmg_1785": [
+    "R_MACPMT"
+   ],
+   "llmg_0171": [
+    "R_ALATA_L"
+   ],
+   "llmg_2013": [
+    "R_TMDPK"
+   ],
+   "llmg_0258": [
+    "R_DHAPT"
+   ],
+   "llmg_1616": [
+    "R_UDPGD"
+   ],
+   "llmg_0074": [
+    "R_OIVD3",
+    "R_OIVD1",
+    "R_PDH",
+    "R_OIVD2"
+   ],
+   "llmg_0749": [
+    "R_DXPS"
+   ],
+   "llmg_0072": [
+    "R_OIVD3",
+    "R_OIVD1",
+    "R_PDH",
+    "R_OIVD2"
+   ],
+   "llmg_0071": [
+    "R_OIVD3",
+    "R_OIVD1",
+    "R_PDH",
+    "R_OIVD2"
+   ],
+   "llmg_2076": [
+    "R_G1PACT",
+    "R_UAGDP"
+   ],
+   "llmg_0745": [
+    "R_MALP"
+   ],
+   "llmg_0744": [
+    "R_MALT",
+    "R_SUCH"
+   ],
+   "llmg_2019": [
+    "R_ASPTA6",
+    "R_ASPTA4",
+    "R_ASPTA5",
+    "R_ASPTA2",
+    "R_ASPTA1"
+   ],
+   "llmg_0741": [
+    "R_TRE6PH"
+   ],
+   "llmg_0079": [
+    "R_TRPTRS"
+   ],
+   "llmg_0742": [
+    "R_MALTAT"
+   ],
+   "llmg_0372": [
+    "R_ASNS1"
+   ],
+   "llmg_1789": [
+    "R_MAN6PI"
+   ],
+   "llmg_0375": [
+    "R_SER_Dt6",
+    "R_ALA_Lt6",
+    "R_GLYt6",
+    "R_ALA_Dt6"
+   ],
+   "llmg_0376": [
+    "R_SER_Dt6",
+    "R_ALA_Lt6",
+    "R_GLYt6",
+    "R_ALA_Dt6"
+   ],
+   "llmg_0629": [
+    "R_PFL"
+   ],
+   "llmg_0586": [
+    "R_PGDH"
+   ],
+   "llmg_2499": [
+    "R_G6PDHy"
+   ],
+   "llmg_0224": [
+    "R_UDPGALM"
+   ],
+   "llmg_1843": [
+    "R_ADA",
+    "R_CSND"
+   ],
+   "llmg_1599": [
+    "R_PUNP4",
+    "R_PUNP5",
+    "R_PUNP1",
+    "R_PUNP3",
+    "R_PUNP2",
+    "R_PUNP7",
+    "R_PUNP6"
+   ],
+   "llmg_1595": [
+    "R_FTHFL"
+   ],
+   "llmg_0389": [
+    "R_LYSTRS"
+   ],
+   "llmg_0388": [
+    "R_AHMMPS"
+   ],
+   "llmg_1030": [
+    "R_ANS1"
+   ],
+   "llmg_0384": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_0387": [
+    "R_SUCD1"
+   ],
+   "llmg_0386": [
+    "R_LYSt6"
+   ],
+   "llmg_0563": [
+    "R_THRA",
+    "R_GHMT"
+   ],
+   "llmg_0383": [
+    "R_NADK"
+   ],
+   "llmg_0382": [
+    "R_GTPDPK"
+   ],
+   "llmg_1508": [
+    "R_DHORTS"
+   ],
+   "llmg_0999": [
+    "R_AIRC"
+   ],
+   "llmg_0516": [
+    "R_MI1PP"
+   ],
+   "llmg_0517": [
+    "R_UAGCVT"
+   ],
+   "llmg_0511": [
+    "R_PGGT2"
+   ],
+   "llmg_1465": [
+    "R_UAAGLS1"
+   ],
+   "llmg_1464": [
+    "R_ACLDC"
+   ],
+   "llmg_1900": [
+    "R_PPIabc",
+    "R_PIabc"
+   ],
+   "llmg_0993": [
+    "R_GUAPRT",
+    "R_HXPRT"
+   ],
+   "llmg_0994": [
+    "R_IMPC",
+    "R_AICART"
+   ],
+   "llmg_0997": [
+    "R_PRAGS"
+   ],
+   "llmg_1913": [
+    "R_GUAt2",
+    "R_HXANt2"
+   ],
+   "llmg_2217": [
+    "R_HISTRS"
+   ],
+   "llmg_2162": [
+    "R_ACCOAC"
+   ],
+   "llmg_2161": [
+    "R_CFAS180"
+   ],
+   "llmg_2160": [
+    "R_METAT"
+   ],
+   "llmg_1154": [
+    "R_ADCS",
+    "R_ADCL"
+   ],
+   "llmg_1153": [
+    "R_ADCS",
+    "R_ADCL"
+   ],
+   "llmg_2169": [
+    "R_THRTRS"
+   ],
+   "llmg_2400": [
+    "R_ZN2abc2"
+   ],
+   "llmg_2321": [
+    "R_PYROX"
+   ],
+   "llmg_1700": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "llmg_2288": [
+    "R_ACKVAL",
+    "R_ACKLEU",
+    "R_ACKr",
+    "R_ACKILE"
+   ],
+   "llmg_2289": [
+    "R_ACKVAL",
+    "R_ACKLEU",
+    "R_ACKr",
+    "R_ACKILE"
+   ],
+   "llmg_1623": [
+    "R_CRPT_25"
+   ],
+   "llmg_2285": [
+    "R_URIDK2",
+    "R_URIDK1"
+   ],
+   "llmg_0158": [
+    "R_GLCS1"
+   ],
+   "llmg_2167": [
+    "R_FBA"
+   ],
+   "llmg_2313": [
+    "R_ARGDI"
+   ],
+   "llmg_0763": [
+    "R_PTALEU",
+    "R_PTAVAL",
+    "R_PTAr",
+    "R_PTAILE"
+   ],
+   "llmg_1220": [
+    "R_DALTAL_LLA"
+   ],
+   "llmg_1222": [
+    "R_DALTAL_LLA"
+   ],
+   "llmg_1225": [
+    "R_MTHPTGHM"
+   ],
+   "llmg_1704": [
+    "R_ALAR"
+   ],
+   "llmg_1227": [
+    "R_DAHPS"
+   ],
+   "llmg_1226": [
+    "R_METFR"
+   ],
+   "llmg_1183": [
+    "R_GLUSy"
+   ],
+   "llmg_1470": [
+    "R_NADS1"
+   ],
+   "llmg_0607": [
+    "R_ADPT"
+   ],
+   "llmg_0314": [
+    "R_AEPabc"
+   ],
+   "llmg_0315": [
+    "R_AEPabc"
+   ],
+   "llmg_0565": [
+    "R_PSERT",
+    "R_OHPBAT"
+   ],
+   "llmg_0313": [
+    "R_AEPabc"
+   ],
+   "llmg_0567": [
+    "R_PSP_L"
+   ],
+   "llmg_0566": [
+    "R_PGCD"
+   ],
+   "llmg_0257": [
+    "R_DHAPT"
+   ],
+   "llmg_1117": [
+    "R_AGDC"
+   ],
+   "llmg_0255": [
+    "R_DHAPT"
+   ],
+   "llmg_0253": [
+    "R_PGK"
+   ],
+   "llmg_2327": [
+    "R_GLYCt1"
+   ],
+   "llmg_1705": [
+    "R_ACPS2"
+   ],
+   "llmg_0964": [
+    "R_TMDS_1"
+   ],
+   "llmg_1864": [
+    "R_CYTB_B2"
+   ],
+   "llmg_1863": [
+    "R_CYTB_B2"
+   ],
+   "llmg_1862": [
+    "R_CYTB_B2"
+   ],
+   "llmg_1861": [
+    "R_CYTB_B2"
+   ],
+   "llmg_1622": [
+    "R_CRPT_25"
+   ],
+   "llmg_1869": [
+    "R_GLCP"
+   ],
+   "llmg_1989": [
+    "R_UAAGLS1",
+    "R_UAAGDS"
+   ],
+   "llmg_1333": [
+    "R_DGNSK",
+    "R_DADNK"
+   ],
+   "llmg_2310": [
+    "R_CBMK3"
+   ],
+   "llmg_1331": [
+    "R_HSK"
+   ],
+   "llmg_0175": [
+    "R_GLNTRS2"
+   ],
+   "llmg_1337": [
+    "R_HPPK",
+    "R_GTPCI"
+   ],
+   "llmg_1336": [
+    "R_DHPS3"
+   ],
+   "llmg_1334": [
+    "R_THFGLUS",
+    "R_DHFS"
+   ],
+   "llmg_1338": [
+    "R_DHNPA"
+   ],
+   "llmg_2312": [
+    "R_OCBT"
+   ],
+   "llmg_1002": [
+    "R_XYLI1",
+    "R_XYLI2"
+   ],
+   "llmg_0123": [
+    "R_ACPSc"
+   ],
+   "llmg_1424": [
+    "R_TPI"
+   ],
+   "llmg_0125": [
+    "R_DAHPS"
+   ],
+   "llmg_1039": [
+    "R_PRAI"
+   ],
+   "llmg_1568": [
+    "R_FRUpts"
+   ],
+   "llmg_0126": [
+    "R_GLCpts",
+    "R_ACGALpts",
+    "R_MNLpts",
+    "R_SUCpts",
+    "R_DHAPT",
+    "R_MANpts",
+    "R_SBTpts",
+    "R_FRUpts",
+    "R_TREpts",
+    "R_ACGApts",
+    "R_GALTpts",
+    "R_CELBpts"
+   ],
+   "llmg_2233": [
+    "R_UDPG4E"
+   ],
+   "llmg_1294": [
+    "R_IGPDH"
+   ],
+   "llmg_2230": [
+    "R_CMLDC"
+   ],
+   "llmg_0762": [
+    "R_CYTDK1",
+    "R_CYTDK2",
+    "R_CYTDK3",
+    "R_ADAD",
+    "R_URIK3",
+    "R_URIK1",
+    "R_URIK2"
+   ],
+   "llmg_2236": [
+    "R_GALM"
+   ],
+   "llmg_1032": [
+    "R_ANPRT"
+   ],
+   "llmg_2234": [
+    "R_GALT"
+   ],
+   "llmg_0408": [
+    "R_NPR",
+    "R_NOX2",
+    "R_NOX1"
+   ],
+   "llmg_1136": [
+    "R_MNabc"
+   ],
+   "llmg_1131": [
+    "R_DPR",
+    "R_2H3MPDH",
+    "R_DPRr",
+    "R_2H3MBDH",
+    "R_2HXICDH"
+   ],
+   "llmg_1642": [
+    "R_BTDD_RR"
+   ],
+   "llmg_1641": [
+    "R_ACTD"
+   ],
+   "llmg_0076": [
+    "R_GPDDA5",
+    "R_GPDDA4",
+    "R_GPDDA3",
+    "R_GPDDA2",
+    "R_GPDDA1"
+   ],
+   "llmg_0401": [
+    "R_TYRTRS"
+   ],
+   "llmg_2147": [
+    "R_FMETTRS"
+   ],
+   "llmg_1412": [
+    "R_GMPR"
+   ],
+   "llmg_2467": [
+    "R_GLCNt2"
+   ],
+   "llmg_0429": [
+    "R_SOD"
+   ],
+   "llmg_0073": [
+    "R_OIVD3",
+    "R_OIVD1",
+    "R_PDH",
+    "R_OIVD2"
+   ],
+   "llmg_2468": [
+    "R_GNK"
+   ],
+   "llmg_2469": [
+    "R_PGDH"
+   ],
+   "llmg_1896": [
+    "R_PPIabc",
+    "R_PIabc"
+   ],
+   "llmg_1897": [
+    "R_PPIabc",
+    "R_PIabc"
+   ],
+   "llmg_1291": [
+    "R_PRMICI"
+   ],
+   "llmg_1332": [
+    "R_HSDy"
+   ],
+   "llmg_1898": [
+    "R_PPIabc",
+    "R_PIabc"
+   ],
+   "llmg_1899": [
+    "R_PPIabc",
+    "R_PIabc"
+   ],
+   "llmg_1764": [
+    "R_METTRS"
+   ],
+   "llmg_0338": [
+    "R_METDabc",
+    "R_METabc"
+   ],
+   "llmg_1429": [
+    "R_LDH_L"
+   ],
+   "llmg_0335": [
+    "R_METDabc",
+    "R_METabc"
+   ],
+   "llmg_0336": [
+    "R_METDabc",
+    "R_METabc"
+   ],
+   "llmg_2443": [
+    "R_PTPAT"
+   ],
+   "llmg_1049": [
+    "R_PROabc",
+    "R_GLYBabc"
+   ],
+   "llmg_1048": [
+    "R_PROabc",
+    "R_GLYBabc"
+   ],
+   "llmg_0236": [
+    "R_NMNAT",
+    "R_NNAT"
+   ],
+   "llmg_0543": [
+    "R_PPCDC",
+    "R_PPNCL"
+   ],
+   "llmg_0230": [
+    "R_IMPD"
+   ],
+   "llmg_2309": [
+    "R_CBMK3"
+   ],
+   "llmg_1041": [
+    "R_TRPS2",
+    "R_TRPS1"
+   ],
+   "llmg_2073": [
+    "R_AHCYSNS",
+    "R_MTAN"
+   ],
+   "llmg_1418": [
+    "R_CPPPGO"
+   ],
+   "llmg_1042": [
+    "R_TRPS2",
+    "R_TRPS1"
+   ],
+   "llmg_0988": [
+    "R_GARFT"
+   ],
+   "llmg_0789": [
+    "R_RIBabc"
+   ],
+   "llmg_1963": [
+    "R_ACCOAC"
+   ],
+   "llmg_0862": [
+    "R_GUI1",
+    "R_GUI2"
+   ],
+   "llmg_1961": [
+    "R_TMN"
+   ],
+   "llmg_0864": [
+    "R_EDA"
+   ],
+   "llmg_2190": [
+    "R_RPE"
+   ],
+   "llmg_0868": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "llmg_0783": [
+    "R_ADSL2",
+    "R_ADSL1"
+   ],
+   "llmg_0782": [
+    "R_DHQD"
+   ],
+   "llmg_0785": [
+    "R_RBK",
+    "R_DRBK"
+   ],
+   "llmg_0787": [
+    "R_RIBabc"
+   ],
+   "llmg_2199": [
+    "R_CHITN1"
+   ],
+   "llmg_2398": [
+    "R_ZN2abc2"
+   ],
+   "llmg_2399": [
+    "R_ZN2abc2"
+   ],
+   "llmg_1720": [
+    "R_DURIPP",
+    "R_PYNP2"
+   ],
+   "llmg_1531": [
+    "R_RBFSa"
+   ],
+   "llmg_2392": [
+    "R_PGGT2"
+   ],
+   "llmg_2396": [
+    "R_PSUDS",
+    "R_YUMPS"
+   ],
+   "llmg_1544": [
+    "R_RNDR1",
+    "R_RNDR4",
+    "R_RNDR3",
+    "R_RNDR2"
+   ],
+   "llmg_1119": [
+    "R_NDPK3",
+    "R_NDPK1",
+    "R_PYK"
+   ],
+   "llmg_1118": [
+    "R_PFK"
+   ],
+   "llmg_1542": [
+    "R_RNTR4",
+    "R_RNTR2",
+    "R_RNTR3",
+    "R_RNTR1"
+   ],
+   "llmg_1543": [
+    "R_RNDR1",
+    "R_RNDR4",
+    "R_RNDR3",
+    "R_RNDR2"
+   ],
+   "llmg_1113": [
+    "R_GALU"
+   ],
+   "llmg_0894": [
+    "R_CBPS"
+   ],
+   "llmg_2042": [
+    "R_SERAT"
+   ],
+   "llmg_1110": [
+    "R_UDCPDPS"
+   ],
+   "llmg_0891": [
+    "R_URAt2"
+   ],
+   "llmg_0893": [
+    "R_ASPCT"
+   ],
+   "llmg_1114": [
+    "R_G3PD2",
+    "R_G3PD1"
+   ],
+   "llmg_0349": [
+    "R_FCCabc"
+   ],
+   "llmg_0348": [
+    "R_FCCabc"
+   ],
+   "llmg_1292": [
+    "R_IG3PS"
+   ],
+   "llmg_2196": [
+    "R_PHETRS"
+   ],
+   "llmg_2448": [
+    "R_PGI",
+    "R_G6PI"
+   ],
+   "llmg_0425": [
+    "R_MEVK"
+   ],
+   "llmg_1296": [
+    "R_ATPPRT"
+   ],
+   "llmg_0427": [
+    "R_PMEVK"
+   ],
+   "llmg_0341": [
+    "R_METDabc",
+    "R_METabc"
+   ],
+   "llmg_0340": [
+    "R_METDabc",
+    "R_METabc"
+   ],
+   "llmg_0342": [
+    "R_METDabc",
+    "R_METabc"
+   ],
+   "llmg_1317": [
+    "R_AMANAPE"
+   ],
+   "llmg_0480": [
+    "R_DGNSK",
+    "R_DADNK",
+    "R_DINSK"
+   ],
+   "llmg_0347": [
+    "R_FCCabc"
+   ],
+   "llmg_0346": [
+    "R_FCCabc"
+   ],
+   "llmg_1088": [
+    "R_GSHPO"
+   ],
+   "llmg_2017": [
+    "R_ASNTRS"
+   ],
+   "llmg_1038": [
+    "R_IGPS"
+   ],
+   "llmg_1295": [
+    "R_HISTD"
+   ],
+   "llmg_1949": [
+    "R_ATPS3r"
+   ]
+  },
+  "sbml_in": "Lactococcus_lactis_MG1363.xml",
+  "taxon_id": "416870",
+  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(lab-llac1363)-(Lactococcus_lactis_MG1363).seqplus.xml",
+  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(lab-llac1363)-(Lactococcus_lactis_MG1363).seqplus.xml",
+  "reaction2gene": {
+   "R_PPIabc": [
+    "llmg_1896",
+    "llmg_1897",
+    "llmg_1898",
+    "llmg_1899",
+    "llmg_1900",
+    "llmg_1901"
+   ],
+   "R_OIVD2": [
+    "llmg_0071",
+    "llmg_0072",
+    "llmg_0073",
+    "llmg_0074"
+   ],
+   "R_OIVD3": [
+    "llmg_0071",
+    "llmg_0072",
+    "llmg_0073",
+    "llmg_0074"
+   ],
+   "R_OIVD1": [
+    "llmg_0071",
+    "llmg_0072",
+    "llmg_0073",
+    "llmg_0074"
+   ],
+   "R_G6PI": [
+    "llmg_2448"
+   ],
+   "R_GLCpts": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_0727",
+    "llmg_0728",
+    "llmg_0729"
+   ],
+   "R_ADSS": [
+    "llmg_2201"
+   ],
+   "R_2HXICDH": [
+    "llmg_1131"
+   ],
+   "R_PRPPS": [
+    "llmg_1743",
+    "llmg_2046"
+   ],
+   "R_ASNTRS": [
+    "llmg_2017"
+   ],
+   "R_DTMPK": [
+    "llmg_0415"
+   ],
+   "R_DHNPA": [
+    "llmg_1338"
+   ],
+   "R_DCYTD": [
+    "llmg_1063"
+   ],
+   "R_HDER4": [
+    "llmg_1784"
+   ],
+   "R_UGT2_LLA": [
+    "llmg_0913"
+   ],
+   "R_ADCS": [
+    "llmg_1153",
+    "llmg_1154"
+   ],
+   "R_ASNN": [
+    "llmg_1823"
+   ],
+   "R_SHK3D": [
+    "llmg_1939"
+   ],
+   "R_METGL": [
+    "llmg_1776"
+   ],
+   "R_DHQD": [
+    "llmg_0782"
+   ],
+   "R_PFL": [
+    "llmg_0629",
+    "llmg_1997"
+   ],
+   "R_GALM": [
+    "llmg_2236"
+   ],
+   "R_DALTAL_LLA": [
+    "llmg_1219",
+    "llmg_1220",
+    "llmg_1221",
+    "llmg_1222"
+   ],
+   "R_CTPS2": [
+    "llmg_0467"
+   ],
+   "R_ACLS": [
+    "llmg_1276",
+    "llmg_1278",
+    "llmg_1279",
+    "llmg_1309"
+   ],
+   "R_OCDMAT8": [
+    "llmg_0539"
+   ],
+   "R_NOX1": [
+    "llmg_0408",
+    "llmg_1770"
+   ],
+   "R_ASPTA1": [
+    "llmg_2019"
+   ],
+   "R_PREN": [
+    "llmg_0196"
+   ],
+   "R_ADCL": [
+    "llmg_1153",
+    "llmg_1154"
+   ],
+   "R_TRE6PH": [
+    "llmg_0741"
+   ],
+   "R_DHQS": [
+    "llmg_1938"
+   ],
+   "R_HTDR6": [
+    "llmg_1784"
+   ],
+   "R_PUNP5": [
+    "llmg_1599"
+   ],
+   "R_TMN": [
+    "llmg_1961"
+   ],
+   "R_ARGTRS": [
+    "llmg_2314"
+   ],
+   "R_PUNP4": [
+    "llmg_1599"
+   ],
+   "R_MCMAT5": [
+    "llmg_1783"
+   ],
+   "R_DHPS3": [
+    "llmg_1336"
+   ],
+   "R_ACGALpts": [
+    "llmg_0126",
+    "llmg_0127"
+   ],
+   "R_PMEVK": [
+    "llmg_0427"
+   ],
+   "R_MANAO": [
+    "llmg_0858"
+   ],
+   "R_DHNAOT": [
+    "llmg_0197"
+   ],
+   "R_MCMAT3": [
+    "llmg_1783"
+   ],
+   "R_TRPTRS": [
+    "llmg_0079"
+   ],
+   "R_DHORD1": [
+    "llmg_0952",
+    "llmg_1105",
+    "llmg_1106"
+   ],
+   "R_MNLpts": [
+    "llmg_0022",
+    "llmg_0024",
+    "llmg_0126",
+    "llmg_0127"
+   ],
+   "R_ATPS3r": [
+    "llmg_1945",
+    "llmg_1946",
+    "llmg_1947",
+    "llmg_1948",
+    "llmg_1949",
+    "llmg_1950",
+    "llmg_1951",
+    "llmg_1952"
+   ],
+   "R_PAPPT1": [
+    "llmg_1678"
+   ],
+   "R_DEMAT4": [
+    "llmg_0539"
+   ],
+   "R_ALKP": [
+    "llmg_1854"
+   ],
+   "R_DAPDC": [
+    "llmg_1185"
+   ],
+   "R_HPPK": [
+    "llmg_1337"
+   ],
+   "R_IPPMIb": [
+    "llmg_1282",
+    "llmg_1284"
+   ],
+   "R_CYTK2": [
+    "llmg_0732"
+   ],
+   "R_FMNAT": [
+    "llmg_1430"
+   ],
+   "R_HHYR2": [
+    "llmg_1784"
+   ],
+   "R_SERTRS": [
+    "llmg_0722"
+   ],
+   "R_IG3PS": [
+    "llmg_1290",
+    "llmg_1292"
+   ],
+   "R_URAt2": [
+    "llmg_0891"
+   ],
+   "R_ADAD": [
+    "llmg_0762"
+   ],
+   "R_ACGApts": [
+    "llmg_0126",
+    "llmg_0127"
+   ],
+   "R_EDA": [
+    "llmg_0864"
+   ],
+   "R_G6PDHy": [
+    "llmg_2499"
+   ],
+   "R_THRS": [
+    "llmg_2387"
+   ],
+   "R_P5CR": [
+    "llmg_2077"
+   ],
+   "R_DHAPT": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_0255",
+    "llmg_0257",
+    "llmg_0258"
+   ],
+   "R_THRA": [
+    "llmg_0563"
+   ],
+   "R_G3PD4": [
+    "llmg_1098"
+   ],
+   "R_KARA2": [
+    "llmg_1277"
+   ],
+   "R_G3PD2": [
+    "llmg_1114"
+   ],
+   "R_G3PD1": [
+    "llmg_1114"
+   ],
+   "R_AALDH": [
+    "llmg_1991"
+   ],
+   "R_G3PD8": [
+    "llmg_1098"
+   ],
+   "R_DHFOR2": [
+    "llmg_1342"
+   ],
+   "R_FLVR": [
+    "llmg_0559"
+   ],
+   "R_DXPS": [
+    "llmg_0749"
+   ],
+   "R_DASYN_LLA": [
+    "llmg_2414"
+   ],
+   "R_GALU": [
+    "llmg_1113"
+   ],
+   "R_GALT": [
+    "llmg_2234"
+   ],
+   "R_TDPDRR": [
+    "llmg_0210"
+   ],
+   "R_SUCD1": [
+    "llmg_0387"
+   ],
+   "R_S6PG": [
+    "llmg_0441"
+   ],
+   "R_HCYSMT": [
+    "llmg_1681"
+   ],
+   "R_LYSt6": [
+    "llmg_0386",
+    "llmg_2477"
+   ],
+   "R_ACGAMT": [
+    "llmg_1976"
+   ],
+   "R_PRAIS": [
+    "llmg_0987"
+   ],
+   "R_S7PI": [
+    "llmg_2346"
+   ],
+   "R_PRFGS": [
+    "llmg_0974",
+    "llmg_0975",
+    "llmg_0976"
+   ],
+   "R_ILETRS": [
+    "llmg_2053"
+   ],
+   "R_POR": [
+    "llmg_0447"
+   ],
+   "R_ASNS1": [
+    "llmg_0372",
+    "llmg_2506"
+   ],
+   "R_PIabc": [
+    "llmg_1896",
+    "llmg_1897",
+    "llmg_1898",
+    "llmg_1899",
+    "llmg_1900",
+    "llmg_1901"
+   ],
+   "R_GLYC3Pt6": [
+    "llmg_0523"
+   ],
+   "R_LEUTRS": [
+    "llmg_1741"
+   ],
+   "R_METabc": [
+    "llmg_0335",
+    "llmg_0336",
+    "llmg_0338",
+    "llmg_0340",
+    "llmg_0341",
+    "llmg_0342"
+   ],
+   "R_IGPDH": [
+    "llmg_1294"
+   ],
+   "R_GK1": [
+    "llmg_2155"
+   ],
+   "R_GK2": [
+    "llmg_2155"
+   ],
+   "R_PTAVAL": [
+    "llmg_0763"
+   ],
+   "R_GUAPRT": [
+    "llmg_0020",
+    "llmg_0993"
+   ],
+   "R_ACOTA": [
+    "llmg_1756"
+   ],
+   "R_GLYTRS": [
+    "llmg_1477",
+    "llmg_1478"
+   ],
+   "R_ACODA": [
+    "llmg_0536"
+   ],
+   "R_ADSL2": [
+    "llmg_0783"
+   ],
+   "R_ALATRS": [
+    "llmg_1906"
+   ],
+   "R_ADSL1": [
+    "llmg_0783"
+   ],
+   "R_GLUDC": [
+    "llmg_1179"
+   ],
+   "R_TKT1": [
+    "llmg_0868"
+   ],
+   "R_ALAR": [
+    "llmg_1704"
+   ],
+   "R_NNAMr": [
+    "llmg_0277"
+   ],
+   "R_OHPBAT": [
+    "llmg_0565"
+   ],
+   "R_kaasIII": [
+    "llmg_1787"
+   ],
+   "R_TDMAT6": [
+    "llmg_0539"
+   ],
+   "R_AICART": [
+    "llmg_0994"
+   ],
+   "R_DAGK_LLA": [
+    "llmg_1486"
+   ],
+   "R_PGGT2": [
+    "llmg_0358",
+    "llmg_0511",
+    "llmg_1679",
+    "llmg_2392"
+   ],
+   "R_XANt2": [
+    "llmg_1345"
+   ],
+   "R_PRAMPC": [
+    "llmg_1289"
+   ],
+   "R_NAPRT": [
+    "llmg_1472"
+   ],
+   "R_ASPTA5": [
+    "llmg_0066",
+    "llmg_2019"
+   ],
+   "R_HOCR3": [
+    "llmg_1784"
+   ],
+   "R_GALTpts": [
+    "llmg_0126",
+    "llmg_0127"
+   ],
+   "R_KARA1": [
+    "llmg_1277"
+   ],
+   "R_PGDH": [
+    "llmg_0586",
+    "llmg_2469"
+   ],
+   "R_SUCH": [
+    "llmg_0744"
+   ],
+   "R_ADA": [
+    "llmg_0299",
+    "llmg_1843"
+   ],
+   "R_CARORSr": [
+    "llmg_1237"
+   ],
+   "R_DHORD6": [
+    "llmg_1105",
+    "llmg_1106"
+   ],
+   "R_PSCVT": [
+    "llmg_1926"
+   ],
+   "R_PPNCL": [
+    "llmg_0543"
+   ],
+   "R_ACHBS": [
+    "llmg_1309"
+   ],
+   "R_CRPT_25": [
+    "llmg_1603",
+    "llmg_1622",
+    "llmg_1623"
+   ],
+   "R_HMPK1": [
+    "llmg_0463",
+    "llmg_1217"
+   ],
+   "R_CFAS180": [
+    "llmg_2161"
+   ],
+   "R_DHFR": [
+    "llmg_1342"
+   ],
+   "R_UDPG4E": [
+    "llmg_2233"
+   ],
+   "R_TDPGDH": [
+    "llmg_0209"
+   ],
+   "R_FMETTRS": [
+    "llmg_2147"
+   ],
+   "R_FTHFL": [
+    "llmg_1595"
+   ],
+   "R_SER_Dt6": [
+    "llmg_0375",
+    "llmg_0376"
+   ],
+   "R_ALCD2x": [
+    "llmg_0955",
+    "llmg_2432"
+   ],
+   "R_GLUTRS": [
+    "llmg_2332"
+   ],
+   "R_ASPCT": [
+    "llmg_0893"
+   ],
+   "R_G5SD": [
+    "llmg_0886"
+   ],
+   "R_VALTRS": [
+    "llmg_2455"
+   ],
+   "R_GLYCt1": [
+    "llmg_0870",
+    "llmg_1097",
+    "llmg_2327"
+   ],
+   "R_HODHL8": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_ACPS2": [
+    "llmg_1705",
+    "llmg_1786"
+   ],
+   "R_HSTPT": [
+    "llmg_1298"
+   ],
+   "R_TRDR": [
+    "llmg_0776",
+    "llmg_1588"
+   ],
+   "R_HOCHL3": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_ARGSS": [
+    "llmg_0138"
+   ],
+   "R_METTRS": [
+    "llmg_1764"
+   ],
+   "R_TMDS_1": [
+    "llmg_0964"
+   ],
+   "R_BG_CELLB_": [
+    "llmg_0190"
+   ],
+   "R_PRASCS": [
+    "llmg_0973"
+   ],
+   "R_UAAGDS": [
+    "llmg_1989"
+   ],
+   "R_THRTRS": [
+    "llmg_2169"
+   ],
+   "R_ORNCD": [
+    "llmg_1149"
+   ],
+   "R_AGAT_LLA": [
+    "llmg_0119"
+   ],
+   "R_ALCD19": [
+    "llmg_0955"
+   ],
+   "R_PSUDS": [
+    "llmg_0384",
+    "llmg_0462",
+    "llmg_1194",
+    "llmg_1431",
+    "llmg_1524",
+    "llmg_2396",
+    "llmg_2518"
+   ],
+   "R_HDMAT7": [
+    "llmg_0539"
+   ],
+   "R_GLCP": [
+    "llmg_1869",
+    "llmg_1871"
+   ],
+   "R_ASPTA6": [
+    "llmg_0066",
+    "llmg_2019"
+   ],
+   "R_SOD": [
+    "llmg_0429"
+   ],
+   "R_ASPTA4": [
+    "llmg_2019"
+   ],
+   "R_DPMVD": [
+    "llmg_0426"
+   ],
+   "R_ASPTA2": [
+    "llmg_2019"
+   ],
+   "R_CSND": [
+    "llmg_1843"
+   ],
+   "R_ICHORS": [
+    "llmg_1828"
+   ],
+   "R_NH4t": [
+    "llmg_0910"
+   ],
+   "R_FRUK": [
+    "llmg_1006"
+   ],
+   "R_PNTK": [
+    "llmg_1058"
+   ],
+   "R_ACPSc": [
+    "llmg_0123",
+    "llmg_0397"
+   ],
+   "R_UAPGR": [
+    "llmg_1329"
+   ],
+   "R_HDDR5": [
+    "llmg_1784"
+   ],
+   "R_ARGabc": [
+    "llmg_0535",
+    "llmg_1978",
+    "llmg_1979"
+   ],
+   "R_TMPPP": [
+    "llmg_1218"
+   ],
+   "R_aratyr3": [
+    "llmg_0066"
+   ],
+   "R_2H3MPDH": [
+    "llmg_1131"
+   ],
+   "R_UGT1_LLA": [
+    "llmg_0913"
+   ],
+   "R_ICDHy": [
+    "llmg_0637"
+   ],
+   "R_GLCS1": [
+    "llmg_0158",
+    "llmg_1872"
+   ],
+   "R_DHDPRy": [
+    "llmg_0940"
+   ],
+   "R_GF6PTA": [
+    "llmg_1516"
+   ],
+   "R_GNK": [
+    "llmg_2468"
+   ],
+   "R_MANpts": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_0727",
+    "llmg_0728",
+    "llmg_0729"
+   ],
+   "R_PROTRS": [
+    "llmg_2412"
+   ],
+   "R_THFGLUS": [
+    "llmg_1334"
+   ],
+   "R_HSK": [
+    "llmg_1331"
+   ],
+   "R_ACCOAC": [
+    "llmg_1777",
+    "llmg_1778",
+    "llmg_1779",
+    "llmg_1782",
+    "llmg_1963",
+    "llmg_2162"
+   ],
+   "R_HHDR7": [
+    "llmg_1784"
+   ],
+   "R_CYTD": [
+    "llmg_1063"
+   ],
+   "R_GLYt6": [
+    "llmg_0375",
+    "llmg_0376"
+   ],
+   "R_TPI": [
+    "llmg_1424"
+   ],
+   "R_MTHPTGHM": [
+    "llmg_1225"
+   ],
+   "R_PGI": [
+    "llmg_2448"
+   ],
+   "R_GRTT": [
+    "llmg_1689"
+   ],
+   "R_ACTD": [
+    "llmg_1641"
+   ],
+   "R_UDPGALM": [
+    "llmg_0224"
+   ],
+   "R_XPPT": [
+    "llmg_1346"
+   ],
+   "R_MEVK": [
+    "llmg_0425"
+   ],
+   "R_NMNAT": [
+    "llmg_0236",
+    "llmg_1473"
+   ],
+   "R_AGDC": [
+    "llmg_1117"
+   ],
+   "R_GTPDPK": [
+    "llmg_0113",
+    "llmg_0382"
+   ],
+   "R_NDPK3": [
+    "llmg_1119"
+   ],
+   "R_NDPK1": [
+    "llmg_1119"
+   ],
+   "R_UAGPT1": [
+    "llmg_0913"
+   ],
+   "R_DUTPDP": [
+    "llmg_0191",
+    "llmg_0816"
+   ],
+   "R_PGCD": [
+    "llmg_0566",
+    "llmg_2242"
+   ],
+   "R_HSST": [
+    "llmg_2182"
+   ],
+   "R_THRD_L": [
+    "llmg_1276",
+    "llmg_1278",
+    "llmg_1279"
+   ],
+   "R_BTDD_RR": [
+    "llmg_1642"
+   ],
+   "R_M1PD": [
+    "llmg_0025"
+   ],
+   "R_GLNabc": [
+    "llmg_1942",
+    "llmg_1943"
+   ],
+   "R_aratyr4": [
+    "llmg_0066"
+   ],
+   "R_HDDHL5": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_GLUabc": [
+    "llmg_1978",
+    "llmg_1979"
+   ],
+   "R_HMGCOAS": [
+    "llmg_0929"
+   ],
+   "R_HMGCOAR": [
+    "llmg_0931"
+   ],
+   "R_PC": [
+    "llmg_0634"
+   ],
+   "R_MTAN": [
+    "llmg_2073"
+   ],
+   "R_PGMT": [
+    "llmg_0451"
+   ],
+   "R_LACZ": [
+    "llmg_1456"
+   ],
+   "R_GPDDA4": [
+    "llmg_0076",
+    "llmg_2272"
+   ],
+   "R_G6PDA": [
+    "llmg_0928"
+   ],
+   "R_DADNK": [
+    "llmg_0480",
+    "llmg_1333"
+   ],
+   "R_PFK": [
+    "llmg_1118"
+   ],
+   "R_TYRTA": [
+    "llmg_1298"
+   ],
+   "R_NPR": [
+    "llmg_0408"
+   ],
+   "R_GPDDA2": [
+    "llmg_0076",
+    "llmg_2272"
+   ],
+   "R_ASAD": [
+    "llmg_0871"
+   ],
+   "R_UAAGLS1": [
+    "llmg_1465",
+    "llmg_1989"
+   ],
+   "R_GLUR": [
+    "llmg_1187"
+   ],
+   "R_GLNS": [
+    "llmg_2484"
+   ],
+   "R_RNTR4": [
+    "llmg_0281",
+    "llmg_1542"
+   ],
+   "R_RNTR2": [
+    "llmg_0281",
+    "llmg_1542"
+   ],
+   "R_RNTR3": [
+    "llmg_0281",
+    "llmg_1542"
+   ],
+   "R_RNTR1": [
+    "llmg_0281",
+    "llmg_1542"
+   ],
+   "R_GLCNt2": [
+    "llmg_2467"
+   ],
+   "R_DADA": [
+    "llmg_0299"
+   ],
+   "R_TYRTRS": [
+    "llmg_0401"
+   ],
+   "R_TDPDRE": [
+    "llmg_0207"
+   ],
+   "R_aratyr2": [
+    "llmg_0066"
+   ],
+   "R_HSDy": [
+    "llmg_1332"
+   ],
+   "R_NMNP": [
+    "llmg_1719"
+   ],
+   "R_DAGGT_LLA": [
+    "llmg_2420",
+    "llmg_2421"
+   ],
+   "R_MTHFD": [
+    "llmg_1693"
+   ],
+   "R_PGMT_B": [
+    "llmg_0456"
+   ],
+   "R_MTHFC": [
+    "llmg_1693"
+   ],
+   "R_MI1PP": [
+    "llmg_0516"
+   ],
+   "R_RBK": [
+    "llmg_0785"
+   ],
+   "R_PTAr": [
+    "llmg_0763"
+   ],
+   "R_OCBT": [
+    "llmg_1754",
+    "llmg_2312"
+   ],
+   "R_CYTDK1": [
+    "llmg_0762"
+   ],
+   "R_CYTDK2": [
+    "llmg_0762"
+   ],
+   "R_CYTDK3": [
+    "llmg_0762"
+   ],
+   "R_DCMPDA": [
+    "llmg_1416"
+   ],
+   "R_DGNSK": [
+    "llmg_0480",
+    "llmg_1333"
+   ],
+   "R_SERAT": [
+    "llmg_2042"
+   ],
+   "R_GLUSy": [
+    "llmg_1183",
+    "llmg_1184"
+   ],
+   "R_TRPAS1": [
+    "llmg_1776"
+   ],
+   "R_IPDDI": [
+    "llmg_0428"
+   ],
+   "R_PYNP1r": [
+    "llmg_1060"
+   ],
+   "R_HHYHL2": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_GLNTRS2": [
+    "llmg_0174",
+    "llmg_0175",
+    "llmg_0176"
+   ],
+   "R_MALt2": [
+    "llmg_1637"
+   ],
+   "R_GMPR": [
+    "llmg_1412"
+   ],
+   "R_TKT2": [
+    "llmg_0868"
+   ],
+   "R_PHPDC": [
+    "llmg_2197"
+   ],
+   "R_URIK3": [
+    "llmg_0762"
+   ],
+   "R_URIK2": [
+    "llmg_0762"
+   ],
+   "R_URIK1": [
+    "llmg_0762"
+   ],
+   "R_DHAD2": [
+    "llmg_1280"
+   ],
+   "R_PYNP1": [
+    "llmg_1060"
+   ],
+   "R_SBTpts": [
+    "llmg_0126",
+    "llmg_0127"
+   ],
+   "R_PTAILE": [
+    "llmg_0763"
+   ],
+   "R_PYNP2": [
+    "llmg_1720"
+   ],
+   "R_LEUt2": [
+    "llmg_0650"
+   ],
+   "R_PYNP4": [
+    "llmg_1060"
+   ],
+   "R_aratry1": [
+    "llmg_0066"
+   ],
+   "R_CLPNS_LLA": [
+    "llmg_1558"
+   ],
+   "R_aratry2": [
+    "llmg_0066"
+   ],
+   "R_METAT": [
+    "llmg_2160"
+   ],
+   "R_DRBK": [
+    "llmg_0785"
+   ],
+   "R_OMPDC": [
+    "llmg_1107"
+   ],
+   "R_CGPT": [
+    "llmg_1604"
+   ],
+   "R_GLGC": [
+    "llmg_1873",
+    "llmg_1874"
+   ],
+   "R_BTMAT1": [
+    "llmg_0539"
+   ],
+   "R_ILEt2": [
+    "llmg_0650"
+   ],
+   "R_APAT": [
+    "llmg_0291"
+   ],
+   "R_DPR": [
+    "llmg_1131",
+    "llmg_1277"
+   ],
+   "R_HXPRT": [
+    "llmg_0020",
+    "llmg_0993"
+   ],
+   "R_SPMDabc": [
+    "llmg_1325",
+    "llmg_1326",
+    "llmg_1327",
+    "llmg_1328"
+   ],
+   "R_HIBD": [
+    "llmg_2494"
+   ],
+   "R_CYSS": [
+    "llmg_0508",
+    "llmg_1775"
+   ],
+   "R_NADK": [
+    "llmg_0383"
+   ],
+   "R_ALA_Lt6": [
+    "llmg_0375",
+    "llmg_0376"
+   ],
+   "R_RNDR4": [
+    "llmg_1543",
+    "llmg_1544"
+   ],
+   "R_CBPS": [
+    "llmg_0894",
+    "llmg_1089"
+   ],
+   "R_SO4t2": [
+    "llmg_0063"
+   ],
+   "R_HBUHL1": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_URIDK1": [
+    "llmg_2285"
+   ],
+   "R_AMANAPE": [
+    "llmg_1317"
+   ],
+   "R_ADK1": [
+    "llmg_2359"
+   ],
+   "R_RNDR2": [
+    "llmg_1543",
+    "llmg_1544"
+   ],
+   "R_ACKLEU": [
+    "llmg_2288",
+    "llmg_2289"
+   ],
+   "R_ADK2": [
+    "llmg_2359"
+   ],
+   "R_VALTA": [
+    "llmg_1181"
+   ],
+   "R_ANS1": [
+    "llmg_1030",
+    "llmg_1031"
+   ],
+   "R_METACH": [
+    "llmg_0091"
+   ],
+   "R_ALA_Dt6": [
+    "llmg_0375",
+    "llmg_0376"
+   ],
+   "R_IPPMIa": [
+    "llmg_1282",
+    "llmg_1284"
+   ],
+   "R_PHETA1": [
+    "llmg_1298"
+   ],
+   "R_HEMAT2": [
+    "llmg_0539"
+   ],
+   "R_ZN2abc2": [
+    "llmg_2398",
+    "llmg_2399",
+    "llmg_2400"
+   ],
+   "R_RNDR1": [
+    "llmg_1543",
+    "llmg_1544"
+   ],
+   "R_AMMQT8_2": [
+    "llmg_0753"
+   ],
+   "R_ARGORNt3": [
+    "llmg_2307",
+    "llmg_2311"
+   ],
+   "R_RPE": [
+    "llmg_0957",
+    "llmg_2190"
+   ],
+   "R_HETZK": [
+    "llmg_1216"
+   ],
+   "R_MNabc": [
+    "llmg_1136",
+    "llmg_1137",
+    "llmg_1138"
+   ],
+   "R_NNAT": [
+    "llmg_0236",
+    "llmg_1473"
+   ],
+   "R_CELBpts": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_0437",
+    "llmg_0438",
+    "llmg_0440"
+   ],
+   "R_GUI1": [
+    "llmg_0862"
+   ],
+   "R_GUI2": [
+    "llmg_0862"
+   ],
+   "R_DPCOAK": [
+    "llmg_0630"
+   ],
+   "R_RPI": [
+    "llmg_0958",
+    "llmg_2511"
+   ],
+   "R_DHAD1": [
+    "llmg_1280"
+   ],
+   "R_DHDPS": [
+    "llmg_0874"
+   ],
+   "R_ILETA": [
+    "llmg_1181"
+   ],
+   "R_PGM": [
+    "llmg_0355",
+    "llmg_1579",
+    "llmg_1923"
+   ],
+   "R_PGL": [
+    "llmg_2431"
+   ],
+   "R_PGK": [
+    "llmg_0253"
+   ],
+   "R_HHDHL7": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_PTRCabc": [
+    "llmg_1325",
+    "llmg_1326",
+    "llmg_1327",
+    "llmg_1328"
+   ],
+   "R_PTPAT": [
+    "llmg_2443"
+   ],
+   "R_GALK2": [
+    "llmg_2235"
+   ],
+   "R_TRPS2": [
+    "llmg_1041",
+    "llmg_1042"
+   ],
+   "R_TRPS1": [
+    "llmg_1041",
+    "llmg_1042"
+   ],
+   "R_ALATA_L": [
+    "llmg_0171"
+   ],
+   "R_PGGH": [
+    "llmg_0441",
+    "llmg_1738"
+   ],
+   "R_DHFS": [
+    "llmg_1334"
+   ],
+   "R_G3PCT": [
+    "llmg_1606"
+   ],
+   "R_PYROX": [
+    "llmg_2321"
+   ],
+   "R_RIBabc": [
+    "llmg_0787",
+    "llmg_0788",
+    "llmg_0789"
+   ],
+   "R_PFK_2": [
+    "llmg_1569"
+   ],
+   "R_SUCpts": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_1426"
+   ],
+   "R_GSHPO": [
+    "llmg_1088"
+   ],
+   "R_VALt2": [
+    "llmg_0650"
+   ],
+   "R_FTHFCL": [
+    "llmg_0181"
+   ],
+   "R_GARFT": [
+    "llmg_0988"
+   ],
+   "R_GUAt2": [
+    "llmg_1913"
+   ],
+   "R_UAGCVT": [
+    "llmg_0326",
+    "llmg_0517"
+   ],
+   "R_DURIPP": [
+    "llmg_1720"
+   ],
+   "R_FBP": [
+    "llmg_0264"
+   ],
+   "R_MALTAT": [
+    "llmg_0742",
+    "llmg_1709"
+   ],
+   "R_HSAT": [
+    "llmg_2182"
+   ],
+   "R_ACKr": [
+    "llmg_2288",
+    "llmg_2289"
+   ],
+   "R_DAHPS": [
+    "llmg_0125",
+    "llmg_1227"
+   ],
+   "R_GALt2": [
+    "llmg_2237"
+   ],
+   "R_GMPS2": [
+    "llmg_1008"
+   ],
+   "R_ACOATA": [
+    "llmg_1787"
+   ],
+   "R_AGPR": [
+    "llmg_1758"
+   ],
+   "R_GLYBabc": [
+    "llmg_1048",
+    "llmg_1049",
+    "llmg_1699",
+    "llmg_1700"
+   ],
+   "R_ADPT": [
+    "llmg_0607"
+   ],
+   "R_FBA": [
+    "llmg_2167"
+   ],
+   "R_SHKK": [
+    "llmg_1925"
+   ],
+   "R_GLYK": [
+    "llmg_1050",
+    "llmg_1099"
+   ],
+   "R_CYTB_B2": [
+    "llmg_1861",
+    "llmg_1862",
+    "llmg_1863",
+    "llmg_1864"
+   ],
+   "R_HISTP": [
+    "llmg_1288"
+   ],
+   "R_CYTK1": [
+    "llmg_0732"
+   ],
+   "R_FE2abc": [
+    "llmg_0199"
+   ],
+   "R_DMATT": [
+    "llmg_1689"
+   ],
+   "R_PMPK": [
+    "llmg_0463",
+    "llmg_1217"
+   ],
+   "R_IGPS": [
+    "llmg_1038"
+   ],
+   "R_PRAI": [
+    "llmg_1039"
+   ],
+   "R_AB6PGH": [
+    "llmg_0441",
+    "llmg_1455"
+   ],
+   "R_DURIK1": [
+    "llmg_0555"
+   ],
+   "R_HISTD": [
+    "llmg_1295"
+   ],
+   "R_PRMICI": [
+    "llmg_1291"
+   ],
+   "R_HDEHL4": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_UDPGD": [
+    "llmg_1616"
+   ],
+   "R_ALAALA": [
+    "llmg_0360"
+   ],
+   "R_METFR": [
+    "llmg_1226"
+   ],
+   "R_DPRr": [
+    "llmg_1131"
+   ],
+   "R_CMLDC": [
+    "llmg_0970",
+    "llmg_2230"
+   ],
+   "R_ENO": [
+    "llmg_0617"
+   ],
+   "R_ASPTRS": [
+    "llmg_2215"
+   ],
+   "R_CTPS1_1": [
+    "llmg_0467"
+   ],
+   "R_MAN6PI": [
+    "llmg_1789"
+   ],
+   "R_SUCBZS": [
+    "llmg_1833"
+   ],
+   "R_CHLabc": [
+    "llmg_1699",
+    "llmg_1700"
+   ],
+   "R_LDH_L": [
+    "llmg_0392",
+    "llmg_1120",
+    "llmg_1429"
+   ],
+   "R_DRPA": [
+    "llmg_1062"
+   ],
+   "R_SUCBZL": [
+    "llmg_1832"
+   ],
+   "R_LYSTRS": [
+    "llmg_0389"
+   ],
+   "R_AEPabc": [
+    "llmg_0312",
+    "llmg_0313",
+    "llmg_0314",
+    "llmg_0315"
+   ],
+   "R_PRAGS": [
+    "llmg_0997"
+   ],
+   "R_MALTabc": [
+    "llmg_0737",
+    "llmg_0738",
+    "llmg_0739"
+   ],
+   "R_URIDK2": [
+    "llmg_2285"
+   ],
+   "R_2H3MBDH": [
+    "llmg_1131"
+   ],
+   "R_APRAUR": [
+    "llmg_1532"
+   ],
+   "R_AMALT1": [
+    "llmg_1875"
+   ],
+   "R_AMALT2": [
+    "llmg_1875"
+   ],
+   "R_METTA": [
+    "llmg_0066"
+   ],
+   "R_AMALT4": [
+    "llmg_1875"
+   ],
+   "R_PPND": [
+    "llmg_1927"
+   ],
+   "R_PROabc": [
+    "llmg_1048",
+    "llmg_1049"
+   ],
+   "R_NADS1": [
+    "llmg_1470"
+   ],
+   "R_METDabc": [
+    "llmg_0335",
+    "llmg_0336",
+    "llmg_0338",
+    "llmg_0340",
+    "llmg_0341",
+    "llmg_0342"
+   ],
+   "R_FRUpts": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_0727",
+    "llmg_0728",
+    "llmg_0729",
+    "llmg_1568"
+   ],
+   "R_PSERT": [
+    "llmg_0565"
+   ],
+   "R_SPMDAT2": [
+    "llmg_0879"
+   ],
+   "R_DB4PS": [
+    "llmg_1530"
+   ],
+   "R_MALP": [
+    "llmg_0455",
+    "llmg_0745"
+   ],
+   "R_ADPRDP": [
+    "llmg_2075",
+    "llmg_2149"
+   ],
+   "R_MALT": [
+    "llmg_0744"
+   ],
+   "R_FRDx": [
+    "llmg_1441"
+   ],
+   "R_PGSA_LLA": [
+    "llmg_2224"
+   ],
+   "R_IMPD": [
+    "llmg_0230"
+   ],
+   "R_GLUABUTt7": [
+    "llmg_1178"
+   ],
+   "R_araphe3": [
+    "llmg_0066"
+   ],
+   "R_araphe2": [
+    "llmg_0066"
+   ],
+   "R_IMPC": [
+    "llmg_0994"
+   ],
+   "R_XYLI1": [
+    "llmg_1002"
+   ],
+   "R_UPPRT": [
+    "llmg_2176"
+   ],
+   "R_DHORTS": [
+    "llmg_1508"
+   ],
+   "R_UDCPDPS": [
+    "llmg_1110",
+    "llmg_2415"
+   ],
+   "R_YUMPS": [
+    "llmg_0384",
+    "llmg_0462",
+    "llmg_1194",
+    "llmg_1431",
+    "llmg_1524",
+    "llmg_2396",
+    "llmg_2518"
+   ],
+   "R_ACONT": [
+    "llmg_0636"
+   ],
+   "R_HEX1": [
+    "llmg_2299"
+   ],
+   "R_SERD_L": [
+    "llmg_1732",
+    "llmg_1733"
+   ],
+   "R_PPNDH": [
+    "llmg_1924"
+   ],
+   "R_UGLDDS1": [
+    "llmg_0361"
+   ],
+   "R_TMDPK": [
+    "llmg_2013"
+   ],
+   "R_G1PACT": [
+    "llmg_2076"
+   ],
+   "R_UAMAS": [
+    "llmg_2316"
+   ],
+   "R_DADK": [
+    "llmg_2359"
+   ],
+   "R_MCMAT7": [
+    "llmg_1783"
+   ],
+   "R_MCMAT6": [
+    "llmg_1783"
+   ],
+   "R_PUNP7": [
+    "llmg_1599"
+   ],
+   "R_MCMAT4": [
+    "llmg_1783"
+   ],
+   "R_PUNP1": [
+    "llmg_1599"
+   ],
+   "R_MCMAT2": [
+    "llmg_1783"
+   ],
+   "R_PUNP3": [
+    "llmg_1599"
+   ],
+   "R_PUNP2": [
+    "llmg_1599"
+   ],
+   "R_GLUPRT": [
+    "llmg_0977"
+   ],
+   "R_LEUTA": [
+    "llmg_1181"
+   ],
+   "R_OCMAT3": [
+    "llmg_0539"
+   ],
+   "R_MCMAT8": [
+    "llmg_1783"
+   ],
+   "R_ACALD": [
+    "llmg_2432"
+   ],
+   "R_MALLAC": [
+    "llmg_1638"
+   ],
+   "R_UAGDP": [
+    "llmg_2076"
+   ],
+   "R_SHSL1": [
+    "llmg_2181"
+   ],
+   "R_CS": [
+    "llmg_0635"
+   ],
+   "R_HODR8": [
+    "llmg_1784"
+   ],
+   "R_SHSL5": [
+    "llmg_2181"
+   ],
+   "R_GLU5K": [
+    "llmg_0885"
+   ],
+   "R_CBMK3": [
+    "llmg_2309",
+    "llmg_2310"
+   ],
+   "R_UAMAGS": [
+    "llmg_0912"
+   ],
+   "R_2S6HCC": [
+    "llmg_1829"
+   ],
+   "R_ACKVAL": [
+    "llmg_2288",
+    "llmg_2289"
+   ],
+   "R_MACPMT": [
+    "llmg_1785"
+   ],
+   "R_RBFK": [
+    "llmg_1430"
+   ],
+   "R_F1PK": [
+    "llmg_1569"
+   ],
+   "R_PSP_L": [
+    "llmg_0567"
+   ],
+   "R_UDCPK": [
+    "llmg_2476"
+   ],
+   "R_MNNH": [
+    "llmg_0859"
+   ],
+   "R_GTPCII": [
+    "llmg_1530"
+   ],
+   "R_TMDPP": [
+    "llmg_1060"
+   ],
+   "R_SPMDAT1": [
+    "llmg_0879"
+   ],
+   "R_ANPRT": [
+    "llmg_1032"
+   ],
+   "R_aratyr1": [
+    "llmg_0066"
+   ],
+   "R_ARGDI": [
+    "llmg_2313"
+   ],
+   "R_HARAAT": [
+    "llmg_0500"
+   ],
+   "R_AMALT3": [
+    "llmg_1875"
+   ],
+   "R_DDMAT5": [
+    "llmg_0539"
+   ],
+   "R_AHMMPS": [
+    "llmg_0388",
+    "llmg_1450"
+   ],
+   "R_CYSTRS": [
+    "llmg_2040"
+   ],
+   "R_G1PTMT": [
+    "llmg_0206"
+   ],
+   "R_NADH4": [
+    "llmg_1734",
+    "llmg_1735"
+   ],
+   "R_TMDK2": [
+    "llmg_0555"
+   ],
+   "R_AHCYSNS": [
+    "llmg_2073"
+   ],
+   "R_GPDDA5": [
+    "llmg_0076",
+    "llmg_2272"
+   ],
+   "R_TMDK1": [
+    "llmg_0555"
+   ],
+   "R_GPDDA3": [
+    "llmg_0076",
+    "llmg_2272"
+   ],
+   "R_araphe1": [
+    "llmg_0066"
+   ],
+   "R_GPDDA1": [
+    "llmg_0076",
+    "llmg_2272"
+   ],
+   "R_FCCabc": [
+    "llmg_0346",
+    "llmg_0347",
+    "llmg_0348",
+    "llmg_0349"
+   ],
+   "R_HBUR1": [
+    "llmg_1784"
+   ],
+   "R_GAPD": [
+    "llmg_0530",
+    "llmg_2539"
+   ],
+   "R_AIRC": [
+    "llmg_0999",
+    "llmg_1000"
+   ],
+   "R_GTHRD": [
+    "llmg_1702"
+   ],
+   "R_HTDHL6": [
+    "llmg_0538",
+    "llmg_1781"
+   ],
+   "R_HISTRS": [
+    "llmg_1297",
+    "llmg_2217"
+   ],
+   "R_CYSTGL": [
+    "llmg_1776"
+   ],
+   "R_CYSTL": [
+    "llmg_1776"
+   ],
+   "R_ARGSL": [
+    "llmg_0139"
+   ],
+   "R_PRATPP": [
+    "llmg_1289"
+   ],
+   "R_NPHS": [
+    "llmg_1831"
+   ],
+   "R_PUNP6": [
+    "llmg_1599"
+   ],
+   "R_ORPT": [
+    "llmg_1509"
+   ],
+   "R_RNDR3": [
+    "llmg_1543",
+    "llmg_1544"
+   ],
+   "R_ADPDS": [
+    "llmg_0292"
+   ],
+   "R_FMETDF": [
+    "llmg_0532"
+   ],
+   "R_DINSK": [
+    "llmg_0480"
+   ],
+   "R_PYK": [
+    "llmg_1119"
+   ],
+   "R_THDPS": [
+    "llmg_0291"
+   ],
+   "R_PDH": [
+    "llmg_0071",
+    "llmg_0072",
+    "llmg_0073",
+    "llmg_0074"
+   ],
+   "R_CHORS": [
+    "llmg_1934"
+   ],
+   "R_CPPPGO": [
+    "llmg_1418"
+   ],
+   "R_GTPCI": [
+    "llmg_1337"
+   ],
+   "R_NOX2": [
+    "llmg_0408",
+    "llmg_1770"
+   ],
+   "R_ACGK": [
+    "llmg_1755"
+   ],
+   "R_PGAMT": [
+    "llmg_0451"
+   ],
+   "R_ASPK": [
+    "llmg_1820"
+   ],
+   "R_PPM2": [
+    "llmg_1601"
+   ],
+   "R_CHORM": [
+    "llmg_2481"
+   ],
+   "R_ATPPRT": [
+    "llmg_1296"
+   ],
+   "R_RBFSb": [
+    "llmg_1529"
+   ],
+   "R_RBFSa": [
+    "llmg_1531"
+   ],
+   "R_GLUTRS2": [
+    "llmg_2332"
+   ],
+   "R_ASPR": [
+    "llmg_2504"
+   ],
+   "R_XYLI2": [
+    "llmg_1002"
+   ],
+   "R_CHITN1": [
+    "llmg_2199"
+   ],
+   "R_ACLDC": [
+    "llmg_1275",
+    "llmg_1464"
+   ],
+   "R_ACKILE": [
+    "llmg_2288",
+    "llmg_2289"
+   ],
+   "R_TREpts": [
+    "llmg_0126",
+    "llmg_0127",
+    "llmg_0454"
+   ],
+   "R_ORNTAC": [
+    "llmg_1757"
+   ],
+   "R_PTALEU": [
+    "llmg_0763"
+   ],
+   "R_PHETRS": [
+    "llmg_2195",
+    "llmg_2196"
+   ],
+   "R_AKGTA3": [
+    "llmg_0066"
+   ],
+   "R_DHPPDA_1": [
+    "llmg_1532"
+   ],
+   "R_PPA": [
+    "llmg_1996"
+   ],
+   "R_PPCDC": [
+    "llmg_0543"
+   ],
+   "R_GHMT": [
+    "llmg_0563"
+   ],
+   "R_PPM": [
+    "llmg_1601"
+   ],
+   "R_ACACT1r": [
+    "llmg_0930"
+   ],
+   "R_HXANt2": [
+    "llmg_1913"
+   ]
+  }
+ }
+}

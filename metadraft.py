@@ -51,7 +51,7 @@ try:
 except ImportError:
     HAVE_DOCX = False
 
-__version__ = '0.8.0'
+__version__ = '0.8.1'
 
 HAVE_QT4 = False
 HAVE_QT5 = False
@@ -160,7 +160,7 @@ class StreamToLogger(object):
 
 
 ## 0: developer, 1: partner, 2: public
-RELEASE_STATUS = 1
+RELEASE_STATUS = 0
 
 if RELEASE_STATUS > 0:
     __DEBUG__ = False
