@@ -32,6 +32,11 @@ Contact email: bgoli@users.sourceforge.net
 import os, sys, random, json, itertools, datetime, re, logging, webbrowser, copy
 import zipfile, json, shutil, subprocess, math, time, threading, pprint, stat, csv
 
+try:
+    type(reduce)
+except NameError:
+    from functools import reduce
+
 import sip
 API_NAMES = ["QDate", "QDateTime", "QString", "QTextStream", "QTime", "QUrl", "QVariant"]
 API_VERSION = 2
@@ -50,6 +55,7 @@ try:
     HAVE_DOCX = True
 except ImportError:
     HAVE_DOCX = False
+
 
 __version__ = '0.8.1'
 
@@ -160,7 +166,7 @@ class StreamToLogger(object):
 
 
 ## 0: developer, 1: partner, 2: public
-RELEASE_STATUS = 0
+RELEASE_STATUS = 1
 
 if RELEASE_STATUS > 0:
     __DEBUG__ = False
@@ -734,7 +740,7 @@ class MetaDraftGUI(QWidget):
         seq = []
         seqout = {}
         if fname.endswith('.gbk') or fname.endswith('.gb') or fname.endswith('.gbff'):
-            GBFile = file(fname, 'r')
+            GBFile = open(fname, 'r')
             GBcds = biotools.Bio.SeqIO.InsdcIO.GenBankCdsFeatureIterator(GBFile)
             for cds in GBcds:
                 if cds.seq != None:
@@ -1099,7 +1105,6 @@ class MetaDraftGUI(QWidget):
         except:
             try:
                 html = html.decode('utf-8', 'ignore')
-                html = html.encode('utf-8', 'ignore').strip()
             except Exception as ex:
                 print('Could not encode report')
                 print(ex)
@@ -1113,7 +1118,10 @@ class MetaDraftGUI(QWidget):
         textWindow = QTextBrowser(self.widget_reportViewApp)
         textWindow.setOpenLinks(True)
         textWindow.setReadOnly(True)
-        textWindow.setText(html)
+        try:
+            textWindow.setText(html)
+        except TypeError:
+            textWindow.setText(str(html))
 
         @pyqtSlot()
         def exportHTML():
@@ -1133,7 +1141,10 @@ class MetaDraftGUI(QWidget):
             path = os.path.abspath(os.path.join(self._tmpDir_, '_view_rpt_.html'))
             url = 'file://' + path
             with open(path, 'w') as f:
-                f.write(html)
+                try:
+                    f.write(html)
+                except TypeError:
+                    f.write(str(html))
             webbrowser.open_new_tab(url)
             self.widget_reportViewApp.close()
 
@@ -2724,13 +2735,13 @@ class MetaDraftGUI(QWidget):
             linkDict['__metaproteome__']['benchmark'] = None
 
         outfname1 = os.path.split(input_fasta)[-1]
-        Fj = file(os.path.join(wDir, outfname1.replace('.fasta','.search_results.json')), 'w')
+        Fj = open(os.path.join(wDir, outfname1.replace('.fasta','.search_results.json')), 'w')
         json.dump(resmatch, Fj, indent=1, separators=(',', ': '))
         Fj.close()
 
-        #Fj = file(linkd, 'w')
+        #Fj = open(linkd, 'w')
         new_ldict = os.path.join(wDir, os.path.split(linkd)[-1])
-        Fj = file(new_ldict, 'w')
+        Fj = open(new_ldict, 'w')
         json.dump(linkDict, Fj, indent=1, separators=(',', ': '))
         Fj.close()
 
@@ -3010,10 +3021,10 @@ class MetaDraftGUI(QWidget):
                 grp_colour = None
                 #print(t_, sres[t_])
                 if len(sres[t_]) > 1:
-                    grp_colour = self._colourCycler_.next()
+                    grp_colour = next(self._colourCycler_)
                     vals = [sres[t_][g] for g in sres[t_]]
                 else:
-                    vals = [sres[t_].values()[0]]
+                    vals = [list(sres[t_].values())[0]]
 
                 for g_ in sres[t_]:
                     item0 = QTableWidgetItem(str(t_))
@@ -3710,10 +3721,10 @@ class MetaDraftGUI(QWidget):
 
     def widgetResultTree_item(self, item, value):
         if type(value) is dict:
-            for key, val in value.iteritems():
+            for key, val in value.items():
                 child = QTreeWidgetItem()
                 if val is None:
-                    child.setText(0, unicode(key.replace('_metalink.resplus.json', '')))
+                    child.setText(0, u'{}'.format(key.replace('_metalink.resplus.json', '')))
                     ## this is the timestamp code that has now been removed
                     ##print(item.text(0), key, val)
                     ##try:
@@ -3724,7 +3735,7 @@ class MetaDraftGUI(QWidget):
                         ##print('DEBUG: {}'.format(self.getRtreeItemPath(item)), key, value)
                     child.setExpanded(True)
                 else:
-                    child.setText(0, unicode(key))
+                    child.setText(0, u'{}'.format(key))
 
                 item.addChild(child)
                 self.widgetResultTree_item(child, val)
@@ -3971,7 +3982,7 @@ class MetaDraftGUI(QWidget):
         #pprint.pprint(selstate['selected_genes'])
 
     def func_saveResultsFile(self):
-        fp = file(self.result_file, 'w')
+        fp = open(self.result_file, 'w')
         json.dump(self._DAT_LINK_DICT_, fp, indent=1, separators=(',', ': '))
         fp.flush()
         fp.close()
@@ -4089,7 +4100,7 @@ class ConfigPanelWidgetINP(QWidget, InputValidators):
         self.kobjdict = {}
         self.setWindowModality(Qt.ApplicationModal)
 
-        keys =  getattr(dictobject, dictname).keys()
+        keys =  list(getattr(dictobject, dictname).keys())
         keys.sort()
 
         self.grid = QGridLayout(self)

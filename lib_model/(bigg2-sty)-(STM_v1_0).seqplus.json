@@ -1273,7 +1273,7 @@
   "STM4415": "bigg2-sty"
  },
  "bigg2-sty": {
-  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\data\\bigg2",
+  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\data\\bigg2",
   "genbank_in": "STM_v1_0-(AE006468.1).gbk",
   "gene2reaction": {
    "STM3699": [
@@ -7751,8 +7751,8 @@
   },
   "sbml_in": "STM_v1_0.xml",
   "taxon_id": "99287",
-  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(bigg2-sty)-(STM_v1_0).seqplus.xml",
-  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(bigg2-sty)-(STM_v1_0).seqplus.xml",
+  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(bigg2-sty)-(STM_v1_0).seqplus.xml",
+  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(bigg2-sty)-(STM_v1_0).seqplus.xml",
   "reaction2gene": {
    "R_CTPS2": [
     "STM2953"

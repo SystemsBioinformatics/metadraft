@@ -1,6 +1,6 @@
 {
  "lab-lplawcfs1": {
-  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\data\\lab",
+  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\data\\lab",
   "genbank_in": "Lactobacillus_plantarum_WCFS1.gbk",
   "gene2reaction": {
    "lp_0263": [
@@ -2471,8 +2471,8 @@
   },
   "sbml_in": "Lactobacillus_plantarum_WCFS1_includingChargeChemForm.xml",
   "taxon_id": "220668",
-  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(lab-lplawcfs1)-(Lactobacillus_plantarum_WCFS1_includingChargeChemForm).seqplus.xml",
-  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(lab-lplawcfs1)-(Lactobacillus_plantarum_WCFS1_includingChargeChemForm).seqplus.xml",
+  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(lab-lplawcfs1)-(Lactobacillus_plantarum_WCFS1_includingChargeChemForm).seqplus.xml",
+  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(lab-lplawcfs1)-(Lactobacillus_plantarum_WCFS1_includingChargeChemForm).seqplus.xml",
   "reaction2gene": {
    "R_CITt6": [
     "lp_0594"

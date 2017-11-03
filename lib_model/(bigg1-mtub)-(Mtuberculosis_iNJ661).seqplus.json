@@ -663,7 +663,7 @@
   "Rv1415": "bigg1-mtub"
  },
  "bigg1-mtub": {
-  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\data\\bigg1",
+  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\data\\bigg1",
   "genbank_in": "Mtuberculosis_iNJ661-NC_000962.gbk",
   "gene2reaction": {
    "Rv2763c": [
@@ -3126,8 +3126,8 @@
   },
   "sbml_in": "Mtuberculosis_iNJ661.xml",
   "taxon_id": "83332",
-  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(bigg1-mtub)-(Mtuberculosis_iNJ661).seqplus.xml",
-  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(bigg1-mtub)-(Mtuberculosis_iNJ661).seqplus.xml",
+  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(bigg1-mtub)-(Mtuberculosis_iNJ661).seqplus.xml",
+  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(bigg1-mtub)-(Mtuberculosis_iNJ661).seqplus.xml",
   "reaction2gene": {
    "R_CTPS2": [
     "Rv1699"

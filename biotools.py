@@ -179,7 +179,9 @@ def checkModelLocusTags(sbml, genbank):
 
 
             #global features
-            features = [f.qualifiers for f in seq_record.features if f.type == 'source'][0]
+            features = [f.qualifiers for f in seq_record.features if f.type == 'source']
+            if len(features) > 0:
+                features = features[0]
             for f_ in features:
                 if f_ == 'db_xref':
                     for ff_ in features[f_]:
@@ -264,10 +266,10 @@ def addSeqAnnotation(emod, gpr, good, updated, update_tags=True):
     geneAnnot = {}
 
     for gp in emod.gpr:
-        if emod.__FBC_VERSION__ < 2:
-            geneIDs = gp.getGeneIds()
-        else:
-            geneIDs = gp.getGeneLabels()
+        #if emod.__FBC_VERSION__ < 2:
+            #geneIDs = gp.getGeneIds()
+        #else:
+        geneIDs = gp.getGeneLabels()
         for g_ in geneIDs:
             if g_ in good:
                 emod.getReaction(gp.getProtein()).setAnnotation('gbank_seq_{}'.format(g_),'{}'.format(str(gpr[g_].seq)))
@@ -655,7 +657,7 @@ def createParanoidFASTAfromFile(gbkf, ext_replace='.in.fasta', gene_prefix=None)
                     proteins[cds.name] = cds
             GBFile.close()
         else:
-            raise RuntimeError, 'ERROR: Unknown file: {}'.format(fasta)
+            raise RuntimeError('ERROR: Unknown file: {}'.format(fasta))
 
     print('\nProteins: {}\n'.format(len(proteins)))
 
@@ -732,12 +734,12 @@ def createSeqplusModel(modlist, data_dir, model_dir, lib_set, gene_db=None, add_
         print('\ngood: {}\nupdated: {}\nnoseq: {}\nunknown: {}\n'.format(len(good), updated, noseq, unknown))
         # Now we annotate the model with the genbank sequences
         addSeqAnnotation(emod, gpr, good, updated, update_tags=True)
-        if emod.__FBC_VERSION__ < 2:
-            LD['gene2reaction'] = emod.getAllProteinGeneAssociations()
-            LD['reaction2gene'] = emod.getAllGeneProteinAssociations()
-        else:
-            LD['gene2reaction'] = emod.getAllProteinGeneAssociations(use_labels=True)
-            LD['reaction2gene'] = emod.getAllGeneProteinAssociations(use_labels=True)
+        #if emod.__FBC_VERSION__ < 2:
+            #LD['gene2reaction'] = emod.getAllProteinGeneAssociations()
+            #LD['reaction2gene'] = emod.getAllGeneProteinAssociations()
+        #else:
+        LD['gene2reaction'] = emod.getAllProteinGeneAssociations(use_labels=True)
+        LD['reaction2gene'] = emod.getAllGeneProteinAssociations(use_labels=True)
 
         for g_ in LD['gene2reaction']:
             linkDict['__idx__'][g_] = oid
@@ -758,7 +760,7 @@ def createSeqplusModel(modlist, data_dir, model_dir, lib_set, gene_db=None, add_
             if len(LD['reaction2gene'][k_]) == 0:
                 print('INFO: Reaction has no genes associated:', k_, LD['reaction2gene'][k_])
                 LD['reaction2gene'].pop(k_)
-                time.sleep(1)
+                #time.sleep(1)
 
         sbmlfname = os.path.split(fmod)[-1].replace('.xml','.seqplus.xml')
         sbmloutalt = os.path.join(model_dir, '({})-({}'.format(oid, sbmlfname.replace('.seqplus.',').seqplus.')))

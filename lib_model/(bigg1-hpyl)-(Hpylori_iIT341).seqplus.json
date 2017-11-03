@@ -341,7 +341,7 @@
   "HP0144": "bigg1-hpyl"
  },
  "bigg1-hpyl": {
-  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\data\\bigg1",
+  "data_path": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\data\\bigg1",
   "genbank_in": "Hpylori_iIT341-NC_000915.gbk",
   "gene2reaction": {
    "HP0191": [
@@ -1486,8 +1486,8 @@
   },
   "sbml_in": "Hpylori_iIT341.xml",
   "taxon_id": "85962",
-  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(bigg1-hpyl)-(Hpylori_iIT341).seqplus.xml",
-  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.0\\lib_model\\(bigg1-hpyl)-(Hpylori_iIT341).seqplus.xml",
+  "sbml_out_generic": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(bigg1-hpyl)-(Hpylori_iIT341).seqplus.xml",
+  "sbml_out": "d:\\cloud\\surfdrive\\release\\metadraft\\metadraft-0.8.1\\lib_model\\(bigg1-hpyl)-(Hpylori_iIT341).seqplus.xml",
   "reaction2gene": {
    "R_HPROx": [
     "HP0056"
